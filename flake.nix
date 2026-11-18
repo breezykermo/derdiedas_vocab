@@ -13,6 +13,7 @@
 
         pythonEnv = pkgs.python3.withPackages (ps: [
           ps.genanki
+          ps.beautifulsoup4
         ]);
 
         derdiedas-to-anki = pkgs.writeShellApplication {

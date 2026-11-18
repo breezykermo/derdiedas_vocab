@@ -54,3 +54,19 @@ script and re-importing updates the existing deck/notes rather than duplicating 
 If you imported the old per-thema decks (`Kapitel 1: Thema 1` etc.), delete them
 in Anki after importing the new chapter deck: the note GUIDs changed, so they
 won't be updated in place.
+
+## 4. Podcast and speaking prompts
+
+`podcasts/kapitel-N.txt` (NotebookLM Audio Overview sources) and
+`speaking/kapitel-N.txt` (voice practice with Claude) are generated from
+`vocab/` plus the course's grammar slides in `course/`:
+
+```bash
+just prompts
+```
+
+Each prompt holds the conversation to what's known by the end of chapter N:
+the cumulative vocabulary lists, the grammar of chapters 1–N, and a
+**NOT YET LEARNED** section listing later grammar (`MILESTONES` in
+`make_prompts.py`) and everyday words (`EVERYDAY_WORDS`) whose chapter is
+looked up in the vocab, e.g. `in`/`auf` until chapter 7, `weil`/`dass` until 10.

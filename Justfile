@@ -34,6 +34,10 @@ build *files:
 all dir="decks":
     nix develop --command bash -c 'python derdiedas_to_anki.py --vocab vocab/*.json --outdir "{{dir}}"'
 
+# Regenerate podcasts/ and speaking/ sources from vocab/ and course/.
+prompts:
+    nix develop --command python make_prompts.py
+
 # Remove generated .apkg files.
 clean:
     rm -f *.apkg decks/*.apkg
