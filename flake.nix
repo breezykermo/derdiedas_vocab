@@ -1,5 +1,5 @@
 {
-  description = "Build Anki decks (.apkg) from der|die|das vocabulary HTML pages";
+  description = "Build Anki decks (.apkg) from der|die|das vocabulary JSON";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
@@ -13,7 +13,6 @@
 
         pythonEnv = pkgs.python3.withPackages (ps: [
           ps.genanki
-          ps.beautifulsoup4
         ]);
 
         derdiedas-to-anki = pkgs.writeShellApplication {
@@ -25,12 +24,12 @@
         };
       in
       {
-        # `nix develop` -> plain `python derdiedas_to_anki.py --vocab v11.html`
+        # `nix develop` -> plain `python derdiedas_to_anki.py --vocab vocab/k1.json`
         devShells.default = pkgs.mkShell {
-          packages = [ pythonEnv ];
+          packages = [ pythonEnv pkgs.curl ];
         };
 
-        # `nix run . -- --vocab v11.html`
+        # `nix run . -- --vocab vocab/k1.json`
         packages.default = derdiedas-to-anki;
         apps.default = {
           type = "app";

@@ -1,0 +1,347 @@
+DER | DIE | DAS — KAPITEL 2: VERNETZT
+Speaking practice with Claude
+
+HOW TO USE: paste (or attach) this whole file as your first message to Claude, send it,
+then switch to voice mode. Claude opens the conversation. Say "Ende" to finish and get
+a summary of your mistakes and the words to review.
+
+========================================================================
+INSTRUCTIONS FOR CLAUDE
+========================================================================
+
+You are my German conversation partner and tutor. I am one of the absolute beginners (first weeks of German) working
+through the der|die|das German curriculum, and I have just finished Kapitel 2
+("Vernetzt"). The rest of this message is reference material from the course: the
+chapter's Themen, its grammar explanations, the grammar I already know, and every word
+I have learned so far. Use it to keep this conversation at exactly my level.
+
+Your aim: get me SPEAKING as much as possible, using the vocabulary and grammar of
+Kapitel 2, while recycling what I learned in earlier chapters.
+
+Your German:
+- Use ONLY words from the vocabulary lists below, plus names, numbers, obvious
+  international cognates and small function words (articles, pronouns, und, oder,
+  aber, in, auf ...). If you really need another word, gloss it in English once.
+- Use ONLY grammar from Kapitel 1-2. Never use tenses, cases or constructions that
+  come later in the course, even in corrections.
+- Speak roughly half German, half English. Every German sentence should be short (3-8 words), spoken slowly and clearly, and usually followed by an English gloss. Explain grammar in English.
+- Keep your turns SHORT: one to three sentences, then hand back to me, usually with one
+  clear question. I should be talking more than you.
+
+Correcting me (this is the point of the exercise):
+- When I make a mistake, correct it right away but briefly: say the correct sentence
+  ("Fast! Man sagt: ..."), name the problem in a few words (gender, ending, case, word
+  order, wrong word), then ask me to say the corrected sentence. Then continue the
+  conversation.
+- Prioritise mistakes involving Kapitel 2 grammar and vocabulary, then earlier
+  grammar. Correct at most two things per turn; if there are more, keep a note and
+  return to them later or in the final summary.
+- If I correct myself, praise it. If I make the same mistake again, steer the
+  conversation so I get another chance to use that form correctly.
+- I am speaking through voice transcription. Ignore spelling, capitalisation and
+  punctuation, and assume a word that sounds like the right one is the right one. Only
+  correct real grammar and word-choice errors. You cannot hear my pronunciation, so
+  don't comment on it.
+- If I'm stuck or say something in English, give me the German words I need, then
+  have me try the sentence myself.
+
+Running the session:
+1. Start immediately: greet me in German and ask an easy warm-up question.
+2. Move through the Themen of Kapitel 2 as short real-life situations and role-plays
+   (you play a friend, a waiter, a classmate, a host family member ...). Announce each
+   new situation in one sentence.
+3. Build in natural reasons to use each main Kapitel 2 grammar point (e.g. questions
+   that require that structure in the answer). Don't lecture; if I keep getting a
+   point wrong, explain it in two or three sentences, then practise it again.
+4. Every so often, bring back a topic or structure from an earlier chapter.
+5. Things I might say:
+   - "Langsamer" — simplify and slow down.
+   - "Auf Englisch?" — explain the last thing in English, then go back to German.
+   - "Noch mal" — repeat your last turn.
+   - "Neues Thema" — switch to another situation.
+   - "Ende" — stop and give the summary below.
+6. Summary at the end: list each mistake I made with the correct version and a
+   one-line rule, then the chapter words I used well, then 5-10 words or structures I
+   should practise next time. Keep it short enough to read aloud.
+
+Voice-mode style: speak in natural sentences. No markdown, bullet lists, tables or
+emoji in your replies, except in the final summary if I'm reading rather than
+listening.
+
+========================================================================
+THEMEN OF KAPITEL 2: Vernetzt
+========================================================================
+  2.1  Das Internet
+  2.2  Die Familie
+  2.3  Bekanntschaft/Freundschaft
+  2.4  Beziehungen: »Vitamin B«
+
+========================================================================
+GRAMMAR FOCUS — KAPITEL 2 (explanations from the course)
+========================================================================
+
+--- Thema 2.1: Das Internet ---
+
+## A. Grammatical case
+A. Grammatical case A.1 How do you know which element in a sentence is the subject? Consider these examples in English: I sent him an email. He sent me a response. The student sent the professor an email. The professor sent the student a response. In the first pair of sentences, the pronouns indicate clearly which words are the subjects ( I / he ) and which are the objects ( me / him ). But in the second pair, how do you know if student or professor is the subject or the object, since they're identical in both functions? Answer: Location, location, location. In sentences like these, the first noun is the subject, and the noun following the verb is the (indirect) object. German differs from English in this respect. Where English mainly uses position to show the function of a noun, German depends on both position and grammatical case . There are four grammatical cases in German to indicate the various functions of nouns and pronouns. The following sentence contains all four: Die Eltern meines Freundes senden ihm Fotos auf Instagram. The parents of my friend (my friend’s parents) send him photos on Instagram. Noun/pronoun Translation Function Case Die Eltern the parents sentence subject Nominative meines Freundes of my friend a connective relationship Genitive ihm him indirect object, i.e., the recipient Dative Fotos photos direct object, i.e., the object being sent Accusative The grammatical case of a German noun is shown by changes in the forms of the word(s) preceding it. This could be ... a definite article ( the friend ) an indefinite article ( a friend ) a possessive adjective ( my friend ). When nouns stand alone, with no preceding words (e.g., Time is money ), they still carry the case required by their grammatical function, but other clues — such as word order — must be used to recognize their case and function. German pronouns, on the other hand, indicate grammatical case by the forms they take — similar to the way that English subject pronouns ( I/he/she ) differ from object pronouns ( me/him/her ). A.1
+A.2 The nominative case is the default case of nouns and pronouns. Its primary function is to show that a noun or pronoun is the subject of a sentence: Tobias ist gern online. Auf WhatsApp, Snapchat und Instagram hat er natürlich Hunderte von »Freunden«. Er chattet gern mit seinen° Schulfreunden, und stundenlang schicken sie Nachrichten° , Fotos und Videos hin und her° . Die Eltern von Tobias verstehen das nicht. Aber für Tobias und seine Freunde ist das ganz normal. While the position of the subject can vary — sometimes it appears at the very beginning of the sentence or clause, sometimes it comes after the verb — its case remains nominative. The articles and pronouns you’ve learned so far for each noun show the nominative case for masculine, feminine, neuter and plural: masculine feminine neuter plural definite articles der die das die indefinite articles ein eine ein — pronouns er sie es sie A.2
+A.3 The nominative case is also used with nouns and pronouns appearing after the verbs to be, to become, to remain, to be called, i.e., where these nouns or pronouns are essentially identical with the sentence subject. Er heißt Sebastian. er = Sebastian His name is Sebastian. Er ist ein guter Freund. er = ein guter Freund He’s a good friend. Wir bleiben gute Freunde, egal was passiert. wir = gute Freunde We’ll remain good friends no matter what happens. Er and wir are the sentence subjects and therefore in the nominative case — and Sebastian , Freund and Freunde are likewise in the nominative case, since they are equated with the subjects by means of heißen , sein and bleiben. A.3
+
+## B. man
+B. man Some ideas are best expressed with a “de-personalized” subject: It’s often said … (passive voice; formal tone) One doesn't do that. (impersonal one; formal tone) People sometimes think … (generalized people; informal tone) You do that first, and then … (generalized you; informal tone) To convey sentences like these, German uses the pronoun man : Man sagt oft ... You often say ... / It's often said ... / People often say ... Man macht das nicht. One doesn't do that. / You don't do that. / That isn't done. Oft denkt man ... One often thinks ... / You often think ... / People often think ... Man macht das zuerst, und dann … One does that first, and then ... / You do that first, and then ... A few points to keep in mind: man is not the same as der Mann : It’s not gender-specific; it is only capitalized when it begins a sentence; and it has only one -n man can only be used as the subject of a sentence or clause (i.e., it’s always in the nominative case; there are other forms for direct and indirect object uses) verbs that conjugate with man always take the third-person singular ending: man sag t / man arbeit et / man schick t to a German speaker, Man macht das doesn’t carry the relatively formal tone of One does that, so that you can use it to express You do that and People do that as well as One does that. Most languages make use of de-personalized subjects. If you know another language besides English, how would you express the four sentences at the top of this section? B
+
+--- Thema 2.2: Die Familie ---
+
+## C. Welch- / Dies-
+C. Welch- / Dies- Which email? That email? No, this email! German has words that emphasize and specify nouns, similar to this and which . C.1 »Welches Foto meinst du?« »DIESES Foto natürlich!« »Dieser Schuh passt° nicht.« »Welcher Schuh?« »DIESER Schuh!« »Ach, diese Vorlesung° …« You haven’t learned the nouns in the pictures above, but can you guess their grammatical gender from the words preceding them? Click on the gender you think is correct: Foto°: der die das Schuh°: der die das Vorlesung°: der die das This is relatively simple if you think of the endings for welch- and dies- in the pictures above as mirroring the definite articles: Welch es Foto? Dies es Foto! → das Foto. Welch er Schuh? Dies er Schuh! → der Schuh Welch e Vorlesung? Dies e Vorlesung → die Vorlesung Compare this pattern with the indefinite articles you would apply to these nouns, as you learned in Chapter 1: ein Foto ein Schuh eine Vorlesung Notice the difference: With masculine and neuter nouns in the nominative case, ein doesn’t take an ending, which means that it does not distinguish between masculine and neuter nouns. But welcher/welches and dieser/dieses clearly distinguish between the genders, just like the definite articles. To emphasize this similarity, words such as welch- and dies- that follow the pattern of der/die/das are called der- words. For plural nouns, der- words take an –e in the nominative case, mirroring the plural article die: welch e E-Mails? / dies e E-Mails. It may help you to see these in chart-form: Singular Plural Masculine Feminine Neuter dies er dies e dies es this dies e these welch er welch e welch es which welch e which C.1
+C.2 If this child translates to dieses Kind, and these people to diese Leute, how do you say that child and those people? In German this is not as straightforward as this and which. German does in fact have a word for that (jen-), and it is a der- word, like dies- and welch-. But unlike these two words, jen- is used almost exclusively in literary and academic contexts, and only rarely in normal conversation. To convey the idea of that in everyday language, German uses the definite article, plus intonational emphasis (shown here by underlining), with the optional addition of da (there) if a location is implied: Dieses Kind oder das Kind (da)? (with stress on das ) This child or that child (there)? Ich kenne diese Leute, aber nicht die Leute. (with stress on die ) I know these people, but not those people. C.2
+
+## D. Jed- / All-
+D. Jed- / All- Which email? Every email! All the emails! The German words for each/every (jed-) and all (all-) are der- words that follow the pattern of the definite articles, just like welch- and dies-. They also follow English usage, in that jed- only modifies singular nouns, while alle always modifies plural nouns. Jede Aufgabe ist so lang! Each/Every assignment is so long! Alle Aufgaben sind so lang! All (the) assignments are so long! Caution: Even though a phrase such as every assignment implies more than one assignment, the word assignment itself is singular. If you want to refer to assignments — in the plural — you must use alle rather than jed-. Notice how the endings used with jed- indicate the gender of the singular nouns it modifies, and how the -e in alle mirrors the plural article die : jed es Kind jed er Computer jed e Antwort each/every child each/every computer each/every answer all e Kinder all e Computer all e Antworten all (the) children all (the) computers all (the) answers Remember: alle (plural) all Alle sind hier! alles (singular) everything Alles ist hier! D
+
+--- Thema 2.3: Bekanntschaft/Freundschaft ---
+
+## E. Negation
+E. Negation So far you've learned how the nominative case indicates the sentence subject, and how nouns following verbs such as sein, heißen and bleiben can also be in the nominative case. These verbs equate what follows them with the subject, along with other elements that provide information about the subject. Mein Mitbewohner heißt Chris. My roommate is named Chris. Er ist ein bisschen faul. He's a little lazy. Aber wir bleiben gute Freunde. But we remain good friends. This is how you describe what something is . But how do you say what something is not? Think about how this works in English. Take the statements above and frame them in the negative — in English, or in any another language you know. What words did you use to make these statements negative? Where did you place these words? Now look back at several of the sentences you read in the previous Interaktionen : Er ist kein Freund von mir. He’s not a friend of mine. / He's no friend of mine. Am Wochenende war er nicht zu Hause. He wasn’t at home on the weekend. German uses both kein and nicht to express negative information, and these are explained in the sections that follow. E.1 Kein To say that something or someone is not a [X] or not an [X], or simply no [X] — That’s not a Porsche. That’s no Porsche. He’s not an athlete. He's no athlete. — you replace ein(e) with the negating word kein(e). Positive: Er ist ein Freund von mir. Negative: Er ist kein Freund von mir He is no friend of mine. / He is not a friend of mine. In the singular, kein- takes exactly the same endings as ein- , in the nominative as well as in the other cases to come: Masculine: Feminine: Neuter: ein Kurs a course kein Kurs not a course eine Gruppe a group keine Gruppe not a group ein Buch a book kein Buch not a book Singular and plural nouns in the nominative case with no article preceding them are likewise negated with kein (masculine and neuter) or keine (feminine and plural): Positive: Das ist Arbeit. / Das ist Essen. Sie sind Freunde von mir. That is work. / That is food. They are friends of mine. Negative: Das ist keine Arbeit! / Das ist kein Essen! Diese Leute sind keine Freunde von mir! That isn't work! / That isn't food! These people are not friends /no friends of mine! E.1
+E.2 Nicht If the article ein(e) isn’t involved, you simply place nicht in front of the element to be negated: Positive: Negative: Er heißt Chris. Er heißt nicht Chris. His name isn’t Chris. Er ist faul. Er ist nicht faul. He’s not lazy. Er bleibt zu Hause. Er bleibt nicht zu Hause. He doesn’t stay at home. There are other contexts for negation that will require additional guidelines, but these two rules cover the examples you’ve encountered so far. E.2
+
+## F. Werden
+F. Werden Like sein, heißen and bleiben , the verb werden (to become, to get [in the sense of becoming]) connects subjects with information about them in the nominative case. Werden is the third most frequently used verb in German. Ich werde Ingenieur*. I’m becoming an* engineer. Birgitt wird Mathematikerin. Birgitt is becoming a mathematician. Du wirst bei TikTok sehr bekannt. You’re becoming/getting very well known on TikTok. Mein Computer wird zu alt. My computer is becoming/getting too old. As you can see, several of the singular forms for werden are irregular: ich werde I am becoming wir werden we are becoming du wirst Sie werden you (sing.; fam.) are becoming you (sing.; formal) are becoming ihr werdet Sie werden you all (pl.; fam.) are becoming you all (pl.; form.) are becoming er sie wird es he is becoming she is becoming it is becoming sie werden they are becoming Looking ahead: Werden is also involved in the construction of the future tense (a bit like English: I’m becoming a …, i.e, in the future I will be … ) as well as the passive voice (something is being done) , both of which you’ll encounter later. But whenever you see it used with predicate nouns and adjectives, it takes its basic meaning: to become . * When expressing professional, religious, or national affiliations, German tends to avoid the indefinite article before the noun, where English usually includes it: Sie ist Professorin. Ich bin Amerikaner. Er ist Katholik / Buddhist / Atheist. F
+
+--- Thema 2.4: Beziehungen: »Vitamin B« ---
+
+## G. Asking questions
+G. Asking questions In German, as in English, there are three kinds of questions: "Wer-wie-was" questions Wer ist das? Wie findest du den Campus? Was machst du heute Abend? Who ist that? What do you think of the campus? What are you doing this evening? Verb-first questions Bist du auf Twitter? Heißt du Lukas? Are you on Twitter? Is your name Lukas? Tag questions Spotify ist cool, oder ? Das ist Deutsch, nicht wahr ? Spotify is cool, isn’t it? That's German, right? G.1 "Wer-wie-was" questions These questions begin with a question word, most of which you've already encountered: wer … ? wann … ? wie … ? wie viel … ? wie viele … ? wieso … ? wo … ? warum … ? woher … ? was … ? was für … ? who … ? when … ? how … ? how much … ? how many … ? how come / why … ? where … ? why … ? from where … ? (i.e., origin) what … ? what kind of … ? A few examples: Wie viele Kurse machst du? How many courses are you taking? Wann arbeitest du ? When do you work? When are you working? Warum arbeitest du so viel? Why do you work so much? Why are you working so much? Sometimes these are referred to as “open” or “general” questions, since there is no pre-determined answer such as yes or no . As you can see in the examples above, English “Wh-questions” are similar to these, but differ in that English often requires an auxiliary verb after the question word ( do ... work / are ... working) as well as changes to the main verb ( work vs. work ing ). German only requires one verb, which always conjugates with the sentence subject. (And you thought German was more complicated than English.) G.1
+G.2. Verb-first questions These questions begin with a conjugated verb, followed by the sentence subject. They are sometimes called “yes/no” or “closed” questions, since a narrow range of answers is expected, such as yes , no or maybe . Haben deine Eltern viele Facebook-Freunde? Do your parents have a lot of Facebook friends? Spielt er noch Super Mario? Is he still playing ... / Does he still play Super Mario? Wohnen sie auf dem Campus? Are they living ... / Do they live on campus? Schreibt sie einen Blog? Is she writing ... / Does she write a blog? Here too, German is simpler than English, with only one option for the conjugated verb. G.2
+G.3 Tag questions A tag question is a statement that has been turned into a question by means of an added phrase: You understand that, right? He’s on Instagram again, isn’t he? We need some more time, don’t we? It’s nice today, isn’t it? These are tricky in English. With the exception of right?, an English question tag must reflect the subject, verb tense, and positive/negative sense of the preceiding statement: You understand that, don’t you? She knew that, didn't she? That's not easy, is it? He plays well, doesn’t he? We don’t have much time, do we? It’s nice today, isn’t it? Once again, German is simpler here than English. Its two question tags — nicht wahr and oder — remain fixed no matter what's in the statement, and can be used interchangeably. (NB: In this usage, wahr and oder no longer carry their respective literal meanings of true and or .) Using these to translate the English questions above: Du verstehst das, oder? / Du verstehst das, nicht wahr? Sie wusste das, nicht wahr? / Sie wusste das, oder? Das ist nicht einfach, nicht wahr? / Das ist nicht einfach, oder? Er spielt gut, oder? / Er spielt gut, nicht wahr? Wir haben nicht viel Zeit, oder? / Wir haben nicht viel Zeit, nicht wahr? Es ist schön heute, nicht wahr? / Es ist schön heute, oder? G.3
+
+## H. Possessive adjectives: mein / dein / …
+H. Possessive adjectives: mein / dein / … H.1 As soon as you learn how to say family or friends , you naturally want to refer to my family or your friends. German, like English, lets you do this with a set of possessive adjectives that correspond to each of the personal pronouns you’ve learned. singular plural first-person ich → mein wir → unser second-person du → dein Sie → Ihr ihr → euer Sie → Ihr third-person er/der Mann → sein sie/die Frau → ihr es/das Kind → sein sie/die Leute → ihr Notice that German (unlike French or Spanish) distinguishes between his and her, using sein and ihr . Notice too that there are several overlapping forms: his and its are both expressed with sein ; and her, their and your (formal) all translate with ihr / Ihr . H.1
+H.2 Using possessive adjectives to modify nouns requires keeping track of the case and gender of the noun. To see how this works in practice, listen to the following noun phrases, and click on the form that precedes each noun. (All of the nouns here are taken from the core vocabulary list for this chapter. 1. ( mein meine) Kind 2. ( mein meine) Antwort 3. ( mein meine) Computer 4. ( mein meine) Mutter 5. ( mein meine) Vater 6. ( mein meine) Eltern 7. ( mein meine) Familie 8. ( mein meine) Beispiel 9. ( mein meine) Beziehung 10. ( mein meine) Bruder Notice the strong correlation between this usage and the way German distinguishes between ein and eine , depending on the gender of the noun following it: masculine feminine neuter ein Mann ein Bruder ein Abend ein Computer eine Frau eine Antwort eine Aufgabe eine Beziehung ein Kind ein Beispiel ein Land ein Netz Possessive adjectives follow the same pattern, ending in -e when they precede feminine (and plural) nouns, and taking no ending with masculine and neuter singular nouns. This is why possessive adjectives are often called ein- words. masculine feminine neuter ein Sohn eine Tochter ein Kind mein Bruder meine Antwort mein Beispiel dein Abend deine Aufgabe dein Land sein Computer seine Beziehung sein Internet A few additional points: When euer takes an ending, it normally drops the -e- in the middle of the word: euer + -e → eure. ) Remember: When possessive adjectives modify plural nouns (in the nominative case), they take an -e ending regardless of gender, just like keine: meine Brüder deine Aufgaben ihre Kinder German possessive adjectives specify the gender of who (or what) is doing the possessing — sein Bruder vs. ihr Bruder. Their endings, in turn, reflect the gender of the noun following the adjective: sein Bruder vs. seine Schwester, ihr Bruder vs. ihre Schwester. H.2
+
+========================================================================
+GRAMMAR ALREADY KNOWN (Kapitel 1-1) — reuse freely
+========================================================================
+Kapitel 1 (Smalltalk): A. der/die/das; B. Subjects + Verbs: ich / du / Sie; C. der|die|das → ein|eine|ein; D. Plural nouns; E. Subjects + Verbs: er / sie / es / sie (pl.); F. Pronouns and gender; G. Subjects + Verbs: wir / ihr / Sie; H. I like ... / like to ...; I. Time/calendar expressions; J. Subjects + Verbs: Summary
+
+========================================================================
+NEW VOCABULARY — KAPITEL 2 (feature these)
+Format: German [forms] — English  |  example sentence
+========================================================================
+
+-- Thema 2.1 --
+benutzen [benutzte | benutzt] — to use (esp. physical objects); with websites: benutzen or nutzen  |  Welches Programm benutzt du für deine Mails?
+besonders — especially, particularly  |  Heute bin ich besonders gestresst.
+bleiben [blieb | ist geblieben] — to remain, stay  |  Bleibst du zu Hause, oder gehst du?
+der Computer [die Computer] — computer  |  Was für einen Computer hast du?
+dann — then, next (in a sequence)
+denn — since, because  |  Sie ist glücklich, denn sie hat viele gute Beziehungen.
+deutsch — German [adj.]
+Deutsch — German (language)  |  Ich finde deutsche Musik sehr schön.
+eigentlich — actually  |  Eigentlich ist sie meine Kusine, nicht meine Schwester.
+englisch — English [adj.]
+Englisch — English (language)  |  english (adj.): Du hast gar keinen englischen Akzent!
+der Freund [die Freunde] — (male) friend; mein Freund my boyfriend  |  Mein Freund und ich gehen gern joggen.
+die Freundin [die Freundinnen] — (female) friend; meine Freundin my girlfriend  |  Er und seine Freundin sind oft zusammen.
+die Gruppe [die Gruppen] — group  |  Diese zwei Gruppen sind nicht identisch.
+das Internet — internet  |  Diese Information findet man im Internet .
+man — one, you [impersonal]  |  Man macht das so: ...
+natürlich — natural(ly), of course  |  Natürlich komme ich zu deiner Geburtstagsparty!
+normal — normal (adj.); normalerweise typically, normally  |  Meine Familie ist nicht ganz normal. Aber keine Familie ist ganz normal.
+nutzen [nutzte | genutzt] — to use, make use of with either things or abstractions, e.g. to use an opportunity / a computer / a website
+schicken [schickte | geschickt] — to send  |  Ich schicke meiner Freundin eine E-Mail.
+sehen [sieht | sah | gesehen] — to see  |  Sehen Sie die Frau da? Das ist meine Tante.
+so...wie… — as … as …  |  Ich bin so intelligent wie du!
+sozial — social  |  „StayFriends“ und „Xing“ sind soziale Netzwerke.
+teilen [teilte | geteilt] — to share; to divide  |  Warum teilst du dein Essen nicht mit mir?
+vielleicht — maybe, perhaps  |  Vielleicht machen wir das, vielleicht nicht.
+
+-- Thema 2.2 --
+alle — all; everyone [plural]  |  Alle Professoren hier sind sehr intelligent, nicht wahr?
+alles — everything [singular]  |  Ich verstehe alles in diesem Buch!
+die Beziehung [die Beziehungen] — relation(ship), connection  |  Bist du jetzt in einer Beziehung?
+der Bruder [die Brüder] — brother  |  Ist er dein Bruder oder dein Cousin?
+dies- — this  |  Dieser Kurs gefällt mir!
+die Eltern [plural only] — parents  |  eine Eltern sind ganz cool. Meine nicht.
+eng — tight, narrow; with relationships: close  |  Meine Schwester und ich haben eine sehr enge Beziehung.
+die Familie [die Familien] — family  |  Meine Familie ist ganz klein.
+jed- — each, every [sing.]  |  Ich kenne jeden Spieler im Team.
+jung — young  |  Junge Menschen sind gern zusammen.
+der Junge [die Jungen] — boy [up to about age 15] ["N"-noun]  |  Der kleine Junge spielt gern Trompete.
+kennen [kannte | gekannt] — to know, be acquainted with  |  Kennst du diese Leute?
+das Kind [die Kinder] — child  |  Kleine Kinder spielen auch gern mit Computern.
+leben [lebte | gelebt] — to live, be alive  |  Die Familie lebt in Stuttgart.
+die Mama [die Mamas] — mom / mommy
+die Mutter [die Mütter] — mother  |  Ihre Mutter heißt Ingrid.
+das Mädchen [die Mädchen] — girl [up to about age 15]  |  Das Mädchen hat viele Hobbys.
+der Papa [die Papas] — dad / daddy
+die Schwester [die Schwestern] — sister  |  Meine Schwester heißt Sophie, mein Bruder heißt Michael.
+der Sohn [die Söhne] — son  |  Die Familie hat eine Tochter und zwei Söhne.
+die Tochter [die Töchter] — daughter  |  Kommt deine kleine Tochter zu der Geburtstagsparty?
+der Vater [die Väter] — father  |  Mein Vater schickt mir E-Mails über seine Arbeit.
+weit — far  |  Seine Familie wohnt sehr weit von hier.
+welch- — which  |  Welche Gruppen haben viele Probleme?
+wirklich — real(ly)  |  Das Essen hier ist wirklich super!
+
+-- Thema 2.3 --
+beginnen [begann | begonnen] — to begin  |  Wann beginnt das Konzert?
+bekannt — well-known, familiar
+der/die Bekannte [die Bekannten] — acquaintance  |  Ist dieses Buch sehr bekannt? Hast du viele Bekannte?
+dein — your [ with du ]  |  Wie groß ist deine Familie?
+ein paar — a few, a couple of  |  Hast du ein paar Minuten Zeit?
+fast — almost  |  Dein Deutsch ist fast perfekt. Bravo!
+glücklich — happy  |  Du bist immer so glücklich!
+kein — no / not any / not a  |  Das ist keine Stadt, das ist ein Dorf.
+die Liebe [normally only used in the sing.] — love  |  Seine Liebe zu seiner Familie ist groß.
+lieben [liebte | geliebt] — to love  |  Ich liebe die Alpen, besonders im Winter.
+mein — my  |  Mein Bruder und meine Mutter lesen sehr gern.
+die Musik — music  |  Gefällt dir klassische Musik?
+noch — still; yet; noch nicht not yet  |  Wir haben noch zwei Minuten, bevor der Film beginnt.
+okay — OK  |  Kein Problem – das ist okay.
+der Partner [die Partner] — (male) partner  |  Mein Partner denkt, ich bin nicht realistisch.
+die Partnerin [die Partnerinnen] — (female) partner  |  Meine Partnerin denkt, ich bin nicht realistisch.
+der Satz [die Sätze] — sentence  |  Diese Sätze sind zu lang!
+schwer — heavy; difficult, hard  |  Diese Arbeit ist zu schwer für mich.
+so — like this, in this way; so; with a quote: according to  |  Das ist gar nicht so schwer. Ich mache das immer so : ...
+werden [wird/wirst | wurde | ist geworden] — to become  |  Wir werden sehr gute Freunde, denke ich.
+das Zimmer [die Zimmer] — room (i.e., an enclosed space)
+zusammen — together  |  Am Wochenende gehen wir oft zusammen in die Stadt.
+
+-- Thema 2.4 --
+das Beispiel [die Beispiele] — example; zum Beispiel for example ( often abbreviated: z.B.)  |  Du bist ein gutes Beispiel für alle!
+denken [dachte | gedacht] — to think  |  Denkst du, das ist eine gute Idee?
+(das) Deutschland — Germany
+einfach — adj.: simple; adv.: simply  |  Dieses Buch ist nicht einfach zu verstehen.
+ihr — (adj.) her  |  their: Eltern haben oft Probleme mit ihren Kindern.
+Ihr — (adj.) your [formal; sing. and pl.]  |  Ihr Deutsch wird besser, Herr Schlegel!
+langsam — slow(ly)
+mehr — more; mehr als more than  |  Was kostet mehr, dein Computer oder dein altes Auto?
+neu — new  |  Ist dieser Computer neu oder alt?
+nichts — nothing  |  Verstehst du nichts?
+oh — oh [ interjection: Oh nein! Oh ja!]
+die Person [die Personen] — person  |  Wie viele Personen sind in der Gruppe?
+schnell — fast, rapid(ly), quick(ly)
+sein — (adj.) his, its  |  Wie heißt seine Schwester?
+unser — our  |  Unsere Stadt hat viele Parks und Museen.
+wahr — true; nicht wahr? question tag: ..., isn’t it? didn’t we? aren’t you?  |  Es ist sehr schön heute, nicht wahr?
+wann — when [to introduce a question]  |  Wann hast du Zeit?
+warum — why  |  Warum spielst du jetzt Videospiele? Hast du keine Aufgaben?
+wer — who, whoever  |  Wer ist das? – Das ist Thomas.
+wieso — why, how come
+
+========================================================================
+VOCABULARY ALREADY KNOWN (Kapitel 1-1) — recycle these
+========================================================================
+
+-- Kapitel 1: Smalltalk --
+die Antwort [die Antworten] — answer
+arbeiten [arbeitete | gearbeitet] — to work
+auch — also; auch wenn even if
+die Dame [Damen] — lady [ used mostly in formal contexts: Meine Damen und Herren, … Ladies and gentlemen ... ]
+der die das — the [masculine; feminine/plural; neuter]
+du — you [familiar; singular]
+finden [fand | gefunden] — to find
+die Frage [die Fragen] — question
+fragen [fragte | gefragt] — to ask
+die Frau [die Frauen] — woman; lady; title: Ms./Miss/Mrs.; wife
+gut — adj.: good; adv.: well
+haben [hat | hatte | gehabt] — to have
+hallo — Hello / Hi Hallo allerseits! Hello everybody! [ lit. : Hello on all sides]
+heißen [hieß | geheißen] — to be named, to be called
+der Herr [Herren] — title: Mr.; gentleman; sir
+hören [hörte | gehört] — to hear; zu•hören to listen to [+ Dat.]
+ich — I
+immer — always
+ja — yes
+der Mann [die Männer] — man; husband
+nein — no
+nicht — not
+oder — or; question tag: ..., isn’t it? didn’t we? aren’t you?
+sagen [sagte | gesagt] — to say
+sehr — very
+sein [ist | war | ist gewesen] — to be
+Sie — you [formal; singular and plural]
+spielen [spielte | gespielt] — to play (a game or an instrument); to act, perform
+die Struktur [die Strukturen] — structure
+der Student [die Studenten] — (male) university student ["N"-noun]
+die Studentin [die Studentinnen] — (female) university student
+studieren [studierte | studiert] — to engage in a course of study; to be a student at a university
+und — and
+verstehen [verstand | verstanden] — to understand
+was — what
+wichtig — important
+wie — how [question word]; like, as wie immer
+aber — but; however
+alt — old
+das Bild [die Bilder] — picture
+da — there
+das Dorf [die Dörfer] — village
+eins zwei drei...zwölf — 1, 2, 3...12
+er — he; [ masculine noun: it]
+es — it
+gehen [ging | ist gegangen] — to go, walk
+groß — big, tall
+hier — here
+jetzt — now
+klein — small, short
+kommen [kam | ist gekommen] — to come
+das Land [die Länder] — country
+lernen [lernte | gelernt] — to learn, to study (for a class or test)
+Leute [plural only] — people
+machen [machte | gemacht] — to do, make
+nur — only
+schön — nice(ly), beautiful(ly)
+sie — she; [ feminine noun: it]
+sie — they
+die Stadt [die Städte] — city
+tausend [(die) Tausende] — thousand
+viele — many, a lot [plural]
+wo — where
+woher — from where? where from?
+wohnen [wohnte | gewohnt] — to live, reside
+die Arbeit [die Arbeiten] — work; research paper
+die Aufgabe [die Aufgaben] — assignment
+das Buch [die Bücher] — book
+ein bisschen — a little
+das Essen [rarely plural] — food; eating
+etwas — something; somewhat; some (sing.), a little
+ganz — really, quite; total, whole
+gar nicht — not at all
+gern — with a verb: to like to ... [lit.: gladly]
+ihr — you all [familiar; plural]
+interessant — interesting
+der Kurs [die Kurse] — [academic] course
+kurz — short, brief
+lang — long
+lesen [liest | las | gelesen] — to read
+meinen [meinte | gemeint] — to mean; to have an opinion
+die Prüfung [die Prüfungen] — exam, test
+schlecht — bad(ly)
+schreiben [schrieb | geschrieben] — to write
+die Universität [die Universitäten] — university [ informal: Uni ]
+viel — much, a lot [singular]
+wir — we
+das Wort [die Wörter] — word
+der Abend [die Abende] — evening
+der Dienstag [die Dienstage] — Tuesday
+der Donnerstag [die Donnerstage] — Thursday
+der Freitag [die Freitage] — Friday
+genug — enough
+gestern — yesterday
+heute — today
+los — Was ist los? What's happening? or: What's wrong?; nicht viel los not much happening; etwas los werden to get rid of something
+die Minute [die Minuten] — minute
+der Mittwoch [die Mittwoche] — Wednesday
+der Montag [die Montage] — Monday
+morgen — tomorrow
+na — so? well?
+der Samstag [die Samstage] — Saturday
+der Sonntag [die Sonntage] — Sunday
+spät später — late / later
+die Stunde [die Stunden] — hour
+der Tag [die Tage] — day
+die Temperatur [die Temperaturen] — temperature
+die Uhr [die Uhren] — clock; fünf Uhr five o'clock
+die Woche [die Wochen] — week
+das Wochenende [die Wochenenden] — weekend
+die Zeit [die Zeiten] — time

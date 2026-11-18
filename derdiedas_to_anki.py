@@ -1,15 +1,19 @@
 #!/usr/bin/env python3
-"""Build an Anki deck (.apkg) from a der|die|das vocabulary HTML page.
+"""Build one Anki deck (.apkg) per chapter from der|die|das vocabulary JSON.
 
 Usage:
-    python derdiedas_to_anki.py --vocab v11.html [--output v11.apkg]
+    python derdiedas_to_anki.py --vocab vocab/k1.json vocab/k2.json ... [--outdir decks]
+
+Reads the site's API JSON (see `just fetch`) and writes <outdir>/kapitel-<n>.apkg
+for each `kapitel` found in the entries.
 """
 import argparse
+import hashlib
+import json
 import sys
 from pathlib import Path
 
 import genanki
-from bs4 import BeautifulSoup, NavigableString
 
 # Fixed model id so re-imports update the same note type rather than duplicating it.
 MODEL_ID = 1740123456
@@ -41,120 +45,115 @@ MODEL = genanki.Model(
 """,
 )
 
-
-def _has_classes(tag, *names):
-    classes = tag.get("class", [])
-    return all(n in classes for n in names)
-
-
-def find_vocab_container(soup):
-    """The vocab list is the div carrying both `w-10/12` and `divide-y`."""
-    for div in soup.find_all("div"):
-        if _has_classes(div, "w-10/12", "divide-y"):
-            return div
-    return None
-
-
-def deck_name_for(soup, fallback):
-    """Use the header's <h4> (e.g. 'KAPITEL 1: THEMA 1' -> 'Kapitel 1: Thema 1')."""
-    h4 = soup.find("h4")
-    if h4 and h4.get_text(strip=True):
-        return h4.get_text(strip=True).title()
-    return fallback
-
-
-def inner_html(tag):
-    return "".join(str(c) for c in tag.children).strip()
+# Chapter titles aren't in the API JSON, so they're listed here
+# (taken from the dddgerman.org home page).
+CHAPTER_TITLES = {
+    1: "Smalltalk",
+    2: "Vernetzt",
+    3: "Sonntag",
+    4: "Mahlzeit",
+    5: "Autobahn",
+    6: "Heimat",
+    7: "Sportsachen",
+    8: "Großstadt",
+    9: "Mallorca",
+    10: "Kindheit",
+    11: "Bildung",
+    12: "Grenzen",
+    13: "Berlin",
+    14: "Geld",
+    15: "Natur",
+    16: "Amerika",
+}
 
 
-def parse_row(row):
-    """Return (german, translation_html, forms) for one `div.py-2`, or None."""
-    span = row.find("span", recursive=False)
-    if span is None:
-        return None
+def deck_name_for(chapter):
+    title = CHAPTER_TITLES.get(chapter)
+    return f"Kapitel {chapter}: {title}" if title else f"Kapitel {chapter}"
 
-    word_tag = span.find("span", class_="cursor-pointer")
-    translation_tag = span.find("span", class_="translation")
-    if word_tag is None or translation_tag is None:
-        return None
 
-    word = word_tag.get_text(strip=True)
-    translation = inner_html(translation_tag)
+def forms_for(entry):
+    """Plural, plus verb forms ('stemChange | simplePast | pastPart') when present."""
+    parts = []
+    if entry.get("pluralNoun"):
+        parts.append(entry["pluralNoun"].strip())
+    if entry.get("simplePast"):
+        verb = [entry.get("stemChange"), entry["simplePast"], entry.get("pastPart")]
+        parts.append(" | ".join(v.strip() for v in verb if v and v.strip()))
+    return " · ".join(parts)
+
+
+def parse_entry(entry):
+    """Return (thema, word, german, translation_html, forms) for one entry, or None."""
+    word = (entry.get("word") or "").strip()
+    translation = (entry.get("translation") or "").strip()
     if not word or not translation:
         return None
 
-    # Article = leading text node(s) before the word span.
-    article = ""
-    for child in span.children:
-        if child is word_tag:
-            break
-        if isinstance(child, NavigableString):
-            article += str(child)
-    article = article.strip()
-
-    german = f"{article} {word}".strip() if article else word
-
-    # Forms = the plain <span>s between the word span and the translation span.
-    forms = []
-    for sib in word_tag.find_next_siblings("span"):
-        if sib is translation_tag:
-            break
-        text = sib.get_text(strip=True).strip("[]").strip()
-        if text:
-            forms.append(text)
-    forms_text = " · ".join(forms)
-
-    return german, translation, forms_text
+    article = (entry.get("article") or "").strip()
+    german = f"{article} {word}" if article else word
+    return entry.get("thema"), word, german, translation, forms_for(entry)
 
 
-def build_deck(html_path):
-    soup = BeautifulSoup(html_path.read_text(encoding="utf-8"), "html.parser")
+def build_deck(chapter, rows):
+    """Build one deck from parsed entries; return (deck, name, count, skipped)."""
+    name = deck_name_for(chapter)
+    # hashlib, not hash(): the id must be stable across runs.
+    deck_id = int(hashlib.sha1(name.encode()).hexdigest(), 16) % 10**10
+    deck = genanki.Deck(deck_id, name)
 
-    container = find_vocab_container(soup)
-    if container is None:
-        raise SystemExit(
-            f"No vocab container (div.w-10/12.divide-y) found in {html_path}"
-        )
-
-    name = deck_name_for(soup, html_path.stem)
-    deck = genanki.Deck(abs(hash(name)) % (10 ** 10), name)
-
-    count = 0
-    for row in container.find_all("div", class_="py-2"):
-        parsed = parse_row(row)
-        if parsed is None:
+    seen = set()
+    count = skipped = 0
+    # Sort for deterministic output (thema may be null -> sorts first).
+    for thema, word, german, translation, forms in sorted(
+        rows, key=lambda r: (r[0] or 0, r[1].lower())
+    ):
+        guid = genanki.guid_for(german, translation)
+        if guid in seen:
+            skipped += 1
             continue
-        german, translation, forms = parsed
-        note = genanki.Note(
-            model=MODEL,
-            fields=[german, translation, forms],
-            guid=genanki.guid_for(name, german, translation),
+        seen.add(guid)
+        deck.add_note(
+            genanki.Note(
+                model=MODEL,
+                fields=[german, translation, forms],
+                guid=guid,
+                tags=[f"thema-{thema}"],
+            )
         )
-        deck.add_note(note)
         count += 1
 
-    return deck, name, count
+    return deck, name, count, skipped
 
 
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--vocab", required=True, help="path to the vocab HTML file")
-    parser.add_argument("--output", help="output .apkg path (default: <vocab>.apkg)")
+    parser.add_argument(
+        "--vocab", required=True, nargs="+", help="paths to the vocab JSON files"
+    )
+    parser.add_argument(
+        "--outdir", default="decks", help="output directory (default: decks)"
+    )
     args = parser.parse_args(argv)
 
-    html_path = Path(args.vocab)
-    if not html_path.is_file():
-        raise SystemExit(f"File not found: {html_path}")
+    chapters = {}
+    for vocab in args.vocab:
+        json_path = Path(vocab)
+        if not json_path.is_file():
+            raise SystemExit(f"File not found: {json_path}")
+        for entry in json.loads(json_path.read_text(encoding="utf-8")):
+            row = parse_entry(entry)
+            if row is not None:
+                chapters.setdefault(entry["kapitel"], []).append(row)
 
-    output = Path(args.output) if args.output else html_path.with_suffix(".apkg")
-
-    deck, name, count = build_deck(html_path)
-    if count == 0:
-        raise SystemExit(f"No vocabulary entries found in {html_path}")
-
-    output.parent.mkdir(parents=True, exist_ok=True)
-    genanki.Package(deck).write_to_file(str(output))
-    print(f"{count} cards -> {output} (deck: {name})")
+    outdir = Path(args.outdir)
+    outdir.mkdir(parents=True, exist_ok=True)
+    for chapter in sorted(chapters):
+        deck, name, count, skipped = build_deck(chapter, chapters[chapter])
+        output = outdir / f"kapitel-{chapter}.apkg"
+        genanki.Package(deck).write_to_file(str(output))
+        extra = f", {skipped} duplicates skipped" if skipped else ""
+        print(f"{count} cards -> {output} (deck: {name}{extra})")
 
 
 if __name__ == "__main__":

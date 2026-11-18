@@ -1,0 +1,438 @@
+DER | DIE | DAS — KAPITEL 3: SONNTAG
+Podcast source for NotebookLM
+
+HOW TO USE: add this whole file as a source in NotebookLM ("Copied text"), then
+open Audio Overview → Customize and paste:
+  Follow the PRODUCTION BRIEF at the top of the source exactly: one host is the fluent
+  EXPERT, the other the LEARNER who makes mistakes the EXPERT corrects. Kapitel 3 only.
+
+========================================================================
+PRODUCTION BRIEF (instructions for the Audio Overview hosts)
+========================================================================
+
+Audience: absolute beginners (first weeks of German) working through the der|die|das German curriculum. They have just
+finished Kapitel 3 ("Sonntag") and have studied every earlier chapter.
+
+Format: a 15-20 minute conversation between two hosts:
+- EXPERT: a fluent, near-native German speaker. Patient, warm, precise.
+- LEARNER: a student at exactly this point in the course (end of Kapitel 3). Keen and
+  chatty, but makes the kinds of mistakes real learners make at this stage.
+The episode is a real conversation about the chapter's topics, not a lecture. The
+LEARNER keeps trying to say things in German; the EXPERT keeps the conversation going
+and corrects the LEARNER's German as they go.
+
+How the corrections work (the core of the episode):
+- The LEARNER makes roughly 12-20 mistakes over the episode. Most should target the
+  Kapitel 3 grammar points below; the rest should come from earlier chapters (wrong
+  article/gender, verb endings, plural forms, word order, a vocabulary mix-up).
+  Mistakes must be plausible for this level, never random nonsense.
+- Every mistake gets corrected — none slip past. The EXPERT either recasts it ("Ah, du
+  meinst: ...") or stops briefly to explain the rule in one or two sentences, then gives
+  a correct model sentence.
+- The LEARNER then repeats the corrected sentence and, where it fits, makes a new
+  sentence using the same rule correctly, so the listener hears the right form at least
+  twice for every time they hear the wrong one.
+- Make the mistake and its correction unmistakable to a listener: the EXPERT should say
+  clearly what was wrong (e.g. "Nicht 'der Stadt' — 'die Stadt', Stadt ist feminin").
+- Now and then the EXPERT asks the listener directly: "Did you catch the mistake?
+  Pause and fix it yourself" — then gives the answer.
+- Corrections are kind and encouraging; the LEARNER sometimes self-corrects or
+  asks "Warum?" to prompt an explanation.
+
+Language: Speak roughly half German, half English. Every German sentence should be short (3-8 words), spoken slowly and clearly, and usually followed by an English gloss. Explain grammar in English.
+That level applies to the conversation as a whole; the EXPERT's grammar explanations
+may be in English where the level calls for it.
+
+Hard constraints:
+- German vocabulary: use ONLY words from the vocabulary lists in this source (this
+  chapter's list plus the earlier-chapter list), along with names, numbers, obvious
+  international cognates (Internet, Party, Computer ...) and the small function words
+  (articles, pronouns, und, oder, aber, in, auf ...). If you need a word that is not
+  listed, say it once and immediately explain it.
+- German grammar: correct sentences use ONLY structures from Kapitel 1-3 (see the
+  grammar sections below). Don't introduce tenses, cases or constructions taught later
+  in the course, and don't "correct" the LEARNER into a structure they haven't learned.
+- Always say nouns with their article (der/die/das) the first time they come up, and
+  give the plural when it is listed.
+
+Suggested shape:
+1. Quick welcome: the EXPERT introduces the LEARNER and the chapter theme "Sonntag"
+   (Themen listed below).
+2. Conversation about the Themen, with many of this chapter's NEW words. The LEARNER
+   talks about their own life and opinions; mistakes and corrections happen naturally.
+3. Grammar focus: the EXPERT sets up situations that force each main Kapitel 3
+   grammar point; the LEARNER struggles, is corrected, and gets it right.
+4. Review: the conversation drifts to topics from earlier chapters so older words and
+   grammar come back (with a few old mistakes corrected again).
+5. Wrap-up: the LEARNER sums up what they learned — the trickiest corrections of the
+   episode and the key new words — and the EXPERT confirms.
+
+========================================================================
+THEMEN OF KAPITEL 3: Sonntag
+========================================================================
+  3.1  Ein ganz normaler Sonntag
+  3.2  Sonntags geht man ...
+  3.3  Sonntagnachmittag
+  3.4  »Tatort«
+
+========================================================================
+GRAMMAR FOCUS — KAPITEL 3 (explanations from the course)
+========================================================================
+
+--- Thema 3.1: Ein ganz normaler Sonntag ---
+
+## A. Saying some: etwas / einige / ein paar
+A. Saying some: etwas / einige / ein paar A.1 Etwas You’ve already learned the basic meaning of etwas ( something ), when it is used like a noun or pronoun: Ich lese etwas . I’m reading something. Später essen wir etwas . Later we’ll eat something. Etwas stinkt! Something stinks! When speaking or writing casually, German speakers frequently shorten etwas to was, as long as it’s not the first element in the sentence: Ich lese was für meinen Philosophie-Kurs. Später essen wir was zusammen. But etwas can take on additional meanings, depending on the context: Etwas can be paired with an adjective, as English does in phrases such as something important and something new . In German, the adjective is capitalized and takes the ending -es . Das ist etwas Toll es . That’s something terrific. Ich habe etwas Wichtig es zu sagen. I have something important to say. Here too, people often use was in casual speech and writing rather than etwas , unless it’s the first element in a sentence: Wir machen was Schönes heute. We’re doing something nice today. Hast du was Wichtiges zu sagen? Do you have something important to say? To express the opposite — nothing important — you use nichts (with an added -s ). Er hat nichts Wichtiges zu sagen. He has nothing important to say. / He doesn’t have anything important to say. Etwas can also modify an adjective or a singular noun, meaning somewhat / a little / some (sing.) . Ich stehe etwas später auf. I’ll get up a little later. Der Film ist etwas lang, oder? The film is a little/somewhat long, isn’t it? Hast du etwas Zeit? Do you have a little/some time? A.1
+A.2. Ein paar / einige Etwas can only be used to modify singular nouns. To express the idea of some with a plural noun, you must use ein paar (a few/a couple of) or einige (a few/several): Einige Freunde von mir … A few/some friends of mine … Sie hat ein paar neue Fotos auf Instagram. She has a couple of new pictures on Instagram. In the same way, viel (much/a lot of) is used only with singular nouns, and viele (many/a lot of) only with plural nouns. For English speakers, learning to make these distinctions takes some practice, since some and a lot of can be used in English with both singular and plural nouns. It may help to think of viel simply as much , and viele as many. That way you can avoid saying things that sound like * much friends or * many food . A.2
+
+## B. Stem-changing verbs
+B. Stem-changing verbs While working through the Interaktionen in this section, you probably noticed that several verbs showed a change in the vowel of the verb stem in certain conjugations: Ich nehme … Der Vater nimmt … Die Mutter und die Töchter halten … Der Vater hält … B.1 A relatively small number of German verbs require a stem-vowel change when they conjugate with du and er/sie/es . (It’s not an exact analogy, but think of the difference in pronunciation between I say vs. he/she says , or between I do vs. he/she does .) There are four vowel changes possible, depending on the verb: e → ie lesen → lies- Liest du gern eBooks? Ich nicht. sehen → sieh- Er sieht das Problem. e → i sprechen → sprich- Mein Professor spricht zu schnell! essen → iss- Marco isst heute mit mir. a → ä schlafen → schläf- Du schläfst nicht genug. au → äu laufen → läuf- Die Frau läuft schnell. With all other subjects [ich / Sie / wir / ihr / sie (pl.)], these verbs conjugate regularly, using the stem derived from the infinitive. Lesen Sie gern eBooks? Ich sehe das Problem. Sie sprechen zu schnell! Meine Eltern essen heute mit mir. Warum schlafen so viele Studenten in ihren Kursen? Ich laufe gern, aber nicht besonders schnell. From now on, verbs like this will be indicated in the vocabulary lists with the er/sie/es form shown before the two past-tense forms (introduced in chapters to follow): lesen [ liest | las | gelesen] to read laufen [ läuft | lief | ist gelaufen] to run B.1
+B.2 The verbs halten and nehmen (as well as einladen to invite, which appears later in this chapter) have additional irregularities when they conjugate with du and er/sie/es : halten ( hält/hältst ) → No ending is added to the stem for the er/sie/es form; and no -e- is inserted between the stem and the -st ending. nehmen ( nimmt/nimmst ) → There’s a change in the consonants as well as the vowel in the stem. einladen ( einlädt/einlädst ) → No -e- is inserted between the stem and the -t/-st endings. And remember that sein, haben and werden have irregular forms as well: sein (to be) Ich bin gestresst. Du bist auch gestresst. Aber das Kind ist nicht gestresst. haben (to have) Ich habe viel zu tun. Du hast auch viel zu tun. Der Mann hat nicht so viel zu tun. werden (to become) Ich werde Mechaniker. Du wirst Astronautin, oder? Die Frau wird Professorin. B.2
+
+--- Thema 3.2: Sonntags geht man ... ---
+
+## C. Ich gehe [joggen]
+C. Ich gehe [joggen] The use of go in phrases such as I’m going shopping or She often goes jogging has a close parallel in German: Ich gehe joggen . I’m going jogging. Wir gehen laufen . We're going running. Sie geht schwimmen . She’s going swimming. Gehst du einkaufen/shoppen ? Are you going shopping? As the examples show, gehen conjugates with the subject, while the English –ing verb remains an infinitive in German. There is one important difference, however. In English, additional information can be inserted at various points — but never between go and _____ing: She often goes jogging . She goes jogging every morning. Does she ever go jogging with friends? She never goes jogging in the winter. German, however, inserts all such information between gehen and the infinitive — no matter how much information there may be — and in so doing splits gehen and the second verb apart: Sie geht oft joggen . Sie geht jeden Morgen joggen . Geht sie je mit Freunden joggen ? Sie geht im Winter nie joggen . Think about how this appeared in the Interaktionen you just worked with: Ich gehe früh joggen . Er geht die Eltern besuchen . Man geht sonntags nicht einkaufen . Wann geht man in den USA wählen ? Caution: I’m going jogging is not quite the same as I’m going to jog . In the latter sentence, going to indicates the future tense, which German expresses with a different structure (Chapter 12: Thema 1). While it’s true that I’m going jogging is routinely said prior to the activity itself and thus implies future activity, it's best to think of gehen + Infinitiv as I go ing , rather than I'm going to . C
+
+## D. Adjective endings: Nominative
+D. Adjective endings: Nominative D.1 Perhaps you've already noticed that adjectives in German show different endings, and that these can vary, as you see in the endings for neu and normal in these two headlines: So: How do you know which ending to use? The rules are straightforward enough that you should be able to deduce them for yourself on the basis of a few examples: Der Computer ist neu . Das ist mein neuer Computer. Hier ist der neue Computer. Die Stadt ist alt . Das ist eine sehr alte Stadt. Diese alte Stadt gefällt mir. Das Wochenende ist schön . Das ist ein schönes Wochenende. Dieses schöne Wochenende ist viel zu kurz. Diese Filme sind alt. Diese alten Filme gefallen mir. Alte Filme gefallen mir. Judging from these sentences, what endings do you use after… an adjective that appears after the noun it modifies (i.e., at the end of a sentence): an adjective that appears between an ein -word and a noun: an adjective that appears between a der -word and a noun: an adjective with no preceding word, before a noun: D.1
+D.2 Here are the rules: Adjectives that come after the nouns they modify — following verbs such as sein, bleiben and werden — take no endings: Das Problem ist schwer . Die Musik wird zu laut . Wir bleiben ganz ruhig . Er färbt° seine Haare gern blau . Adjectives that come before the nouns they modify require endings: Ein -words don’t distinguish between masculine and neuter nouns in the nominative case, so the adjective endings take on that function, using -er and -es . Adjectives following the feminine article eine take the ending -e : ein/unser/kein Kind → ein/unser/kein jung es Kind ein/ihr/kein Mann → ein/ihr/kein alt er Mann eine/seine/keine Frau → eine/seine/keine glücklich e Frau Der -words already show the -er / -es distinction between masculine and neuter nouns, so the ending following the adjective is just -e . Adjectives following feminine singular der -words likewise take an -e ending: das/dieses/jedes Kind → das/dieses/jedes jung e Kind der/dieser/jeder Mann → der/dieser/jeder alt e Mann die/diese/jede Frau → die/diese/jede glücklich e Frau If there’s no preceding word — which often happens with plural nouns — the adjective ending approximates the definite article that would be used: Leute → jung e Leute ( think : di e Leute) Musik → gut e Musik ( think : di e Musik) Sport → gut er Sport ( think : d er Sport) Deutsch → gut es Deutsch ( think : d as Deutsch) What about plural nouns that have preceding words? Easy: the ending is always -en : die jung en Kinder diese jung en Kinder keine jung en Kinder alle jung en Kinder If multiple adjectives appear in the same grammatical context, they all take the same ending: ein klein es , energisch es , glücklich es Kind ein hart er aber fair er Sport schön e , alt e , klassisch e Musik kurz e , blau e Haare Got all that? Good. It’s actually easier in practice than you might think. D.2
+
+--- Thema 3.3: Sonntagnachmittag ---
+
+## E. Verbs with separable prefixes
+E. Verbs with separable prefixes E.1 German has a number of verbs that are trennbar (separable) , which means that one element of the verb can separate, or split off, from the core verb. You’ve seen several of these in the Interaktionen above: an·fangen: Wir fangen um 3.30 Uhr an . an·rufen: Annika ruft ihren Bruder an . auf·stehen: Ich stehe sonntags um 11 Uhr auf . aus·gehen: Man geht am Nachmittag aus . ein·laden: Ich lade dich zu einem Kaffee ein . zurück·kommen: Wir kommen etwas später zurück . There are analogous forms in English, some of which allow for variations : to turn off: I’m turning the light off . / I'm turning off the light. to call up: She called him up last night. E.1
+E.2 In German, the separation of these verb elements follows specific rules: In the infinitive form, the elements don’t split apart. The separable element remains attached to the core verb as a prefix: an fangen / an rufen / auf stehen / aus gehen / zurück kommen . When the prefix splits off, it normally moves to the end of the clause. Sometimes you’ll see short phrases (beginning with zu ) at the very end of the clause, following the separated prefix: Es fängt jetzt an zu regnen . It’s starting to rain now. But usually the prefix moves all the way to the end of the clause: Wir fangen mit dem ersten Kapitel an . We’re starting with the first chapter. So: When does the prefix separate from the core verb? Answer: Whenever the core verb conjugates with the subject of the clause. Otherwise the two elements remain together. (This rules applies to independent clauses, which are the only clauses you’ve worked with so far, so for now it’s all you need to remember. We’ll look at other kinds of clauses starting in Chapter 10.) When separable-prefix verbs appear in lists or dictionary entries, a dot or vertical line is usually inserted between the prefix and the core verb to indicate that the prefix can separate: an·fangen an·rufen auf·stehen an·kommen ein·laden mit·bringen an|fangen an|rufen auf|stehen an|kommen ein|laden mit|bringen E.2
+
+## F. Past tense: was and had
+F. Past tense: was and had So far the verbs you’ve been working with have been in the present tense — with the exception of two verbs that appeared at the end of Interaktion 3.20 : Annika: Wo warst du denn? Where were you? Jonas: Ich hatte keine Lust zu fahren. I had no desire to drive. The similarity between war and were , and between hatte and had , reflects the close relationship between the past tense in German and English, for these and many other verbs. Past tense: sein singular plural first-person ich war wir waren second-person du warst [familiar] Sie waren [formal] ihr wart [familiar] Sie waren [formal] third-person er/der Mann war sie/die Frau war es/das Kind war sie/die Leute waren Past tense: haben singular plural first-person ich hatte wir hatten second-person du hattest [familiar] Sie hatten [formal] ihr hattet [familiar] Sie hatten [formal] third-person er/der Mann hatte sie/die Frau hatte es/das Kind hatte sie/die Leute hatten While some of these forms look familiar ( -st with du ; normal endings for the plural forms), notice that the ich and er/sie/es forms are identical, and that the er/sie/es forms don't carry the usual -t ending. F
+
+--- Thema 3.4: »Tatort« ---
+
+## G. Review: kein-/nicht
+G. Review: kein-/nicht In Chapter 2 you learned two rules for saying what someone or something is not , in the nominative case: 1. Noun phrases beginning with ein/eine — or with no preceding article — are negated with kein/keine, meaning not a / no: Was für eine Kirche ist das? — Das ist keine Kirche, das ist eine Moschee. What kind of a church is that? — That’s not a church, that’s a mosque. Ist Bild am Sonntag eine gute Zeitung ? — Naja, viele Leute lesen sie, aber ich finde, das ist keine gute Zeitung. Is Bild am Sonntag a good newspaper? — Well, a lot of people read it, but in my opinion it’s not a good newspaper. Was für Musik ist das? — Das ist keine Musik, das ist Lärm! What kind of music is that? — That’s not music, that’s noise! This use of kein/keine applies to singular and plural sentence subjects that would be preceded in English by No … : Kein Problem ist zu groß für sie! No problem is too big for them! Keine Leute arbeiten hier am Sonntag? Echt?? No people work here on Sunday? Really?? 2. Otherwise you negate the information by placing nicht immediately before it: Heißt er Lukas ? — Nein, er heißt nicht Lukas , er heißt Jonas. Is his name Lukas? — No, his name isn’t Lukas, his name is Jonas. Wird die Situation langsam besser ? — Sie wird leider nicht besser . Is the situation slowly getting better? — Unfortunately, it's not getting better. Bist du heute gestresst ? — Nein, heute bin ich nicht gestresst. Are you stressed out today? — No, today I’m not stressed out. Sind die Geschäfte jetzt offen ? — Nein, es ist Sonntag, die Geschäfte sind nicht offen . Are the stores open now? — No, it’s Sunday, the stores aren’t open. G
+
+## H. Negation: Verbs
+H. Negation: Verbs So much for negating nouns and adjectives. Now: How do you negate verbs? German usage varies from English in this regard, and it’s important to be aware of the differences. To that end, think about how you would make the following statements in English negative, as in the example: Example: I give up. / I’m giving up. → I don’t give up. / I’m not giving up. He goes out. / He is going out. → She reads. / She is reading. → I work. / I am working. → We go running. / We’re going running. → Owing to the multiple aspects available in English (We run / We do run / We are running), English verbs require a fairly complex manipulation of doesn’t / don’t / isn’t / are not and other elements to formulate the negation. German verbs, on the other hand, require just one word: nicht You may have noticed in the examples above that English places the negating element before the verb. But if you want to negate just the verb in a German sentence — that is, if you want to say that someone is not doing something — you place nicht after the conjugated verb: Sie liest. → Sie liest nicht . Ich arbeite. → Ich arbeite nicht . Er geht aus. → Er geht nicht aus. Wir gehen laufen. → Wir gehen nicht laufen. Granted, most sentences aren’t as short as this, but the principle here is very important: If it’s just the verb that’s being negated, nicht appears after it. H
+
+========================================================================
+GRAMMAR ALREADY KNOWN (Kapitel 1-2) — reuse freely
+========================================================================
+Kapitel 1 (Smalltalk): A. der/die/das; B. Subjects + Verbs: ich / du / Sie; C. der|die|das → ein|eine|ein; D. Plural nouns; E. Subjects + Verbs: er / sie / es / sie (pl.); F. Pronouns and gender; G. Subjects + Verbs: wir / ihr / Sie; H. I like ... / like to ...; I. Time/calendar expressions; J. Subjects + Verbs: Summary
+Kapitel 2 (Vernetzt): A. Grammatical case; B. man; C. Welch- / Dies-; D. Jed- / All-; E. Negation; F. Werden; G. Asking questions; H. Possessive adjectives: mein / dein / …
+
+========================================================================
+NEW VOCABULARY — KAPITEL 3 (feature these)
+Format: German [forms] — English  |  example sentence
+========================================================================
+
+-- Thema 3.1 --
+blau — blue  |  Dieses Porträt ist von Picassos „blauer Periode“.
+brauchen [brauchte | gebraucht] — to need  |  Was brauchst du für den Kurs?
+echt — genuine(ly), real(ly)  |  Ist es echtes Gold?
+einig- — several, a few  |  Zu Hause habe ich mein eigenes Zimmer, aber hier nicht.
+erst- — [adj.] first  |  Wer war die erste Person hier?
+essen [isst | aß | gegessen] — to eat  |  Ich esse heute um eins. Wann isst du?
+die Farbe [die Farben] — color
+genau — exact(ly), precise(ly)  |  Das ist genau, was ich denke!
+grün — green  |  Das Gras ist im Sommer grün.
+halten [hält | hielt | gehalten] — to hold, keep; to stop  |  Ich halte das Buch in der Hand.
+heiß — hot  |  Ist der Kaffee noch heiß?
+kalt — cold  |  Im November wird es in Hamburg langsam kalt.
+laufen [läuft | lief | ist gelaufen] — to run  |  Langsam, bitte! Du läufst zu schnell!
+der Morgen [die Morgen] — morning  |  Sonntagmorgen mache ich nicht viel.
+morgens — (adv.) mornings, in the morning  |  Morgen s geht sie gern joggen.
+nehmen [nimmt | nahm | genommen] — to take  |  Nimmst du einen Kaffee?
+nie — never  |  Ich mache das nie wieder!
+rot — red  |  Im Film Wizard of Oz hat Dorothy rote Schuhe.
+schlafen [schläft | schlief | geschlafen] — to sleep  |  Er schläft immer 7 Stunden, und dann steht er auf.
+schwarz — black  |  Meine Schuhe sind scharz.
+singen [sang | gesungen] — to sing  |  Sie singt sehr gern die Musik von Brahms und Wagner.
+sprechen [spricht | sprach | gesprochen] — to speak  |  Sprichst du mit deinen Eltern am Telefon, oder schreibst du E-Mails?
+toll — awesome, super  |  Das ist eine ganz tolle Idee!
+warm — warm  |  Es ist nicht heiß und nicht kalt, nur warm.
+weiß — white  |  Im Winter ist alles weiß mit Schnee.
+
+-- Thema 3.2 --
+also — so [ as in “So, what do you think?”)  |  Also, was machen wir heute?
+andere — other  |  Andere Leute denken das, aber ich nicht.
+der Besuch [die Besuche] — visit  |  Mein Besuch im Museum war zu kurz.
+besuchen [besuchte | besucht] — to visit  |  Wann besuchst du deine Großeltern?
+die Bewegung [die Bewegungen] — motion; exercise  |  Ich brauche mehr Bewegung!
+dauern [dauerte | gedauert] — to last  |  Wie lange dauert dieser Film?
+draußen — outside  |  Es ist heute so schön – ich denke, ich esse draußen.
+früh — early  |  Ich stehe nicht gern so früh auf.
+der Gast [die Gäste] — guest  |  Wie viele Gäste waren auf der Party gestern Abend?
+glauben [glaubte | geglaubt] — to believe [+ dative (person): Ich glaube dir. ]  |  Ich glaube, die Politik geht zu weit in diese Richtung.
+der Gott [die Götter] — God  |  Glaubst du an Gott?
+der Grad [with temperature: no plural] — degree  |  Es ist wirklich kalt – nur 3 Grad!
+das Jahr [die Jahre] — year  |  Es gibt 52 Wochen in einem Jahr.
+die Kirche [die Kirchen] — church  |  Siehst du die alte Kirche da? Sie ist 800 Jahre alt.
+manchmal — sometimes, occasionally  |  Manchmal verstehe ich meine Eltern wirklich nicht.
+oben — above, overhead; upstairs  |  Ist die Party oben?
+oft — often, frequently  |  Im Winter ist es oft kalt hier – aber nicht immer.
+pro — per  |  Sie geht dreimal pro Woche joggen.
+das Prozent [die Prozente] — percent  |  Mein Computer kostet 30 Prozent mehr als dein Computer!
+die Ruhe — quiet, calm, rest  |  Am Wochenende hat man ein bisschen Ruhe.
+stören [störte | gestört] — to disturb  |  Die vielen Autos stören die Sonntagsruhe.
+tun [tat | getan] — to do  |  Was tust du, wenn das Wochenende kommt?
+unten — down, below; downstairs  |  Das Internet ist unten nicht so gut.
+die Zeitung [die Zeitungen] — newspaper  |  Welche Zeitungen liest du online?
+
+-- Thema 3.3 --
+an•fangen [an•fängt | an•fing | angefangen] — to begin, start  |  Wann fängt das Programm an?
+an•kommen [an•kam | ist angekommen] — to arrive  |  Wir kommen morgen um 8 Uhr an.
+an•rufen [an•rief | angerufen] — to call (on the phone)
+auf•stehen [auf•stand | ist aufgestanden] — to get up, stand up  |  Sonntags steht er immer spät auf.
+aus•gehen [aus•ging | ist ausgegangen] — to go out  |  Lena geht heute Abend mit ein paar Freunden aus.
+best- — best  |  Max ist mein bester Freund.
+bringen [brachte | gebracht] — to bring  |  Ich bringe meinen Computer und meine Bücher mit.
+danke — thanks, thank you
+ein•laden [ein•lädt | ein•lud | eingeladen] — to invite; to treat someone [Acc.] to something [+ zu … ], i.e., pay for it  |  Wie viele Leute lädst du zu deiner Party ein?
+gemeinsam — together, in common, mutual(ly)  |  Wir haben eine gemeinsame Perspektive.
+das Gespräch [die Gespräche] — conversation, discussion  |  Gute Gespräche mit Freunden gefallen mir sehr.
+das Haus [die Häuser] — house  |  Das ist ein Haus von Frank Lloyd Wright, oder?
+der Hund [die Hunde] — dog  |  Hattest du einen Hund, als du klein warst?
+klingen [klang | geklungen] — to sound
+die Sache [die Sachen] — thing, matter, item  |  Du vergisst immer deine Sachen!
+die Sonne [die Sonnen] — sun  |  Im Sommer scheint die Sonne oft.
+das Tier [die Tiere] — animal  |  Sie liebt Hunde und Katzen – eigentlich liebt sie alle Tiere!
+trinken [trank | getrunken] — to drink  |  Ich trinke viel Wasser, bevor ich laufe.
+der Weg [die Wege] — path, way, route  |  Welcher Weg geht direkt zu dem Campus?
+wieder — again  |  Ich sehe meine Familie im Sommer wieder.
+zurück•kommen [zurück•kam | ist zurückgekommen] — to come back, return
+überhaupt — in general; at all: überhaupt nicht not at all
+
+-- Thema 3.4 --
+aus•sehen [aus•sieht | aus•sah | ausgesehen] — to look, appear
+bedeuten [bedeutete | bedeutet] — to mean, to have meaning [ as in: This word means ...; cf.: meinen ]  |  Was bedeutet dieses Wort?
+ermitteln [ermittelte | ermittelt] — to find out/ascertain by careful investigation
+erzählen [erzählte | erzählt] — to tell (a story), narrate  |  Er erzählt manchmal zu viel von seiner Ex-Freundin.
+der Fall [Fälle] — case; drop, demise
+das Gefühl [die Gefühle] — feeling, emotion  |  Ich habe das Gefühl, sie kommt nicht.
+jemand — someone  |  Kennst du jemand hier? Nein? Ich auch nicht.
+komplex — complex, complicated, sophisticated
+lösen [löste | gelöst] — to solve; to loosen
+das Mal [die Male] — time [occurrence]
+niemand — no one, nobody  |  Niemand auf diesem Campus hat genug Zeit.
+offen — open(ly)  |  War das ein offener Protest?
+das Problem [die Probleme] — problem  |  Hast du berufliche Probleme oder nur persönliche?
+die Spur [die Spuren] — trace, trail, [ criminal case ] clue
+statt•finden [statt•fand | stattgefunden] — to take place  |  Wo findet das Konzert statt?
+stimmen [stimmte | gestimmt] — to be correct  |  Diese Antwort stimmt nicht.
+die Tat [die Taten] — deed, exploit, act; [ law ] crime
+vergessen [vergisst | vergaß | vergessen] — to forget  |  Ich vergesse immer, wie er heißt.
+das Verhältnis [die Verhältnisse] — ratio: ein Verhältnis von … zu … ; relationship; im Verhältnis zu compared to  |  Hast du ein gutes Verhältnis zu deiner Familie?
+verschieden — various, different  |  Es gibt verschiedene Gründe für die Probleme hier.
+wenig — little [sing.]; few [pl.]  |  Ich verstehe wenig von diesem Buch.
+
+========================================================================
+VOCABULARY ALREADY KNOWN (Kapitel 1-2) — recycle these
+========================================================================
+
+-- Kapitel 1: Smalltalk --
+die Antwort [die Antworten] — answer
+arbeiten [arbeitete | gearbeitet] — to work
+auch — also; auch wenn even if
+die Dame [Damen] — lady [ used mostly in formal contexts: Meine Damen und Herren, … Ladies and gentlemen ... ]
+der die das — the [masculine; feminine/plural; neuter]
+du — you [familiar; singular]
+finden [fand | gefunden] — to find
+die Frage [die Fragen] — question
+fragen [fragte | gefragt] — to ask
+die Frau [die Frauen] — woman; lady; title: Ms./Miss/Mrs.; wife
+gut — adj.: good; adv.: well
+haben [hat | hatte | gehabt] — to have
+hallo — Hello / Hi Hallo allerseits! Hello everybody! [ lit. : Hello on all sides]
+heißen [hieß | geheißen] — to be named, to be called
+der Herr [Herren] — title: Mr.; gentleman; sir
+hören [hörte | gehört] — to hear; zu•hören to listen to [+ Dat.]
+ich — I
+immer — always
+ja — yes
+der Mann [die Männer] — man; husband
+nein — no
+nicht — not
+oder — or; question tag: ..., isn’t it? didn’t we? aren’t you?
+sagen [sagte | gesagt] — to say
+sehr — very
+sein [ist | war | ist gewesen] — to be
+Sie — you [formal; singular and plural]
+spielen [spielte | gespielt] — to play (a game or an instrument); to act, perform
+die Struktur [die Strukturen] — structure
+der Student [die Studenten] — (male) university student ["N"-noun]
+die Studentin [die Studentinnen] — (female) university student
+studieren [studierte | studiert] — to engage in a course of study; to be a student at a university
+und — and
+verstehen [verstand | verstanden] — to understand
+was — what
+wichtig — important
+wie — how [question word]; like, as wie immer
+aber — but; however
+alt — old
+das Bild [die Bilder] — picture
+da — there
+das Dorf [die Dörfer] — village
+eins zwei drei...zwölf — 1, 2, 3...12
+er — he; [ masculine noun: it]
+es — it
+gehen [ging | ist gegangen] — to go, walk
+groß — big, tall
+hier — here
+jetzt — now
+klein — small, short
+kommen [kam | ist gekommen] — to come
+das Land [die Länder] — country
+lernen [lernte | gelernt] — to learn, to study (for a class or test)
+Leute [plural only] — people
+machen [machte | gemacht] — to do, make
+nur — only
+schön — nice(ly), beautiful(ly)
+sie — she; [ feminine noun: it]
+sie — they
+die Stadt [die Städte] — city
+tausend [(die) Tausende] — thousand
+viele — many, a lot [plural]
+wo — where
+woher — from where? where from?
+wohnen [wohnte | gewohnt] — to live, reside
+die Arbeit [die Arbeiten] — work; research paper
+die Aufgabe [die Aufgaben] — assignment
+das Buch [die Bücher] — book
+ein bisschen — a little
+das Essen [rarely plural] — food; eating
+etwas — something; somewhat; some (sing.), a little
+ganz — really, quite; total, whole
+gar nicht — not at all
+gern — with a verb: to like to ... [lit.: gladly]
+ihr — you all [familiar; plural]
+interessant — interesting
+der Kurs [die Kurse] — [academic] course
+kurz — short, brief
+lang — long
+lesen [liest | las | gelesen] — to read
+meinen [meinte | gemeint] — to mean; to have an opinion
+die Prüfung [die Prüfungen] — exam, test
+schlecht — bad(ly)
+schreiben [schrieb | geschrieben] — to write
+die Universität [die Universitäten] — university [ informal: Uni ]
+viel — much, a lot [singular]
+wir — we
+das Wort [die Wörter] — word
+der Abend [die Abende] — evening
+der Dienstag [die Dienstage] — Tuesday
+der Donnerstag [die Donnerstage] — Thursday
+der Freitag [die Freitage] — Friday
+genug — enough
+gestern — yesterday
+heute — today
+los — Was ist los? What's happening? or: What's wrong?; nicht viel los not much happening; etwas los werden to get rid of something
+die Minute [die Minuten] — minute
+der Mittwoch [die Mittwoche] — Wednesday
+der Montag [die Montage] — Monday
+morgen — tomorrow
+na — so? well?
+der Samstag [die Samstage] — Saturday
+der Sonntag [die Sonntage] — Sunday
+spät später — late / later
+die Stunde [die Stunden] — hour
+der Tag [die Tage] — day
+die Temperatur [die Temperaturen] — temperature
+die Uhr [die Uhren] — clock; fünf Uhr five o'clock
+die Woche [die Wochen] — week
+das Wochenende [die Wochenenden] — weekend
+die Zeit [die Zeiten] — time
+
+-- Kapitel 2: Vernetzt --
+benutzen [benutzte | benutzt] — to use (esp. physical objects); with websites: benutzen or nutzen
+besonders — especially, particularly
+bleiben [blieb | ist geblieben] — to remain, stay
+der Computer [die Computer] — computer
+dann — then, next (in a sequence)
+denn — since, because
+deutsch — German [adj.]
+Deutsch — German (language)
+eigentlich — actually
+englisch — English [adj.]
+Englisch — English (language)
+der Freund [die Freunde] — (male) friend; mein Freund my boyfriend
+die Freundin [die Freundinnen] — (female) friend; meine Freundin my girlfriend
+die Gruppe [die Gruppen] — group
+das Internet — internet
+man — one, you [impersonal]
+natürlich — natural(ly), of course
+normal — normal (adj.); normalerweise typically, normally
+nutzen [nutzte | genutzt] — to use, make use of with either things or abstractions, e.g. to use an opportunity / a computer / a website
+schicken [schickte | geschickt] — to send
+sehen [sieht | sah | gesehen] — to see
+so...wie… — as … as …
+sozial — social
+teilen [teilte | geteilt] — to share; to divide
+vielleicht — maybe, perhaps
+alle — all; everyone [plural]
+alles — everything [singular]
+die Beziehung [die Beziehungen] — relation(ship), connection
+der Bruder [die Brüder] — brother
+dies- — this
+die Eltern [plural only] — parents
+eng — tight, narrow; with relationships: close
+die Familie [die Familien] — family
+jed- — each, every [sing.]
+jung — young
+der Junge [die Jungen] — boy [up to about age 15] ["N"-noun]
+kennen [kannte | gekannt] — to know, be acquainted with
+das Kind [die Kinder] — child
+leben [lebte | gelebt] — to live, be alive
+die Mama [die Mamas] — mom / mommy
+die Mutter [die Mütter] — mother
+das Mädchen [die Mädchen] — girl [up to about age 15]
+der Papa [die Papas] — dad / daddy
+die Schwester [die Schwestern] — sister
+der Sohn [die Söhne] — son
+die Tochter [die Töchter] — daughter
+der Vater [die Väter] — father
+weit — far
+welch- — which
+wirklich — real(ly)
+beginnen [begann | begonnen] — to begin
+bekannt — well-known, familiar
+der/die Bekannte [die Bekannten] — acquaintance
+dein — your [ with du ]
+ein paar — a few, a couple of
+fast — almost
+glücklich — happy
+kein — no / not any / not a
+die Liebe [normally only used in the sing.] — love
+lieben [liebte | geliebt] — to love
+mein — my
+die Musik — music
+noch — still; yet; noch nicht not yet
+okay — OK
+der Partner [die Partner] — (male) partner
+die Partnerin [die Partnerinnen] — (female) partner
+der Satz [die Sätze] — sentence
+schwer — heavy; difficult, hard
+so — like this, in this way; so; with a quote: according to
+werden [wird/wirst | wurde | ist geworden] — to become
+das Zimmer [die Zimmer] — room (i.e., an enclosed space)
+zusammen — together
+das Beispiel [die Beispiele] — example; zum Beispiel for example ( often abbreviated: z.B.)
+denken [dachte | gedacht] — to think
+(das) Deutschland — Germany
+einfach — adj.: simple; adv.: simply
+ihr — (adj.) her
+Ihr — (adj.) your [formal; sing. and pl.]
+langsam — slow(ly)
+mehr — more; mehr als more than
+neu — new
+nichts — nothing
+oh — oh [ interjection: Oh nein! Oh ja!]
+die Person [die Personen] — person
+schnell — fast, rapid(ly), quick(ly)
+sein — (adj.) his, its
+unser — our
+wahr — true; nicht wahr? question tag: ..., isn’t it? didn’t we? aren’t you?
+wann — when [to introduce a question]
+warum — why
+wer — who, whoever
+wieso — why, how come

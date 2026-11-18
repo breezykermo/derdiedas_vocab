@@ -1,0 +1,553 @@
+DER | DIE | DAS — KAPITEL 4: MAHLZEIT
+Speaking practice with Claude
+
+HOW TO USE: paste (or attach) this whole file as your first message to Claude, send it,
+then switch to voice mode. Claude opens the conversation. Say "Ende" to finish and get
+a summary of your mistakes and the words to review.
+
+========================================================================
+INSTRUCTIONS FOR CLAUDE
+========================================================================
+
+You are my German conversation partner and tutor. I am one of the absolute beginners (first weeks of German) working
+through the der|die|das German curriculum, and I have just finished Kapitel 4
+("Mahlzeit"). The rest of this message is reference material from the course: the
+chapter's Themen, its grammar explanations, the grammar I already know, and every word
+I have learned so far. Use it to keep this conversation at exactly my level.
+
+Your aim: get me SPEAKING as much as possible, using the vocabulary and grammar of
+Kapitel 4, while recycling what I learned in earlier chapters.
+
+Your German:
+- Use ONLY words from the vocabulary lists below, plus names, numbers, obvious
+  international cognates and small function words (articles, pronouns, und, oder,
+  aber, in, auf ...). If you really need another word, gloss it in English once.
+- Use ONLY grammar from Kapitel 1-4. Never use tenses, cases or constructions that
+  come later in the course, even in corrections.
+- Speak roughly half German, half English. Every German sentence should be short (3-8 words), spoken slowly and clearly, and usually followed by an English gloss. Explain grammar in English.
+- Keep your turns SHORT: one to three sentences, then hand back to me, usually with one
+  clear question. I should be talking more than you.
+
+Correcting me (this is the point of the exercise):
+- When I make a mistake, correct it right away but briefly: say the correct sentence
+  ("Fast! Man sagt: ..."), name the problem in a few words (gender, ending, case, word
+  order, wrong word), then ask me to say the corrected sentence. Then continue the
+  conversation.
+- Prioritise mistakes involving Kapitel 4 grammar and vocabulary, then earlier
+  grammar. Correct at most two things per turn; if there are more, keep a note and
+  return to them later or in the final summary.
+- If I correct myself, praise it. If I make the same mistake again, steer the
+  conversation so I get another chance to use that form correctly.
+- I am speaking through voice transcription. Ignore spelling, capitalisation and
+  punctuation, and assume a word that sounds like the right one is the right one. Only
+  correct real grammar and word-choice errors. You cannot hear my pronunciation, so
+  don't comment on it.
+- If I'm stuck or say something in English, give me the German words I need, then
+  have me try the sentence myself.
+
+Running the session:
+1. Start immediately: greet me in German and ask an easy warm-up question.
+2. Move through the Themen of Kapitel 4 as short real-life situations and role-plays
+   (you play a friend, a waiter, a classmate, a host family member ...). Announce each
+   new situation in one sentence.
+3. Build in natural reasons to use each main Kapitel 4 grammar point (e.g. questions
+   that require that structure in the answer). Don't lecture; if I keep getting a
+   point wrong, explain it in two or three sentences, then practise it again.
+4. Every so often, bring back a topic or structure from an earlier chapter.
+5. Things I might say:
+   - "Langsamer" — simplify and slow down.
+   - "Auf Englisch?" — explain the last thing in English, then go back to German.
+   - "Noch mal" — repeat your last turn.
+   - "Neues Thema" — switch to another situation.
+   - "Ende" — stop and give the summary below.
+6. Summary at the end: list each mistake I made with the correct version and a
+   one-line rule, then the chapter words I used well, then 5-10 words or structures I
+   should practise next time. Keep it short enough to read aloud.
+
+Voice-mode style: speak in natural sentences. No markdown, bullet lists, tables or
+emoji in your replies, except in the final summary if I'm reading rather than
+listening.
+
+========================================================================
+THEMEN OF KAPITEL 4: Mahlzeit
+========================================================================
+  4.1  Was ist »deutsches« Essen?
+  4.2  Gemeinsam essen
+  4.3  Fast Food / Cafés
+  4.4  Essen: Medien / Politik
+
+========================================================================
+GRAMMAR FOCUS — KAPITEL 4 (explanations from the course)
+========================================================================
+
+--- Thema 4.1: Was ist »deutsches« Essen? ---
+
+## A. Accusative: Definite / indefinite articles
+A. Accusative: Definite / indefinite articles Chapter 2 introduced the concept of grammatical case, and specifically how the nominative case indicates which nouns and pronouns are the subjects of a sentence. This chapter focuses on the accusative case, which serves (1) to signal the direct object of a verb ( I’m eating pizza , he’s buying a milkshake ); (2) to express the idea of there is/there are; and (3) to connect certain prepositions with nouns and pronouns: for the meal, without him . A.1 Grammatical case is shown in the definite or indefinite article that precedes a noun. To illustrate the difference between nominative articles and accusative articles, we’ll compare two dialogues in a fast-food restaurant. In the first, one person asks about the price of food items: Wie viel kostet° …? Listen carefully to the articles used with the following food items: Big Mac Salat Cola McWrap Filet-o-Fish A.1
+A.2 In the first dialogue, all of the items function as sentence subjects: Ein Big Mac kostet … Was kostet eine Cola? Der Big Mac … Ein Filet-o-Fish kostet… These are the nominative articles you learned in Chapter 1: masculine feminine neuter plural Nominative der die das die ein eine ein [keine] In the second dialogue, however, these items function as direct objects of the verb nehmen , i.e., what everyone is ordering: Ich nehme einen Big Mac. Ich nehme auch eine Cola. Ich nehme einen kleinen Salat. Ich nehme den Big Mac. Ich nehme ein Filet-o-Fish. Notice that the only change occurs with articles preceding masculine nouns: masculine feminine neuter plural Accusative den die das die einen eine ein [keine] The accusative articles for neuter, feminine and plural nouns remain the same, whether the noun functions as a subject or an object. A.2
+
+## B. Position vs. Case in Sentences
+B. Position vs. Case in Sentences So far, most of the examples in this chapter have exhibited a word order that is very similar to English — Ich hätte gern einen Salat. Er nimmt eine Cola. Der Junge isst einen Hamburger. Die Deutschen essen gern Kartoffeln° . — that is, the subject appears first, followed by the verb and then the direct object of the verb. While this word order is very common in German, it is not the only option. If, for example, the speaker wants to emphasize the direct object, that element can stand at the very beginning of the sentence. English also has a way of doing this, but it requires some grammatical gymnastics: Einen Salat hätte ich gern. A salad is what I’d like. In the German sentence, it's clear that Salat is the direct object because einen is the accusative article for Salat, a masculine noun. Ah, you’re thinking, but what if the subject and direct object are feminine or neuter? Then there would be no distinction between nominative and accusative, as in a sentence like this: Das Kind fragt die Mutter. The child asks the mother. / The mother asks the child. In this case, the default meaning follows the pattern of subject + verb + direct object , just like English. So unless the context suggests otherwise, you can assume that the sentence above means The child asks the mother. B
+
+## C. Saying “there is … / there are …”
+C. Saying “there is … / there are …” C.1 To express general existence, as in There is a problem here or There are two new restaurants in town, German uses the phrase es gibt: Es gibt ein Problem hier. Es gibt zwei neue Restaurants in der Stadt. Notice that English requires the verb to be plural or singular, depending on what follows: There is a problem vs. There are two restaurants . But in German, the subject of the phrase ( es ) is singular, which means that gibt (the third-person singular form of geben ) must also be singular, regardless of what comes after it. What comes after it, in turn, is the direct object of gibt and therefore requires the accusative case: Es gibt einen Weg ... Es gibt eine enge Beziehung ... Es gibt ein gutes Verhältnis ... Es gibt keine Probleme ... The direct object may follow gibt , or, as you saw in some of the examples above, the direct object may be the first element of the sentence, followed by gibt and then es . Es gibt ein gutes Café hier, oder? Ja, aber einen McDonald’s gibt es nicht. There’s a good café here, isn’t there? Yes, but there is no McDonald’s. For questions, you simply invert the subject and verb: Gibt es …? Gibt es einen McDonald’s in München? Gibt es viele Cafés? Is there a McDonald’s in Munich? Are there a lot of cafés? C.1
+C.2 There is has two meanings in English, which German expresses in two different ways. Compare: I think there’s a problem with the light switch. Ah, there’s my cell phone. The first sentence denotes existence, while the second directs attention toward a location. German distinguishes between these two meanings by using es gibt (with the accusative case) for the first situation, and da ist /da sind (in the nominative case) for the second. Ich glaube, es gibt ein Problem… Ach, da ist mein Handy. Or to continue the food theme: Es gibt ein neues Restaurant nicht weit von hier. There’s a new restaurant not far from here. (existence) Da ist das Restaurant, wo meine Familie gern isst. There’s the restaurant where my family likes to eat. (pointing toward a location) You may think this distinction is a geeky sidebar, but in fact English speakers often stumble over it. They're thinking there is and simply substitute the German words for there and is — and while Da ist is correct in one context, in many cases it doesn't convey what the speaker is trying to say. C.2
+C.3 The meaning of es gibt isn’t restricted to general or permanent existence. You can also use it the way English uses there is to talk about meals or the weather: Was gibt es zum Mittagessen? What’s for lunch? (i.e., What will there be ...?) Morgen gibt es bestimmt Regen. Tomorrow there will definitely be rain. C.3
+
+--- Thema 4.2: Gemeinsam essen ---
+
+## D. Accusative: der-words / ein-words
+D. Accusative: der-words / ein-words D.1 Der-words As you've already seen, the words for the , this, every and which take very similar endings: de r Schnellimbiss the fast-food restaurant diese r Schnellimbiss this … jede r Schnellimbiss every … welche r Schnellimbiss which … This holds true for all grammatical genders and the plural forms: masculine feminine neuter plural Nominative de r di e da s di e jede r diese r welche r jed e dies e welch e jede s diese s welche s (—) dies e welch e And it holds true as well in the accusative case, including the changed masculine forms: masculine feminine neuter plural Accusative de n di e da s di e jede n diese n welche n jed e dies e welch e jede s diese s welche s (—) dies e welch e A few examples: Nominative: Accusative: Dieser Mann ist ein Freund von mir. Kennst du diesen Mann? Jede Person hat eine Meinung. Ich frage jede Person. Welches Beispiel ist das? Welches Beispiel meinst du? Diese Studenten essen oft zusammen. Ich sehe diese Studenten beim Mittagessen. D.1
+D.2 Ein-words The possessive adjectives ( mein-, dein-, ihr-, unser-, … ) use the same endings as ein(e) and kein(e) : masculine feminine neuter plural Nominative ein ein e ein --- kein mein dein (…) kein e mein e dein e (…) kein mein dein (…) kein e mein e dein e (…) Remember: ein -words are identical for masculine and neuter forms in the nominative case. But in the accusative case, the masculine forms of the ein -words change, in the same way they do with der -words: masculine feminine neuter plural Accusative ein en ein e ein --- kein en mein en dein en (…) kein e mein e dein e (…) kein mein dein (…) kein e mein e dein e (…) A few examples: Nominative: Accusative: Das ist mein Bruder. Kennst du meinen Bruder? Ist das deine Schwester? Ich sehe deine Schwester dort. Dein Beispiel ist mir nicht klar. Ich verstehe dein Beispiel nicht. Keine Ideen sind so gut wie deine. Ich habe wirklich keine Ideen. D.2
+
+## E. Prepositions and cases: Accusative
+E. Prepositions and cases: Accusative E.1 Whether you've thought about it or not, you know that most English subject pronouns change when they follow a preposition: I → with me he → for him she → without her we → besides us they → against them Where English distinguishes between subject and object, German is even more specific: Every preposition in German “triggers” a particular case — accusative, dative or genitive — for any nouns or pronouns associated with it. In other words, in prepositional phrases such as in this restaurant or with my best friends , the article and any adjectives following the preposition must show the case required by that preposition, based on the grammatical gender of the noun. This means that in order to use German prepositions effectively, you need to know (1) which case the preposition triggers; (2) the gender of the noun(s) following it; and (3) which articles and endings correspond to that case and gender. This may sound complicated, but the more you pay attention to the prepositional phrases you read and hear, and the more you use them yourself, the faster you’ll learn to make these distinctions and supply the correct information. E.1
+E.2 In German, the following prepositions always trigger the accusative case: durch through für for gegen against ohne without um around A few examples: durch den Garten through the garden um jede Stadt around every city etwas für diese Küche something for this kitchen nichts gegen deine Frage, aber … nothing against your question, but … ohne meine Eltern without my parents TIPP: When durch , für and um are followed by das , the resulting phrase is often contracted to durchs , fürs and ums . E.2
+
+--- Thema 4.3: Fast Food / Cafés ---
+
+## F. Using Pronouns in the Accusative Case
+F. Using Pronouns in the Accusative Case F.1 You’ve seen how the definite and indefinite articles change when masculine nouns serve as a direct object or the object of an accusative preposition. Some personal pronouns also change in the accusative case: singular plural nominative accusative nominative accusative ich mich wir uns du Sie dich Sie ihr Sie euch Sie er sie es ihn sie es sie sie The accusative form of who/whom is wen : Für wen sind die Rosen, Micha? A few more examples, placed in context: Verstehst du mich ? Hallo, Albert und Julia: Ich habe eine Frage für euch ! »Sie liebt mich , sie liebt mich nicht…« Frau Michel, ich sehe Sie morgen um 16.00 Uhr. F.1
+F.2. German uses gendered pronouns to refer to ALL nouns — not just animate beings — regardless of whether the pronouns function as subjects (nominative) or direct objects (accusative). Where you would simply say it in English sentences such as I like it or I see it , regardless of what it refers to, German requires that you indicate the gender of what is referred to by the pronoun itself, if the thing in question has been specifically mentioned. Die Aufgabe? Ich verstehe sie nicht. The assignment? I don't understand it . Mein Computer? Ich benutze ihn immer. My computer? I use it all the time. Meine Bücher? Ich kaufe sie bei Amazon. My books? I buy them on Amazon. F.2
+
+## G. Using mögen to say “I like…”
+G. Using mögen to say “I like…” The core vocabulary word mögen can be used to express liking someone or something, including food. Grammatically, it differs from the other verbs you’ve learned so far, in that several of its singular forms are irregular in their endings and in the changing of the stem vowel. The irregular forms are highlighted in the chart: singular plural first-person ich mag wir mögen second-person du magst [familiar] Sie mögen [formal] ihr mögt [familiar] Sie mögen [formal] third-person er/der Mann mag sie/die Frau mag es/das Kind mag sie/die Leute mögen Ich glaube, sie mag mich. I think she likes me. Aber mag ich sie? But do I like her? Wir mögen das nicht. We don’t like that. Magst du Pizza? Do you like pizza? Ich mag dein Foto! I like your picture! Remember: Das gefällt mir, which you learned in Chapter 1, is another way of saying I like that — but more in the sense of That’s pleasing to me, connoting an aesthetic appreciation. To express liking with regard to food, use mögen or the more specific schmecken (to taste good): Das schmeckt (mir)! G
+
+## H. Negating direct objects
+H. Negating direct objects H.1 First, a quick review of what you've learned so far concerning negation: Sentence elements following sein, bleiben and werden are negated by placing a negating word before the element to be negated: kein- before nouns, nicht before other elements. Ist das eine Currywurst° ? — Nein, das ist keine Currywurst, das ist nur eine Wurst mit Ketchup. Sind Pommes gesund? — Nein, sie sind nicht gesund. Aber ich mag sie sehr! Verbs are negated by placing nicht after the conjugated verb. This differs from English, which usually places negating elements such as do not (don't) / does not (doesn't) / is not (isn't) before the verb: Wir bleiben nicht . We are not staying. / We're not staying / We don’t stay. Er geht nicht aus. He is not going out. / He isn't going out. / He doesn’t go out. H.1
+H.2 Now for negating direct objects: German is actually simpler than English in this regard (which is a good thing: try explaining to a non-native speaker the distinctions of I don’t eat carbs vs. I’m not eating carbs vs. I don’t eat any carbs vs. I’m not eating any carbs). Where English requires you to sort out aspect ( do eat vs. am eating ) and the use or deletion of any , German depends on just one distinction: non-specific vs. specific nouns. Non-specific nouns refer to generalities: singular and plural nouns with no article ( Zeit, Kaffee; Leute, Antworten ); non-specific singular nouns ( ein Land, eine Freundin ); and collective groups, both singular and plural ( Essen, Aufgaben ). Specific nouns, as the name implies, have a focused reference, indicated by definite articles ( die Zeit, der Kaffee), possessive adjectives ( unsere Leute, meine Antworten) or specifying words ( jedes Land, diese Aufgaben). Compare: non-specific specific Geld dieses Geld / mein Geld / das Geld von … ein Gast der Gast / dieser Gast / unser Gast Cafés eure Cafés / die Cafés / diese Cafés H.2
+H.3 Once you understand this distinction, negating direct object nouns is relatively easy. Non-specific accusative nouns are negated with kein- . The accusative forms for kein- are just like the forms for ein-, which means that the only ones that change from the nominative are the masculine forms: masculine feminine neuter plural Nominative kein keine kein keine Accusative kein en keine kein keine In context, they work like this: Geld → Er hat kein Geld. He has no money. / He doesn’t have any money. eine Kirche → Ich sehe keine Kirche. I see no church. / I don’t see a (any) church. Cafés → Es gibt keine guten Cafés hier. There are no good cafés here. / There aren’t any good cafés here. H.3
+H.4 Specific accusative noun objects, as well as pronoun objects, are negated by placing nicht after the noun or pronoun: Ich esse diese Tomaten nicht . I’m not eating these tomatoes. Wir brauchen die Tomaten nicht . We don’t need the tomatoes. Sie mag meine Tomaten nicht . She doesn’t like my tomatoes. Wir benutzen sie nicht . We’re not using them. H.4
+
+--- Thema 4.4: Essen: Medien / Politik ---
+
+## I. Accusative: Adjective Endings
+I. Accusative: Adjective Endings In the Interaktionen above you encountered several examples of accusative noun phrases with adjectives: Das Restaurant braucht einen zweiten Koch . Fünf Hobby-Köche machen ein elegantes Dinner . Hat der Wein die korrekte Temperatur ? How do adjective endings work in this context? I.1 Recall from Chapter 3 that adjective endings coordinate with articles to indicate the gender, case and number of the nouns they modify. When adjective endings follow singular ein -words that have no endings, or when they appear with no preceding article, they closely resemble definite articles in order to make the gender distinctions clear: ( der ) Salat ( die ) Pizza ( das ) Bier ein grün er Salat eine gut e Pizza ein kalt es Bier mein grün er Salat ihre gut e Pizza dein kalt es Bier kein grün er Salat keine gut e Pizza kein kalt es Bier grün er Salat gut e Pizza kalt es Bier With der -words, however, the gender distinctions are already obvious, so the adjective endings are simpler: der grün e Salat die gut e Pizza das kalt e Bier dies er grün e Salat dies e gut e Pizza dies es kalt e Bier jed er grün e Salat jed e gut e Pizza jed es kalt e Bier With plural nouns, the same principle applies: If there is no preceding article (which often happens with non-specific plural nouns, such as Pommes ), the adjective ending resembles the definite article: die Pommes → gut e Pommes When there is a preceding article, the adjective ending is always -en : Die Pommes hier sind sehr gut. → Die heiß en Pommes hier sind sehr gut. Wo sind unsere Pommes? → Wo sind unsere heiß en Pommes? I.1
+I.2. Before you panic at the thought of learning an entirely new set of endings for the accusative case, remember that the only change from nominative to accusative involves the endings for masculine nouns — from -er to -en . This change applies to adjectives preceding accusative nouns, so that everything preceding a masculine accusative noun — articles as well as adjectives — takes the ending -en. Ich nehme ein en Salat. Ich nehme ein en grün en Salat. Ich nehme ein en frisch en , grün en Salat. Ich esse gern grün en Salat, aber nur mit Dressing. Also, ich brauche aber eine Dressing für mein en grün en Salat. Warum isst du dein en grün en Salat nicht? Also, ich esse dein en grün en Salat auch. If you find charts helpful, here are all the adjective endings for singular nouns in the accusative, using a variety of der- and ein- words: ( der ) Salat ( die ) Pizza ( das ) Bier den grün en Salat die gut e Pizza das kalt e Bier diesen grün en Salat diese gut e Pizza dieses kalt e Bier jeden grün en Salat jede gut e Pizza jedes kalt e Bier einen grün en Salat eine gut e Pizza ein kalt es Bier meinen grün en Salat ihre gut e Pizza dein kalt es Bier keinen grün en Salat keine gut e Pizza kein kalt es Bier grün en Salat gut e Pizza kalt es Bier And for plural nouns, the endings are identical to those in the nominative case: • with articles: die heiß en Pommes / keine heiß en Pommes • without articles: heiß e Pommes I.2
+
+## J. N-nouns
+J. N-nouns J.1 Throughout this chapter you’ve been reminded that the only difference between the nominative and accusative case in German involves the articles for masculine singular nouns, expressed with the ending -en : nominative der Garten dieser Garten ein Garten kein Garten accusative den Garten diesen Garten einen Garten keinen Garten For a small number of masculine nouns, this change extends to the noun itself, in the form of an added -n or -en . Since these nouns show this change in all cases except the nominative case, they are often referred to as N-nouns. The total number of N-nouns in German is quite small, and the number in the core vocabulary is even smaller. You’ve learned some of them in previous chapters, and almost all the rest are included in the core vocabulary for this Thema. Here are the ones you should know at this point: nominative accusative der Herr man / Mr. Herr Schmitt ist da. Kennen Sie Herr n Schmitt? der Junge boy Dieser Junge spielt gut. Wir brauchen diesen Jung en fürs Team. der Kunde (male) customer Der Kunde kauft etwas. Wir haben einen Kund en . der Mensch individual / person / human being Jeder Mensch ist wichtig. Niemand versteht jeden Mensch en . der Name name Was ist sein Name ? Unser Hund hat einen komischen Name n . der Student (male) student Der Student liest. Das Buch ist für den Student en . J.1
+J.2 While N-nouns require extra attention, they have one advantage: Any time you see an N-noun without the added –(e)n , you can be certain that it's in the nominative case, regardless of where it appears in the sentence: Viele Freunde hat dieser Student leider nicht. Für eine Frau ist das jetzt ein ganz normaler Name . But be careful: The plural forms of these nouns are usually identical with the “-(e)n” forms. In fact, only Herr ( accusative: Herrn ) has a distinctive plural form: die Herren . This means that you have to rely on other information in the sentence to determine whether the noun is singular or plural. Kennst du diesen Studenten? Do you know this (male) student? Kennst du diese Studenten? Do you know these (male) students? In the vocabulary lists here and in chapters to come, N-nouns are listed as follows: Herr(n) [die Herren] Mensch(en) [die Menschen] J.2
+
+========================================================================
+GRAMMAR ALREADY KNOWN (Kapitel 1-3) — reuse freely
+========================================================================
+Kapitel 1 (Smalltalk): A. der/die/das; B. Subjects + Verbs: ich / du / Sie; C. der|die|das → ein|eine|ein; D. Plural nouns; E. Subjects + Verbs: er / sie / es / sie (pl.); F. Pronouns and gender; G. Subjects + Verbs: wir / ihr / Sie; H. I like ... / like to ...; I. Time/calendar expressions; J. Subjects + Verbs: Summary
+Kapitel 2 (Vernetzt): A. Grammatical case; B. man; C. Welch- / Dies-; D. Jed- / All-; E. Negation; F. Werden; G. Asking questions; H. Possessive adjectives: mein / dein / …
+Kapitel 3 (Sonntag): A. Saying some: etwas / einige / ein paar; B. Stem-changing verbs; C. Ich gehe [joggen]; D. Adjective endings: Nominative; E. Verbs with separable prefixes; F. Past tense: was and had; G. Review: kein-/nicht; H. Negation: Verbs
+
+========================================================================
+NEW VOCABULARY — KAPITEL 4 (feature these)
+Format: German [forms] — English  |  example sentence
+========================================================================
+
+-- Thema 4.1 --
+amerikanisch — American  |  Wo bekommt man typisch amerikanisches Essen?
+an•bieten [an•bot | angeboten] — to offer (e.g., food/help/job)  |  Was für Essen bietet dieses Restaurant an?
+die Art [die Arten] — type, kind, sort; Arten [pl.] species  |  „Kaiserschmarrn“ ist eine Art Dessert in Österreich.
+das Bier [die Biere [ i.e., kinds of beer ]] — beer
+(das) China — China (the country)
+chinesisch — Chinese
+dort — (over) there [ further away than da )  |  Das Café ist nicht hier, sondern dort.
+es gibt — there is, there are [+ accusative]  |  Es gibt keine guten Restaurants hier.
+(das) Europa — Europe
+europäisch — European  |  Sie studiert europäische Politik.
+(das) Frankreich — France
+französisch — French  |  Ich mag französischen Rotwein. Du auch?
+international — international  |  Die globale Erwärmung ist ein internationales Problem.
+(das) Italien — Italy
+möglich — possible  |  Es ist möglich, dass die Party später beginnt.
+national — national  |  Gibt es ein nationales Essen in Österreich?
+Schweizer — [adj.] Swiss  |  Schweizer Geld hält seinen Wert.
+der Schweizer [die Schweizer] — Swiss (male)
+die Schweizerin [die Schweizerinnen] — Swiss (female)
+der Teil [die Teile] — part, section; zum Teil in part, partially  |  Welchen Teil von dem Buch verstehst du nicht?
+typisch — typical(ly)  |  Ist das typisch Deutsch oder typisch europäisch?
+unterschiedlich — different [from each other]  |  Mein Partner und ich haben sehr unterschiedliche Ideen.
+zuerst — [adv.] first  |  Zuerst trainiert man mit Schwimmen, dann mit Laufen, und dann...
+(das) Österreich — Austria
+der Österreicher [die Österreicher] — Austrian (male)
+die Österreicherin [die Österreicherinnen] — Austrian (female)
+
+-- Thema 4.2 --
+allein — alone  |  Ich esse nicht gern allein.
+bis — until  |  Wir bleiben bis 11 Uhr, und keine Minute länger.
+dafür — for that, for it …  |  Wir machen eine Apfeltorte und dafür brauchen wir Äpfel.
+dagegen — against that, against it …; by contrast, on the other hand  |  Er ist für diese Politik, aber ich bin dagegen.
+durch — through; by means of [+ accusative]  |  Nach dem Essen gehen wir durch den Park.
+der Flüchtling [Flüchtlinge] — refugee
+für — for [+ accusative]  |  Die Schokolade ist für dich, aber die Blumen sind für mich.
+der Garten [die Gärten] — garden  |  Wir haben einen kleinen Garten mit Rosen und Tulpen.
+gegen — against [+ accusative]  |  Wir sind gegen diese Politik.
+das Glas [die Gläser] — glass
+gleich — [adv.] right away; [adv./adj.] the same, equal(ly)  |  Ich mache das gleich!
+kaufen [kaufte | gekauft] — to buy  |  Wir kaufen ein neues Auto!
+die Küche [die Küchen] — kitchen; cuisine  |  Er arbeitet gern in der Küche.
+mindestens — at least [with numbers or amounts]  |  Der Film dauert mindestens zwei Stunden.
+ohne — without [+ accusative]  |  Ich gehe nie zu Partys ohne ein paar Freunde.
+der Rest [die Reste (remains, leftovers)] — rest, remainder  |  Zum Abendessen gibt es nur Reste.
+selbst — [one]self  |  Machst du das immer selbst? Oder macht das jemand für dich?
+der Spaß — fun [noun]  |  Macht das Spaß – oder macht das keinen Spaß?
+um — around [+ accusative]  |  Wir laufen einmal um den Park.
+um — at [with clock time]  |  Wir essen heute um 1 Uhr nachmittags.
+ungefähr — about, approximately  |  Ein normaler Mensch braucht ungefähr 2000 Kalorien pro Tag.
+verbinden [verband | verbunden] — to connect  |  Viele Familien bleiben durch Facebook verbunden.
+das Wasser — water  |  Beim Essen trinke ich meistens Mineralwasser.
+
+-- Thema 4.3 --
+bekommen [bekam | bekommen] — to get, receive, obtain  |  Wie viele E-Mails bekommst du jeden Tag?
+dich — you [accusative; familiar; sing.]  |  Ich finde dich total super!
+dick — fat; thick  |  Für den Kurs lesen wir ein ganz dickes Buch.
+einmal zweimal dreimal… — once, twice, three times, …  |  Wir laufen einmal um den Campus, okay?
+euch — you all [dative/accusative; familiar; pl.]  |  Ich spiele etwas von J.S. Bach für euch, okay?
+der Euro [amount: die Euro; currency: die Euros] — euro  |  Das kostet drei Euro.
+fertig — finished, completed; ready  |  Bist du fertig? Oder brauchst du mehr Zeit?
+geben [gibt | gab | gegeben] — to give  |  Wie viel geben Sie mir dafür?
+das Geld [die Gelder] — money  |  Hast du etwas Geld für die Pizza?
+gesund — healthy; sound
+holen [holte | geholt] — to go get, fetch, get ahold of  |  Hast du Hunger? Ich hole etwas von McDonalds.
+ihn — him [accusative]  |  Ist das Sandwich für ihn oder für mich?
+das Kilogramm [(after numbers) Kilogramm] — kilogram
+kosten [kostete | gekostet] — to cost  |  Das Essen dort kostet nicht so viel.
+mich — me [accusative]  |  Meine Freunde laden mich immer ein.
+mögen [mag | mochte | gemocht] — to like  |  Magst du das Essen dort? Wir mögen es nicht.
+die Nacht [die Nächte] — night  |  Wir arbeiten hier Tag und Nacht!
+sondern — but rather [ after nicht or kein- )  |  Nein, die Prüfung ist nicht am Freitag, sondern am Montag.
+das Stück [[food] Stück; [music/theater] Stücke] — piece of [food]; [musical] piece, [theater] play  |  Zum Frühstück esse ich immer zwei Stück Toast.
+teuer — expensive  |  Zehn Euro für eine Tasse Kaffee? Das ist zu teuer.
+tragen [trägt | trug | getragen] — to carry; to wear  |  Das ist zu schwer zu tragen.
+uns — us [accusative + dative]  |  Was haben diese Leute gegen uns?
+die Zahl [die Zahlen] — number  |  Wie viele Leute sind hier? Hast du die genaue Zahl?
+zahlen [zahlte | gezahlt] — to pay  |  Wer zahlt fürs Essen?
+überall — everywhere  |  Diese Probleme gibt es überall, nicht nur hier.
+
+-- Thema 4.4 --
+beide — both  |  Angela und Mia kommen auch. Beide essen gern in diesem Restaurant.
+bestimmt — definite(ly), certain(ly)  |  Alex kommt bestimmt 15 Minuten zu spät, wie immer.
+erreichen [erreichte | erreicht] — to achieve, attain (e.g., a goal); to reach (e.g., a destination)
+frisch — fresh; recent [ as in newly done or appearing]
+die Geschichte [die Geschichten] — story; history  |  Das ist eine sehr interessante Geschichte. Aber ist sie wahr?
+komplett — complete(ly), entire(ly)
+kritisch — critical, crucial
+kulturell — cultural(ly)  |  Man braucht immer eine kulturelle Perspektive.
+der Kunde [die Kunden] — (male) customer, client ["N"-noun]  |  Das neue Café hat viele Kunden.
+die Kundin [die Kundinnen] — (female) customer, client
+der Mensch [die Menschen] — person, human being ["N"-noun]  |  Kein Mensch versteht das!
+die Möglichkeit [die Möglichkeiten] — possibility  |  Was für Möglichkeiten hast du nach der Uni?
+der Name [die Namen] — name ["N"-noun]  |  Ich vergesse immer seinen Namen!
+scheinen [schien | geschienen] — to seem; to shine  |  Das ist nicht so einfach wie es scheint. / Die Sonne scheint wieder.
+sicher — sure(ly), certain(ly); safe(ly)  |  Bist du sicher, wir haben morgen eine Prüfung?
+das Thema [die Themen] — theme, topic  |  Heute diskutieren wir ein neues Thema.
+der Tisch [die Tische] — table  |  Gibt es hier einen freien Tisch?
+die Tür [die Türen] — door  |  Zuerst geht man durch diese Tür, dann ...
+der Unterschied [die Unterschiede] — difference  |  Es gibt wichtige Unterschiede zwischen Nord und Süd in Deutschland.
+vor•stellen [vor•stellte | vorgestellt] — to introduce; sich etwas vorstellen to imagine/picture something (to oneself)  |  So, ich stelle mich jetzt vor: Ich heiße ... und ich komme aus...
+das Ziel [die Ziele] — goal
+ziemlich — somewhat, rather  |  Diese Aufgabe ist ziemlich schwer, finde ich.
+zu•nehmen [zu•nimmt | zu•nahm | zugenommen] — to increase, rise, gain ( also: in weight)  |  Wenn Mama kocht, nehme ich immer zu.
+zwischen — between [+ acc./dat.]  |  Viele Türken in Deutschland leben zwischen zwei Kulturen.
+
+========================================================================
+VOCABULARY ALREADY KNOWN (Kapitel 1-3) — recycle these
+========================================================================
+
+-- Kapitel 1: Smalltalk --
+die Antwort [die Antworten] — answer
+arbeiten [arbeitete | gearbeitet] — to work
+auch — also; auch wenn even if
+die Dame [Damen] — lady [ used mostly in formal contexts: Meine Damen und Herren, … Ladies and gentlemen ... ]
+der die das — the [masculine; feminine/plural; neuter]
+du — you [familiar; singular]
+finden [fand | gefunden] — to find
+die Frage [die Fragen] — question
+fragen [fragte | gefragt] — to ask
+die Frau [die Frauen] — woman; lady; title: Ms./Miss/Mrs.; wife
+gut — adj.: good; adv.: well
+haben [hat | hatte | gehabt] — to have
+hallo — Hello / Hi Hallo allerseits! Hello everybody! [ lit. : Hello on all sides]
+heißen [hieß | geheißen] — to be named, to be called
+der Herr [Herren] — title: Mr.; gentleman; sir
+hören [hörte | gehört] — to hear; zu•hören to listen to [+ Dat.]
+ich — I
+immer — always
+ja — yes
+der Mann [die Männer] — man; husband
+nein — no
+nicht — not
+oder — or; question tag: ..., isn’t it? didn’t we? aren’t you?
+sagen [sagte | gesagt] — to say
+sehr — very
+sein [ist | war | ist gewesen] — to be
+Sie — you [formal; singular and plural]
+spielen [spielte | gespielt] — to play (a game or an instrument); to act, perform
+die Struktur [die Strukturen] — structure
+der Student [die Studenten] — (male) university student ["N"-noun]
+die Studentin [die Studentinnen] — (female) university student
+studieren [studierte | studiert] — to engage in a course of study; to be a student at a university
+und — and
+verstehen [verstand | verstanden] — to understand
+was — what
+wichtig — important
+wie — how [question word]; like, as wie immer
+aber — but; however
+alt — old
+das Bild [die Bilder] — picture
+da — there
+das Dorf [die Dörfer] — village
+eins zwei drei...zwölf — 1, 2, 3...12
+er — he; [ masculine noun: it]
+es — it
+gehen [ging | ist gegangen] — to go, walk
+groß — big, tall
+hier — here
+jetzt — now
+klein — small, short
+kommen [kam | ist gekommen] — to come
+das Land [die Länder] — country
+lernen [lernte | gelernt] — to learn, to study (for a class or test)
+Leute [plural only] — people
+machen [machte | gemacht] — to do, make
+nur — only
+schön — nice(ly), beautiful(ly)
+sie — she; [ feminine noun: it]
+sie — they
+die Stadt [die Städte] — city
+tausend [(die) Tausende] — thousand
+viele — many, a lot [plural]
+wo — where
+woher — from where? where from?
+wohnen [wohnte | gewohnt] — to live, reside
+die Arbeit [die Arbeiten] — work; research paper
+die Aufgabe [die Aufgaben] — assignment
+das Buch [die Bücher] — book
+ein bisschen — a little
+das Essen [rarely plural] — food; eating
+etwas — something; somewhat; some (sing.), a little
+ganz — really, quite; total, whole
+gar nicht — not at all
+gern — with a verb: to like to ... [lit.: gladly]
+ihr — you all [familiar; plural]
+interessant — interesting
+der Kurs [die Kurse] — [academic] course
+kurz — short, brief
+lang — long
+lesen [liest | las | gelesen] — to read
+meinen [meinte | gemeint] — to mean; to have an opinion
+die Prüfung [die Prüfungen] — exam, test
+schlecht — bad(ly)
+schreiben [schrieb | geschrieben] — to write
+die Universität [die Universitäten] — university [ informal: Uni ]
+viel — much, a lot [singular]
+wir — we
+das Wort [die Wörter] — word
+der Abend [die Abende] — evening
+der Dienstag [die Dienstage] — Tuesday
+der Donnerstag [die Donnerstage] — Thursday
+der Freitag [die Freitage] — Friday
+genug — enough
+gestern — yesterday
+heute — today
+los — Was ist los? What's happening? or: What's wrong?; nicht viel los not much happening; etwas los werden to get rid of something
+die Minute [die Minuten] — minute
+der Mittwoch [die Mittwoche] — Wednesday
+der Montag [die Montage] — Monday
+morgen — tomorrow
+na — so? well?
+der Samstag [die Samstage] — Saturday
+der Sonntag [die Sonntage] — Sunday
+spät später — late / later
+die Stunde [die Stunden] — hour
+der Tag [die Tage] — day
+die Temperatur [die Temperaturen] — temperature
+die Uhr [die Uhren] — clock; fünf Uhr five o'clock
+die Woche [die Wochen] — week
+das Wochenende [die Wochenenden] — weekend
+die Zeit [die Zeiten] — time
+
+-- Kapitel 2: Vernetzt --
+benutzen [benutzte | benutzt] — to use (esp. physical objects); with websites: benutzen or nutzen
+besonders — especially, particularly
+bleiben [blieb | ist geblieben] — to remain, stay
+der Computer [die Computer] — computer
+dann — then, next (in a sequence)
+denn — since, because
+deutsch — German [adj.]
+Deutsch — German (language)
+eigentlich — actually
+englisch — English [adj.]
+Englisch — English (language)
+der Freund [die Freunde] — (male) friend; mein Freund my boyfriend
+die Freundin [die Freundinnen] — (female) friend; meine Freundin my girlfriend
+die Gruppe [die Gruppen] — group
+das Internet — internet
+man — one, you [impersonal]
+natürlich — natural(ly), of course
+normal — normal (adj.); normalerweise typically, normally
+nutzen [nutzte | genutzt] — to use, make use of with either things or abstractions, e.g. to use an opportunity / a computer / a website
+schicken [schickte | geschickt] — to send
+sehen [sieht | sah | gesehen] — to see
+so...wie… — as … as …
+sozial — social
+teilen [teilte | geteilt] — to share; to divide
+vielleicht — maybe, perhaps
+alle — all; everyone [plural]
+alles — everything [singular]
+die Beziehung [die Beziehungen] — relation(ship), connection
+der Bruder [die Brüder] — brother
+dies- — this
+die Eltern [plural only] — parents
+eng — tight, narrow; with relationships: close
+die Familie [die Familien] — family
+jed- — each, every [sing.]
+jung — young
+der Junge [die Jungen] — boy [up to about age 15] ["N"-noun]
+kennen [kannte | gekannt] — to know, be acquainted with
+das Kind [die Kinder] — child
+leben [lebte | gelebt] — to live, be alive
+die Mama [die Mamas] — mom / mommy
+die Mutter [die Mütter] — mother
+das Mädchen [die Mädchen] — girl [up to about age 15]
+der Papa [die Papas] — dad / daddy
+die Schwester [die Schwestern] — sister
+der Sohn [die Söhne] — son
+die Tochter [die Töchter] — daughter
+der Vater [die Väter] — father
+weit — far
+welch- — which
+wirklich — real(ly)
+beginnen [begann | begonnen] — to begin
+bekannt — well-known, familiar
+der/die Bekannte [die Bekannten] — acquaintance
+dein — your [ with du ]
+ein paar — a few, a couple of
+fast — almost
+glücklich — happy
+kein — no / not any / not a
+die Liebe [normally only used in the sing.] — love
+lieben [liebte | geliebt] — to love
+mein — my
+die Musik — music
+noch — still; yet; noch nicht not yet
+okay — OK
+der Partner [die Partner] — (male) partner
+die Partnerin [die Partnerinnen] — (female) partner
+der Satz [die Sätze] — sentence
+schwer — heavy; difficult, hard
+so — like this, in this way; so; with a quote: according to
+werden [wird/wirst | wurde | ist geworden] — to become
+das Zimmer [die Zimmer] — room (i.e., an enclosed space)
+zusammen — together
+das Beispiel [die Beispiele] — example; zum Beispiel for example ( often abbreviated: z.B.)
+denken [dachte | gedacht] — to think
+(das) Deutschland — Germany
+einfach — adj.: simple; adv.: simply
+ihr — (adj.) her
+Ihr — (adj.) your [formal; sing. and pl.]
+langsam — slow(ly)
+mehr — more; mehr als more than
+neu — new
+nichts — nothing
+oh — oh [ interjection: Oh nein! Oh ja!]
+die Person [die Personen] — person
+schnell — fast, rapid(ly), quick(ly)
+sein — (adj.) his, its
+unser — our
+wahr — true; nicht wahr? question tag: ..., isn’t it? didn’t we? aren’t you?
+wann — when [to introduce a question]
+warum — why
+wer — who, whoever
+wieso — why, how come
+
+-- Kapitel 3: Sonntag --
+blau — blue
+brauchen [brauchte | gebraucht] — to need
+echt — genuine(ly), real(ly)
+einig- — several, a few
+erst- — [adj.] first
+essen [isst | aß | gegessen] — to eat
+die Farbe [die Farben] — color
+genau — exact(ly), precise(ly)
+grün — green
+halten [hält | hielt | gehalten] — to hold, keep; to stop
+heiß — hot
+kalt — cold
+laufen [läuft | lief | ist gelaufen] — to run
+der Morgen [die Morgen] — morning
+morgens — (adv.) mornings, in the morning
+nehmen [nimmt | nahm | genommen] — to take
+nie — never
+rot — red
+schlafen [schläft | schlief | geschlafen] — to sleep
+schwarz — black
+singen [sang | gesungen] — to sing
+sprechen [spricht | sprach | gesprochen] — to speak
+toll — awesome, super
+warm — warm
+weiß — white
+also — so [ as in “So, what do you think?”)
+andere — other
+der Besuch [die Besuche] — visit
+besuchen [besuchte | besucht] — to visit
+die Bewegung [die Bewegungen] — motion; exercise
+dauern [dauerte | gedauert] — to last
+draußen — outside
+früh — early
+der Gast [die Gäste] — guest
+glauben [glaubte | geglaubt] — to believe [+ dative (person): Ich glaube dir. ]
+der Gott [die Götter] — God
+der Grad [with temperature: no plural] — degree
+das Jahr [die Jahre] — year
+die Kirche [die Kirchen] — church
+manchmal — sometimes, occasionally
+oben — above, overhead; upstairs
+oft — often, frequently
+pro — per
+das Prozent [die Prozente] — percent
+die Ruhe — quiet, calm, rest
+stören [störte | gestört] — to disturb
+tun [tat | getan] — to do
+unten — down, below; downstairs
+die Zeitung [die Zeitungen] — newspaper
+an•fangen [an•fängt | an•fing | angefangen] — to begin, start
+an•kommen [an•kam | ist angekommen] — to arrive
+an•rufen [an•rief | angerufen] — to call (on the phone)
+auf•stehen [auf•stand | ist aufgestanden] — to get up, stand up
+aus•gehen [aus•ging | ist ausgegangen] — to go out
+best- — best
+bringen [brachte | gebracht] — to bring
+danke — thanks, thank you
+ein•laden [ein•lädt | ein•lud | eingeladen] — to invite; to treat someone [Acc.] to something [+ zu … ], i.e., pay for it
+gemeinsam — together, in common, mutual(ly)
+das Gespräch [die Gespräche] — conversation, discussion
+das Haus [die Häuser] — house
+der Hund [die Hunde] — dog
+klingen [klang | geklungen] — to sound
+die Sache [die Sachen] — thing, matter, item
+die Sonne [die Sonnen] — sun
+das Tier [die Tiere] — animal
+trinken [trank | getrunken] — to drink
+der Weg [die Wege] — path, way, route
+wieder — again
+zurück•kommen [zurück•kam | ist zurückgekommen] — to come back, return
+überhaupt — in general; at all: überhaupt nicht not at all
+aus•sehen [aus•sieht | aus•sah | ausgesehen] — to look, appear
+bedeuten [bedeutete | bedeutet] — to mean, to have meaning [ as in: This word means ...; cf.: meinen ]
+ermitteln [ermittelte | ermittelt] — to find out/ascertain by careful investigation
+erzählen [erzählte | erzählt] — to tell (a story), narrate
+der Fall [Fälle] — case; drop, demise
+das Gefühl [die Gefühle] — feeling, emotion
+jemand — someone
+komplex — complex, complicated, sophisticated
+lösen [löste | gelöst] — to solve; to loosen
+das Mal [die Male] — time [occurrence]
+niemand — no one, nobody
+offen — open(ly)
+das Problem [die Probleme] — problem
+die Spur [die Spuren] — trace, trail, [ criminal case ] clue
+statt•finden [statt•fand | stattgefunden] — to take place
+stimmen [stimmte | gestimmt] — to be correct
+die Tat [die Taten] — deed, exploit, act; [ law ] crime
+vergessen [vergisst | vergaß | vergessen] — to forget
+das Verhältnis [die Verhältnisse] — ratio: ein Verhältnis von … zu … ; relationship; im Verhältnis zu compared to
+verschieden — various, different
+wenig — little [sing.]; few [pl.]

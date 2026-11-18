@@ -1,0 +1,889 @@
+DER | DIE | DAS — KAPITEL 8: GROSSSTADT
+Speaking practice with Claude
+
+HOW TO USE: paste (or attach) this whole file as your first message to Claude, send it,
+then switch to voice mode. Claude opens the conversation. Say "Ende" to finish and get
+a summary of your mistakes and the words to review.
+
+========================================================================
+INSTRUCTIONS FOR CLAUDE
+========================================================================
+
+You are my German conversation partner and tutor. I am one of the beginners (first year of college German) working
+through the der|die|das German curriculum, and I have just finished Kapitel 8
+("Großstadt"). The rest of this message is reference material from the course: the
+chapter's Themen, its grammar explanations, the grammar I already know, and every word
+I have learned so far. Use it to keep this conversation at exactly my level.
+
+Your aim: get me SPEAKING as much as possible, using the vocabulary and grammar of
+Kapitel 8, while recycling what I learned in earlier chapters.
+
+Your German:
+- Use ONLY words from the vocabulary lists below, plus names, numbers, obvious
+  international cognates and small function words (articles, pronouns, und, oder,
+  aber, in, auf ...). If you really need another word, gloss it in English once.
+- Use ONLY grammar from Kapitel 1-8. Never use tenses, cases or constructions that
+  come later in the course, even in corrections.
+- Speak mostly German (about 70%) in short, simple sentences. Use English for grammar explanations and to gloss new or tricky words, but let familiar German sentences stand without translation.
+- Keep your turns SHORT: one to three sentences, then hand back to me, usually with one
+  clear question. I should be talking more than you.
+
+Correcting me (this is the point of the exercise):
+- When I make a mistake, correct it right away but briefly: say the correct sentence
+  ("Fast! Man sagt: ..."), name the problem in a few words (gender, ending, case, word
+  order, wrong word), then ask me to say the corrected sentence. Then continue the
+  conversation.
+- Prioritise mistakes involving Kapitel 8 grammar and vocabulary, then earlier
+  grammar. Correct at most two things per turn; if there are more, keep a note and
+  return to them later or in the final summary.
+- If I correct myself, praise it. If I make the same mistake again, steer the
+  conversation so I get another chance to use that form correctly.
+- I am speaking through voice transcription. Ignore spelling, capitalisation and
+  punctuation, and assume a word that sounds like the right one is the right one. Only
+  correct real grammar and word-choice errors. You cannot hear my pronunciation, so
+  don't comment on it.
+- If I'm stuck or say something in English, give me the German words I need, then
+  have me try the sentence myself.
+
+Running the session:
+1. Start immediately: greet me in German and ask an easy warm-up question.
+2. Move through the Themen of Kapitel 8 as short real-life situations and role-plays
+   (you play a friend, a waiter, a classmate, a host family member ...). Announce each
+   new situation in one sentence.
+3. Build in natural reasons to use each main Kapitel 8 grammar point (e.g. questions
+   that require that structure in the answer). Don't lecture; if I keep getting a
+   point wrong, explain it in two or three sentences, then practise it again.
+4. Every so often, bring back a topic or structure from an earlier chapter.
+5. Things I might say:
+   - "Langsamer" — simplify and slow down.
+   - "Auf Englisch?" — explain the last thing in English, then go back to German.
+   - "Noch mal" — repeat your last turn.
+   - "Neues Thema" — switch to another situation.
+   - "Ende" — stop and give the summary below.
+6. Summary at the end: list each mistake I made with the correct version and a
+   one-line rule, then the chapter words I used well, then 5-10 words or structures I
+   should practise next time. Keep it short enough to read aloud.
+
+Voice-mode style: speak in natural sentences. No markdown, bullet lists, tables or
+emoji in your replies, except in the final summary if I'm reading rather than
+listening.
+
+========================================================================
+THEMEN OF KAPITEL 8: Großstadt
+========================================================================
+  8.1  Stadtbild(er)
+  8.2  Innenstadt
+  8.3  Wiederholung I
+  8.4  Wiederholung II
+
+========================================================================
+GRAMMAR FOCUS — KAPITEL 8 (explanations from the course)
+========================================================================
+
+--- Thema 8.1: Stadtbild(er) ---
+
+## A. Subject-verb inversion
+A. Subject-verb inversion A.1 Whether you've noticed them or not, you’ve encountered literally hundreds of examples of a grammatical structure in German that differs markedly from English: Manchmal essen wir bei McDonald’s. Im 19. Jahrhundert ist Leipzig viel größer geworden. Auf Instagram gibt es viele Storys. Diese Filme nennt man »Heimatfilme«. In der DDR waren die alten Autos teurer als neue Modelle. Den ganzen Sommer müssen die Fans auf den ersten Spieltag warten. What's the difference? Word order. Notice how the elements in the first German sentence are sequenced as compared with its English translation: Manchmal essen wir bei McDonald’s. Sometimes we eat at McDonald’s. Both sentences begin with a time element: Manchmal ... / Sometimes ... , but whereas English continues with the usual subject/verb pattern ( ... we eat ... ), German inverts that pattern and places the subject after the verb: ... essen wir ... . Looking at the other examples, you can see that this holds true regardless of whether the initial element is a one-word element ( Manchmal … ), two words ( Auf Instagram … / Diese Filme … ), or even longer ( Im 19. Jahrhundert … / In der DDR … / Den ganzen Sommer … ). You’ll also notice that these elements have various functions — some are adverbial modifiers of time and place, and one of them is a direct object ( Diese Filme ). The important difference here is that German allows only one such element to appear before the conjugated verb, in what is often called the “front field” of the sentence. And if that element is not the subject, then the subject must come after the verb. To put it another way: The conjugated verb must always be the second element. This rule is easy enough to articulate — but it turns out to be relatively difficult to put into practice for learners whose native language doesn’t follow this pattern. English speakers are so used to stating the subject before the verb, no matter how much information precedes it, that they instinctively do so in German as well. (And even non-native speakers of English tend to stumble over this when they learn German.) A.1
+A.2 Coordinating conjunctions This rule about verb placement pertains to units of ideas known as independent clauses. So far, each of the examples and exercises in this section has made use of a single independent clause: Manchmal essen wir bei McDonald’s. Auf Instagram gibt es viele Storys. In der DDR waren die alten Autos teurer als neue Modelle. But independent clauses are routinely joined together by way of words such as und, aber, denn and oder, which are known as coordinating conjunctions. These conjunctions do not affect the word order within the clauses they connect; they simply tie them together. In other words, an independent clause following und, aber, denn and oder begins with its own first element, not the conjugated verb: Manchmal essen wir bei McDonald’s, und dann bestelle ich mir einen Big Mac mit Pommes. Auf Instagram gibt es viele Storys, aber natürlich sind nicht alle ganz echt. In der DDR waren die alten Autos teurer als neue Modelle, denn man musste so lang auf die neuen Modelle warten. A.2
+
+## B. Review
+B. Review Beginning with this section, the Strukturen in Chapter 8 provide focused grammar reviews of the concepts you’ve learned so far. By definition, a “focused” review can’t include everything. And because the reviews reach across chapter boundaries to bring together various aspects of these grammar points, certain vocabulary items — prepositions and modal verbs, for example — will appear out of sequence compared with the comprehensive vocabulary reviews that appear in Thema 3 and Thema 4 of this chapter. Nonetheless, we think these reviews will be helpful, and we encourage you to work through them carefully. B.1 Grammatical Case You’ve been introduced to three of the four grammatical cases in German and the various functions they take on: Nominative the default case for nouns (i.e., when they stand alone, with no grammatical context) indicates the subject of a sentence used with nouns referring to the sentence subject, following verbs such as these: sein to be werden to become bleiben to remain, stay gelten + als considered to be Accusative indicates the direct object used with accusative prepositions: durch / für / gegen / ohne / um used with variable prepositions in contexts showing motion toward a destination: an / auf / unter / über / hinter / vor / neben / zwischen / in used as the object of es gibt: There is … / There are … Dative used with dative prepositions: ab / aus / außer / bei / gegenüber / mit / nach / seit / von / zu used with variable prepositions in contexts showing location: an / auf / unter / über / hinter / vor / neben / zwischen / in indicates the recipient (i.e., the indirect object) of something: (in conjunction with verbs such as geben / schicken / zeigen / erklären ) used with objects of dative verbs: antworten / glauben (people) / helfen / gefallen / gehören B.1
+B.2 der-words The options in Übung 8.5 above should remind you of an important difference between der -words and ein- words: das / ein Mitglied der / ein Beruf In the nominative case, der- words distinguish between masculine and neuter nouns, while ein- words do not. The discussion below reviews the ways that this works out in all three grammatical cases, and for all the words that follow the patterns of der- words and ein- words, respectively. Der- words distinguish the three genders in the nominative case with endings that correspond to the definite articles: der → -er die → -e das → -es You’ve learned four der- words that use these endings: dies- this (sing.) / these (pl.) jed- every (sing. only) welch- which all- all (plural only) The following chart shows these der- words in all three genders and the plural, in the three cases you’ve learned so far: singular plural Masculine Feminine Neuter Nom. der dieser jeder welcher die diese jede welche das dieses jedes welches the this each,every which die diese alle welche the these all (the) which Acc. den diesen jeden welchen die diese jede welche das dieses jedes welches die diese alle welche Dat. dem diesem jedem welchem der dieser jeder welcher dem diesem jedem welchem den __n diesen __n allen __n welchen __n B.2
+B.3 ein-words There are two categories of words that follow the pattern of endings used by ein: ein itself, and the negating particle kein : no, not a, not any the possessive adjectives: mein my dein your (sing., familiar) Ihr your (sing., formal) sein / ihr / sein his / her / its unser our euer your (pl., familiar) Ihr your (pl., formal) ihr their The chart below shows how ein- words are formed across the three genders, singular and plural, for the three cases. (Only the three most frequently used possessive forms are shown, for the sake of saving space; all the others follow the same pattern.) Notice how consistent most of these endings are with those of the der- words — the only exceptions being nominative masculine and nominative/accusative neuter, which take no endings. singular plural Masculine Feminine Neuter Nom. ein kein mein ihr / Ihr sein [...] eine keine meine ihre / Ihre seine [...] ein kein mein ihr / Ihr sein [...] a no, not a, not any my her, their / your his / its -- keine meine ihre / Ihre seine [...] Acc. einen keinen meinen ihren / Ihren sein [...] eine keine meine ihre / Ihre seine [...] ein kein mein ihr / Ihr sein [...] -- keine meine ihre / Ihre seine [...] Dat. einem keinem meinem ihrem / Ihrem seinem [...] einer keiner meiner ihrer / Ihrer seiner [...] einem keinem meinem ihrem / Ihrem seinem [...] keinen__n meinen __n ihren / Ihren seinen__n [...] B.3
+
+--- Thema 8.2: Innenstadt ---
+
+## C. Infinitive clauses
+C. Infinitive clauses C.1 German, like English, organizes words into various kinds of information units, or clauses: independent clauses, infinitive clauses, dependent clauses and relative clauses. You've encountered all four types, but the focus until now has been on independent clauses, i.e., groups of words that include (at least) a subject and a conjugated verb; that express a complete thought, with no need (strictly speaking) of any other clauses; and that follow the conjugated-verb-second rule presented in Thema 1 of this chapter. This section focuses on a second clause type, known as infinitive clauses. To show how these work we'll begin with a short dialogue in English: Roommate 1: Do you really have time to play video games? Roommate 2: I decided to take a break. Roommate 1: But you have a big test tomorrow ... Roommate 2: And I have absolutely no desire to get ready for it. Go away. All of these sentences contain independent clauses, either in the form of a question or a statement: Do you have time …? I decided … You have a big test ... I have absolutely no desire … What follows in three of them is a clause that begins with a verb infinitive (to play, to take, to get ready), followed by various other elements, such as direct objects and modifiers: … to play video games … to take a break … to get ready for it Now compare these clauses with their German equivalents: …, Videospiele zu spielen . …, eine Pause zu machen . …, mich darauf vorzubereiten° . Notice that there's no subject in these clauses — either in German or English — which is why the verb remains in infinitive form. Notice too how to and zu appear separately just before the infinitive. (In clauses containing a separable-prefix verb, such as vor•bereiten, the zu is inserted between the prefix and the main verb to form one word: vorzubereiten ). But there is an important difference between the two languages: English places the infinitive phrase at the beginning of the clause ( to play video games ), but in German it appears at the very end (Videospiele zu spielen ). C.1
+C.2 There are a number of commonly used independent clauses that lead naturally into infinitive clauses: Ich habe (keine) Zeit, … Ich habe keine Zeit, alle meine Aufgaben zu machen. Sie hat manchmal Zeit, nachmittags joggen zu gehen.* Haben wir genug Zeit, in die Stadt zu fahren? Es macht mir (keinen) Spaß, … Es macht mir Spaß, stundenlang im Café zu sitzen und Kaffee zu trinken. Mir hat es keinen Spaß gemacht, die Prüfung in Bio zu schreiben. Macht es dir Spaß, shoppen zu gehen?* Ich habe mich entschieden, ... Wir haben uns entschieden, in der Pause nach Mallorca zu fliegen. Sie hat sich entschieden, Chemie zu studieren. Ich finde es (nicht) wichtig / interessant / einfach, … Ich finde es nicht einfach, diese Konzepte zu verstehen. Findest du es interessant, Filme in einer Fremdsprache zu sehen? Er findet es manchmal schwer, die ganze Wahrheit zu sagen. Ich beginne, … / Ich fange an, … Ich muss anfangen, mehr zu schlafen und gesünder° zu essen. Sie hat letztes Jahr begonnen, sich sehr für Kunstgeschichte zu interessieren. Wann können wir beginnen, darüber zu diskutieren? Es gibt keinen Grund, … / Es gibt gute Gründe, … Es gibt keinen Grund, so etwas zu sagen. Es gibt viele gute Gründe, Fremdsprachen zu lernen. * Compound verbs such as joggen gehen and shoppen gehen insert zu into the verb phrase as a separate word: … joggen zu gehen. C.2
+C.3 In English, some modal verb structures include to , just like the infinitives in infinitive clauses: Her family was able to travel to Switzerland every year. This summer I finally have time to travel to Switzerland. I want to stay in touch with my friends back home. Sometimes it's difficult to stay in touch with them. German differs from English in this respect. Modal structures absorb zu into the modal verb so that it disappears, whereas it always appears in infinitive clauses. Compare: Ihre Familie konnte jedes Jahr in die Schweiz reisen . Diesen Sommer habe ich endlich Zeit, in die Schweiz zu reisen . Ich will mit meinen Freunden zu Hause in Kontakt bleiben . Manchmal ist es ganz schwer, mit ihnen in Kontakt zu bleiben . C.3
+C.4 A word on punctuation: You may have noticed that many German sentences with infinitive clauses contain a comma where English has none. German routinely uses commas to separate the various kinds of clauses from each other — something that can be very helpful in comprehending long sentences. In fact, the only time you don't use a comma to set off an infinitive clause is when the infinitive stands by itself after an independent clause, with no intervening objects or modifiers. Compare: Es macht mir Spaß , langsam zu lesen. Es macht mir Spaß , sehr alte Bücher zu lesen. Es macht mir Spaß zu lesen. (the infinitive stands alone → no comma) Hast du heute Zeit , mit mir zu essen? Hast du heute Zeit , an deinem Projekt zu arbeiten? Hast du heute Zeit zu essen? (the infinitive stands alone → no comma) C.4
+
+## D. Review: Pronouns
+D. Review: Pronouns D.1 Personal pronouns Like the definite and indefinite articles reviewed in Thema 1 of this chapter, pronouns indicate case and gender by using various forms: singular plural nominative accusative dative nominative accusative dative ich mich mir wir uns uns du Sie dich Sie dir Ihnen ihr Sie euch Sie euch Ihnen er sie es ihn sie es ihm ihr ihm sie sie ihnen Some examples: Felix sagt, er will heute in die Stadtmitte fahren. Seine Freundin Julia will mit ihm fahren. Sie möchte ins Kunstmuseum. »Aber ohne mich «, sagt Felix. »Kein Problem«, sagt sie , » ich kann mich dort mit Tobias treffen.« Also geht er mit ihr ins Museum. D.1
+D.2 Reflexive pronouns When these personal pronouns are reflexive , i.e., when they refer to the subject, most of them use the same forms as in the chart above. The only exceptions are Sie (singular and plural) and the third-person forms (singular and plural), all of which use sich for both the accusative and the dative case. singular plural nominative accusative dative nominative accusative dative ich mich mir wir uns uns du Sie dich sich dir sich ihr Sie euch sich euch sich er sie es sich sich sich sich sich sich sie sich sich D.2
+
+## E. Review: Adjective endings
+E. Review: Adjective endings In chapters 3, 4 and 5 you saw how articles combine with adjective endings to provide grammatical information regarding the case, number and gender of the noun. If you haven’t reviewed this grammatical structure recently, it may be helpful to read through each of those explanations before working through the summaries below. You can use these links to go directly to the relevant sections: Adjective endings in the nominative case Adjective endings in the accusative case Adjective endings in the dative case These explanations were intentionally divided across three chapters to help you learn how adjective endings work in each context, step by step. In this review, however, we want to take all three cases into account, as well as all the options for article usage, by looking at strong vs. weak endings. E.1 Strong and weak endings Strong endings mirror the definite articles: Masculine Feminine Neuter Plural Nom. -er -e -es -e Acc. -en -e -es -e Dat. -em -er -em -en Weak endings are much simpler: Masculine Feminine Neuter Plural Nom. -e -e -e -en Acc. -en -e -e -en Dat. -en -en -en -en Which endings you use is determined by the gender, number (singular or plural) and case of the noun in the phrase, and by how much grammatical information is supplied by the article. This means that the choice of the ending depends on whether the adjective comes after a der -word: der … Film / diese … Frage / jedes … Kind / alle … Ideen; an ein -word: ein … Gast / ihre … Frage / sein … Auto / keine … Berge; or no preceding article: … Spaß / … Natur / … Essen / … Gründe The discussion in E.2 below takes up each of these contexts in turn. E.1
+E.2.1 Adjectives after der -words A der -word supplies the maximum possible information regarding the gender, number and case of the noun following it, so that any adjectives following it only need to use the weak endings. Applying these to the examples above, and using definite articles as representative of all der -words: Masculine Feminine Neuter Plural Nom. der neu e Film die gut e Frage das klein e Kind die groß en Ideen Acc. den neu en Film die gut e Frage das klein e Kind die groß en Ideen Dat. dem neu en Film der gut en Frage dem klein en Kind den groß en Ideen E.2.2 Adjectives after ein -words By contrast, ein- words are inconsistent in terms of their grammatical precision. Sometimes they provide as much information as der -words, but in the nominative case, ein- words provide no endings to distinguish masculine and neuter nouns — just ein for both — and the same is true for neuter nouns in the accusative case. Consequently, any adjective following an ein -word in those three contexts must take a strong ending, as highlighted below, in order to provide this information. But in all other contexts, ein -words are just as precise as der -words, so that the weak endings suffice. Applying these rules to the examples above, and using indefinite articles as representative of all ein -words: Masculine Feminine Neuter Plural Nom. ein neu er Gast ein e kurz e Frage ein groß es Auto kein e hoh en Berge Acc. ein en neu en Gast ein e kurz e Frage ein groß es Auto kein e hoh en Berge Dat. ein em neu en Gast ein er kurz en Frage ein em groß en Auto kein en hoh en Bergen E.2.3 Adjectives with no preceding articles When no article precedes an adjective — which is common with plural nouns: new friends, interesting concepts — the adjective ending must show the information that the article would have provided. This makes it necessary to use the strong endings throughout all the cases and genders, as shown in the graph. Masculine Feminine Neuter Plural Nom. teur er Spaß frei e Natur schnell es Essen gut e Gründe Acc. teur en Spaß frei e Natur schnell es Essen gut e Gründe Dat. teur em Spaß frei er Natur schnell em Essen gut en Gründe n E.2
+
+--- Thema 8.3: Wiederholung I ---
+
+## F. Review: Present tense
+F. Review: Present tense While you most likely feel comfortable using the present tense by now, it's important to keep in mind the ways in which English and German differ in how they use it. To illustrate this we’ll use two familiar verbs: arbeiten to work schreiben to write F.1 Ask yourself how the specific forms used in the following sentences (e.g. work / works / working ) affect the meanings of the verbs in context: She usually works in Firestone or in her room. She’s working on her thesis. She's writing it right now, in fact. Does she work alone or with friends? Does she always write multiple drafts? Is she writing it at the moment? She’ll work more on it later. She’ll write it over the weekend. She’s been working on it since Monday. She’s been writing for days. In each of these sentences, work and write combine with various auxiliaries and suffixes to express different nuances of meaning: Statements: general: She works … process: She is work ing … (emphasis: right now / in process ) Questions: general: Does she always write …? process: Is she work ing …? Future tense: She’ ll write … Present perfect: She’ s been work ing … Notice that the only context in which you find an English present-tense verb stripped of all auxiliaries involves statements expressing general validity: She works on her thesis at night. She usually writes from 11pm to 2am. English modal verbs are an exception to this last rule, in that they routinely appear without auxiliaries: She can work on it tonight. May I ask you a question? Must the paper be handed in tomorrow? But not always: Does the paper have to be handed in tomorrow? (Good luck trying to explain this to a non-native speaker.) F.1
+F.2 By contrast, German simply uses the present-tense form of the verb in all of these contexts: Statements expressing both general validity and process: Sie arbeitet… Sie schreibt… She is working … / She works … She is writing … / She writes … Questions expressing both general validity and process: Arbeitet sie…? Schreibt sie…? Does she work …? / Is she working …? Does she write …? / Is she writing …? Statements and questions referring to the future (as long as future time is implied by the context): Sie arbeitet später daran. Sie schreibt es am Wochenende. She’ll work on it later. She’ll write it over the weekend. (German does, in fact, have a future tense form, which will be introduced in a later chapter; but whenever the context clearly points to future time, German speakers prefer to use the present tense.) Present perfect tense (i.e., referring to something that began in the past but is ongoing in the present): Sie arbeitet seit Montag. Sie schreibt seit Tagen. She’s been working since Monday. She’s been writing for days. Notice that the action's starting point (since Monday) as well as its duration (for days), is expressed with seit , followed by the dative case. F.2
+
+## G. Review: Stem-change verbs
+G. Review: Stem-change verbs G.1 Verbs such as arbeiten and schreiben — indeed the great majority of verbs in German — conjugate in the present tense simply by adding an ending to the verb stem: arbeiten → arbeit- singular plural first-person ich arbeit e wir arbeit en second-person du arbeit est [familiar] Sie arbeit en [formal] ihr arbeit et [familiar] Sie arbeit en [formal] third-person er/der Junge arbeit et sie/die Professorin arbeit et es/das Kind arbeit et sie/die Leute arbeit en schreiben → schreib- singular plural first-person ich schreib e wir schreib en second-person du schreib st [familiar] Sie schreib en [formal] ihr schreib t [familiar] Sie schreib en [formal] third-person er/der Junge schreib t sie/die Professorin schreib t es/das Kind schreib t sie/die Leute schreib en Remember: If the verb stem ends in -d or -t, an -e- must be inserted before the endings -t and -st (e.g., arbeit et / arbeit est ). If the stem ends with -s, -z, or -ß, the du ending (-st) is reduced to -t (e.g., du heiß t ). G.1
+G.2 The stem of some verbs undergoes a change when conjugated with du and er/sie/es. In most cases this involves just a vowel shift ( a → ä or e → i ), but some verbs show consonant changes and irregular endings as well. Here are the irregular present tense forms for all the stem-change verbs in the core vocabulary from chapters 1-8: du ... er/sie/es ... ab⋅nehmen to decrease nimmst ... ab nimmt ... ab an⋅fangen to begin fängst ... an fängt ... an aus⋅sehen to look siehst ... aus sieht ... aus brechen to break brichst bricht dürfen to be allowed darfst darf* ein⋅laden to invite lädst ... ein lädt ... ein essen to eat isst isst fahren to drive, ride fährst fährt geben to give gibst gibt gefallen to be pleasing gefällst gefällt gelten to be valid; to pertain giltst gilt haben to have hast hat halten to hold, stop hältst hält helfen to help hilfst hilft können to be able to; can kannst kann* laufen to run läufst läuft lesen to read liest liest mögen to like magst mag* müssen to have to; must musst muss* nehmen to take nimmst nimmt schlafen to sleep schläfst schläft sehen to see siehst sieht sein to be bist ist sprechen to speak sprichst spricht tragen to wear; carry trägst trägt treffen to meet triffst trifft vergessen to forget vergisst vergisst verlassen to leave verlässt verlässt wachsen to grow wächst wächst werden to become wirst wird werfen to throw wirfst wirft wissen to know weißt weiß* wollen to want to willst will* zu⋅nehmen to increase, gain nimmst ... zu nimmt ... zu *NB: The five modal verbs listed here and wissen also use this form when they conjugate with ich , as reviewed in the section H.1. G.2
+
+## H. Review: Modal verbs
+H. Review: Modal verbs H.1 Modal verbs convey a “mode” (an attitude or posture) regarding the main verb in the clause, allowing you to communicate not merely that someone is doing something, but that the person must do it, or wants to do it, or can do it. There are six modal verbs in German, one of which frequently appears in its subjunctive form, which is shown here in brackets: dürfen to be allowed to; may (permission) können to be able to; can mögen to like [ möchten would like to ] müssen to have to; must sollen to be supposed to; should wollen to want to Points to keep in mind when using modal verbs: Word order : Modal verbs function as V 1 in the “sentence bracket,” meaning that they appear immediately after the first element of an independent clause. The infinitive linked to the modal verb functions as V 2 , appearing at the end of the clause: Heute Abend können wir vielleicht zusammen essen . Conjugation : Modal verbs have irregular conjugations. All but one ( sollen ) undergo a change in the stem vowel in the forms for ich/du/er/sie/es ; and the forms for ich as well as er/sie/es are identical — just the stem, with no ending. Meaning : können/müssen/wollen correspond closely with their English equivalents can/must/want; but dürfen, sollen and mögen don’t map as easily onto English meanings, and you should review the explanations and examples in Chapter 6 to be sure you know how to use them. Negation : Most modal verbs are negated simply by adding nicht , so that können + nicht means cannot, wollen + nicht means doesn’t want to, and so on. But müssen is a special case: Wir müssen nicht means We don't have to (i.e., not required); the stronger meaning must not (i.e., not permissible) is expressed by dürfen + nicht . H.1
+H.2 The following tables show the complete present-tense conjugations for all the modal verbs, including the subjunctive forms for möchte (would like): können can, to be able to singular plural first-person ich kann wir können second-person du kannst [familiar] Sie können [formal] ihr könnt [familiar] Sie können [formal] third-person er / sie / es kann sie/die Kinder können müssen must, to have to singular plural first-person ich muss wir müssen second-person du musst [familiar] Sie müssen [formal] ihr müsst [familiar] Sie müssen [formal] third-person er / sie / es muss sie/die Leute müssen wollen to want to singular plural first-person ich will wir wollen second-person du willst [familiar] Sie wollen [formal] ihr wollt [familiar] Sie wollen [formal] third-person er / sie / es will sie/die Kinder wollen dürfen to be allowed to; may (permission) singular plural first-person ich darf wir dürfen second-person du darfst [familiar] Sie dürfen [formal] ihr dürft [familiar] Sie dürfen [formal] third-person er / sie / es darf sie/die Leute dürfen sollen to be supposed to / to be expected to; should singular plural first-person ich soll wir sollen second-person du sollst [familiar] Sie sollen [formal] ihr sollt [familiar] Sie sollen [formal] third-person er / sie / es soll sie/die Leute sollen mögen to like singular plural first-person ich mag wir mögen second-person du magst [familiar] Sie mögen [formal] ihr mögt [familiar] Sie mögen [formal] third-person er / sie / es mag sie/die Kinder mögen möcht- would like (to) singular plural first-person ich möchte wir möchten second-person du möchtest [familiar] Sie möchten [formal] ihr möchtet [familiar] Sie möchten [formal] third-person er / sie / es möchte sie/die Leute möchten H.2
+H.3 The past tense of modal verbs is formed by adding endings to a past-tense modal stem (a stem ending with -t ), which remains unchanged across all singular and plural forms: durft- was allowed to konnt- was able to; could mocht- liked to musst- had to sollt- was supposed to wollt- wanted to The endings are applied to these stems (using können as an example) as follows: können → konnt- was able to singular plural first-person ich konnt e … I was able to wir konnt en … we were able to second-person du konnt est … you were able to ihr konnt et … you (all) were able to Sie konnt en … you were able to Sie konnt en … you were able to third-person er / sie / es konnt e … he / she / it was able to sie konnt en … they were able to Some examples with the other modal verbs: Wir wollten mit dir gehen. We wanted to go with you. Er sollte zum Fußball-Training gehen, aber er konnte nicht. He was supposed to go to soccer practice, but he couldn’t/wasn't able to. Warum durftest du nicht spielen? Why weren’t you allowed to play? Ich musste heute nicht so früh aufstehen. I didn’t have to get up so early today. As the examples illustrate, modal verbs in the past tense function just like modal verbs in the present tense: Word order: the same for both tenses: ___[ V 1 ] _____[ V 2 ] Meaning: As in the present tense, sollten and durften require special attention (see Chapter 6); there is no past tense form for möchten. Negation: past-tense modal verbs are also negated with nicht . They take the meanings you’d expect — except for mussten + nicht , which means didn’t have to. H.3
+H.4 Wissen isn’t a modal verb, but it conjugates like one. The stem undergoes a vowel shift ( i → ei ) in the forms for ich/du/er/sie/es . And like modal verbs, the forms for first-person ( ich ) and third-person ( er/sie/es ) are identical — just the stem, with no endings. wissen to know (information) singular plural first-person ich weiß wir wissen second-person du weißt [familiar] Sie wissen [formal] ihr wisst [familiar] Sie wissen [formal] third-person er/sie/es weiß sie/die Kinder wissen Present perfect: hat … gewusst Keep in mind: Wissen means to know in the sense of knowing information — which includes short bits of information (telephone numbers, addresses, names) expressed as a direct object, as well as clauses such as Ich weiß, was du denkst . (You’ll learn how to form clauses like this in Chapter 9.) It does not mean to know in the sense of being acquainted with someone . To express this, German uses kennen , which conjugates regularly: Ich kenne , du kennst , er/sie/es kennt , … — and the Perfect tense is hat … gekannt . H.4
+
+--- Thema 8.4: Wiederholung II ---
+
+## I. Review: Negation
+I. Review: Negation There are two kinds of negation in German: negation using kein- negation using nicht Both kinds have been discussed from Chapter 3 on; but now that you’ve been introduced to the concept of non-specific vs. specific nouns (Chapter 5), we can discuss all the applications of kein- and nicht using this framework. I.1 First, a reminder of what is meant by non-specific vs. specific nouns: Non-specific nouns refer to general entities ( Essen , Geld , Zeit ), including plural nouns with no article ( Geschäfte , Kinder ) and non-specific examples ( eine Stadt, ein Kurs ). Specific nouns , by contrast, have a focused reference, indicated by the use of definite articles ( das Essen, das Geld, die Zeit ), possessive adjectives ( seine Geschäfte, unsere Kinder ) or a specifying word ( dieses Essen ). Pronouns are also considered specific, since they refer by definition to something that has already been mentioned. Compare: non-specific specific Geld dieses Geld / mein Geld / das Geld von … Kinder die Kinder von … / ihre Kinder / diese Kinder eine Stadt die Stadt / diese Stadt / unsere Stadt I.1
+I.2 Negating with kein- To negate a non-specific noun, use kein- . This applies to any non-specific noun used as a predicate noun (nominative), a direct object (accusative) or an indirect object (dative). The endings you use with kein- will depend on the case, gender, and number of the noun following it. Original: Negated: Nom. Lisa ist eine Freundin von mir. Aber sie ist keine Freundin von Daniel. Acc. Im Süden von Deutschland gibt es Berge . Im Norden gibt es keine Berge . Acc. Er braucht ein Auto . Aber er kauft kein Auto . Dat. Die Orange-Key- Gästeführer° zeigen Besuchern den Campus. Aber sie zeigen keinen Besuchern die Zimmer im Forbes-Annex. I.2
+I.3 Negating with nicht To negate everything else — specific nouns, pronouns, verbs, adverbs (including gern ), adjectives, and prepositional phrases — use nicht. The position of nicht depends on which of these elements is being negated, and in most situations this is determined as follows: specific nouns pronouns verbs ( V 1 ) nicht adverbs adjectives prepositional phrases In these examples, the elements to be negated are underlined in order to highlight their relation to nicht in the negated version: Original: Negated: Sie kennt meine Freunde . Sie kennt meine Freunde nicht . Er hilft mir . Er hilft mir nicht . Du bleibst . Du bleibst nicht . Er fährt schnell . Er fährt nicht schnell . Ihr Zimmer ist sehr groß . Ihr Zimmer ist nicht sehr groß . Hast du auf mich gewartet? Hast du nicht auf mich gewartet? But: If you really want to emphasize the negation of a specific noun or pronoun — and particularly if you want to follow up with corrective information — then you place nicht before the element to be negated, regardless of what it is, and you emphasize the negated element with intonation as well. The subsequent correction is then introduced with sondern or aber , and can also be emphasized with intonation. Structurally, the phrase looks like this: nicht X , sondern Y (or) nicht X , aber … Here are a few examples – with the italicized elements showing intonational emphasis: Original: Negated: Sie kennt meine Freunde. Sie kennt nicht meine Freunde , sondern meine Eltern . Er hilft mir. Er hilft nicht mir , sondern meinem Bruder . Sie hat mir eine E-Mail geschickt. Sie hat mir nicht eine E-Mail geschickt, sondern eine SMS . I.3
+I.4 That’s all well and good, you’re thinking to yourself, as long as the number of elements is kept to a minimum and the sentence is in the present tense. But what happens to the rules governing kein- and nicht when you complicate things with “sentence brackets,” i.e., when you introduce modal verbs, auxiliaries, and past participles? Nothing, actually. In sentences with a V 1 – V 2 structure, nicht and kein- function as they do when there’s only one verb. Nicht precedes or follows the negated element in the middle field, as needed, and kein- still precedes non-specific nouns. Notice how this works in an example with a specific noun and nicht : Original: Er versteht die Frage . Negated: Er versteht die Frage nicht . Negated with modal verb: Er kann die Frage nicht verstehen Negated in the perfect tense: Er hat die Frage nicht verstanden. Various other elements shift their position, but die Frage nicht remains unchanged. I.4
+
+## J. Review: Perfect tense
+J. Review: Perfect tense J.1 Form and meaning eben° The Perfect tense consists of an auxiliary (either haben or sein , depending on the verb) and a past participle. In an independent clause, the auxiliary functions as V 1 , and the past participle functions as V 2 , appearing at the end of the clause. Hast du eben was gesagt ? Did you just say something? Ich habe deine Frage nicht verstanden . I didn’t understand your question. Sie hat uns alles erklärt . She explained everything to us. Er hat uns zum Fest eingeladen . He invited us to the celebration. Der Hund ist draußen geblieben . The dog stayed outside. The Perfect tense refers to activities in the past that are “perfected,” i.e., finished and no longer taking place — regardless of when they began or how long they lasted. (Remember: If an activity is ongoing in the speaker’s “present,” German signals this by using the present tense, with a prepositional phrase beginning with seit to indicate either the starting point or the duration of the activity.) The Perfect tense translates into English either with an auxiliary form, or with a one-word past-tense form: ist … gegangen has gone / went hat … gedacht has thought / thought hat … diskutiert has discussed / discussed J.1
+J.2 The challenge for most learners lies not in understanding the structure or meaning of the Perfect tense, but in learning the past participle for each verb, and then remembering which verbs use sein and which use haben as their auxiliary. J.2.1 Perfect tense with sein This list is relatively short, so we’ll provide all the past participles and meanings for the core vocabulary verbs you’ve learned so far, using ist as the default form for sein . Infinitive Perfect tense Past-tense meaning an·kommen auf·stehen aus·gehen bleiben entstehen fahren* fliegen* geboren gehen kommen laufen passieren reisen sein steigen wachsen werden verschwinden ziehen* zurück·kommen ist ... angekommen ist ... aufgestanden ist ... ausgegangen ist ... geblieben ist ... entstanden ist ... gefahren ist ... geflogen ist ... geboren ist ... gegangen ist ... gekommen ist ... gelaufen ist ... passiert ist ... gereist ist ... gewesen ist ... gestiegen ist ... gewachsen ist ... geworden ist ... verschwunden ist ... gezogen ist ... zurückgekommen arrived stood up / got out of bed went out stayed, remained emerged, developed drove / rode flew was born went / walked came ran happened traveled was [Simple past: war ] climbed grew became, turned into disappeared moved came back Many of these verbs — though not all — have to do with moving or traveling from one point to another, or with a change in the subject’s condition. And with very few exceptions, they never take a direct object. Hence the asterisks for three of the verbs in the list above: * fahren / fliegen / ziehen : When used with a direct object, these verbs require haben as their auxiliary, and ziehen takes on a different meaning: Ich habe seinen Mercedes gefahren . I drove his Mercedes. Amelia Earhart hat das Flugzeug allein geflogen . Amelia Earhart flew the plane alone. Das Auto hat einen Anhänger gezogen . The car pulled a trailer. J.2.1
+J.2.2 Perfect tense with haben Since this is a much longer list, we'll divide it into the two broad categories of past participles you learned in Chapter 5: t-verbs (with past participles ending in -t ) and n-verbs (with past participles ending in -en or -n ). Each of these in turn has two sub-categories: past participles with a ge- prefix, and past participles with no ge- prefix. Both t-verbs and n-verbs can take separable prefixes. If the past participle of a separable prefix verb is formed with an added ge- , this is inserted between the separable prefix and the stem to form one word, as shown in the examples below: t-verbs ge____(e)t (Since these are entirely predictable once you’ve identified the stem, only the infinitives are listed here) infinitive stem past participle bauen auf⋅bauen bau- (auf)bau- gebaut aufgebaut antworten an⋅schauen arbeiten auf⋅bauen bauen brauchen dar⋅stellen dauern durch⋅führen fehlen fördern fragen freuen fühlen führen glauben gründen haben handeln hängen* her⋅stellen holen kaufen kochen kosten leben legen leisten lernen lieben machen meinen öffnen passen planen reden sagen schicken setzen spielen stellen stimmen stören suchen teilen vor⋅stellen wählen warten wohnen zahlen zeigen [* hängen is a t-verb when it has a direct object, but an n-verb if it doesn’t, as indicated below.] irregular t-verbs : (these take a ge- prefix, and have a -t ending, but the stem undergoes a change, similar to bring → brought ) infinitive (irregular) stem past participle bringen denken kennen nennen wissen brach- dach- kann- nann- wuss- gebracht gedacht gekannt genannt gewusst ____t (no ge- prefix) infinitive stem past participle bedeuten benutzen beschäftigen besuchen diskutieren erinnern erklären ermitteln erreichen erwarten erzählen interessieren studieren verändern verbessern verdienen verkaufen verletzen versuchen vorbereiten wiederholen bedeut- benutz- beschäftig- besuch- diskutier- erinner- erklär- ermittel- erreich- erwart- erzähl- interessier- studier- veränder- verbesser- verdien- verkauf- verletz- versuch- vorbereit- wiederhol- bedeutet benutzt beschäftigt besucht diskutiert erinnert erklärt ermittelt erreicht erwartet erzählt interessiert studiert verändert verbessert verkauft verdient verkauft verletzt versucht vorbereitet wiederholt n-verbs Since the stems that form the past participles of these verbs cannot be predicted from the infinitive, only the infinitives and past participles are listed here. Pay special attention to verbs for which the stem vowel (and here and there a consonant) differs between the infinitive and the past participle. ge____(e)n infinitive past participle ab⋅nehmen an⋅bieten an⋅fangen aus⋅sehen brechen ein⋅laden essen finden geben gelten halten hängen heißen helfen klingen leiden lesen liegen nehmen scheinen schlafen schreiben sehen singen sitzen sprechen statt⋅finden stehen tragen treffen trinken tun werfen ziehen zu⋅nehmen abgenommen angeboten angefangen ausgesehen gebrochen eingeladen gegessen gefunden gegeben gegolten gehalten gehangen geheißen geholfen geklungen gelitten gelesen gelegen genommen geschienen geschlafen geschrieben gesehen gesungen gesessen gesprochen stattgefunden gestanden getragen getroffen getrunken getan geworfen gezogen zugenommen ____(e)n (no ge- prefix) infinitive past participle beginnen bekommen beschreiben bestehen entscheiden gefallen gewinnen verbinden vergessen verlassen verlieren verstehen begonnen bekommen beschrieben bestanden entschieden gefallen gewonnen verbunden vergessen verlassen verloren verstanden J.2.2
+
+========================================================================
+GRAMMAR ALREADY KNOWN (Kapitel 1-7) — reuse freely
+========================================================================
+Kapitel 1 (Smalltalk): A. der/die/das; B. Subjects + Verbs: ich / du / Sie; C. der|die|das → ein|eine|ein; D. Plural nouns; E. Subjects + Verbs: er / sie / es / sie (pl.); F. Pronouns and gender; G. Subjects + Verbs: wir / ihr / Sie; H. I like ... / like to ...; I. Time/calendar expressions; J. Subjects + Verbs: Summary
+Kapitel 2 (Vernetzt): A. Grammatical case; B. man; C. Welch- / Dies-; D. Jed- / All-; E. Negation; F. Werden; G. Asking questions; H. Possessive adjectives: mein / dein / …
+Kapitel 3 (Sonntag): A. Saying some: etwas / einige / ein paar; B. Stem-changing verbs; C. Ich gehe [joggen]; D. Adjective endings: Nominative; E. Verbs with separable prefixes; F. Past tense: was and had; G. Review: kein-/nicht; H. Negation: Verbs
+Kapitel 4 (Mahlzeit): A. Accusative: Definite / indefinite articles; B. Position vs. Case in Sentences; C. Saying “there is … / there are …”; D. Accusative: der-words / ein-words; E. Prepositions and cases: Accusative; F. Using Pronouns in the Accusative Case; G. Using mögen to say “I like…”; H. Negating direct objects; I. Accusative: Adjective Endings; J. N-nouns
+Kapitel 5 (Autobahn): A. Review: Ich war … / Ich hatte …; B. Talking about the past: Simple Past vs. Perfect; C. Perfect: Past Participles; D. Ordinal numbers: first / second / third / …; E. Perfect tense: haben vs. sein; F. Using the Dative Case; G. Using pronouns in the dative case; H. Dative Case: Verbs / Indirect Objects; I. Dative: Adjective Endings
+Kapitel 6 (Heimat): A. Review: Constructions using multiple verbs; B. Modal verbs: können / wollen / müssen; C. Modal verbs: dürfen | sollen; D. Mögen / ich möchte …; E. Modal verbs: Negation; F. Modal verbs: Past tense; G. How to say: “I know…”; H. Stand-alone modal verbs
+Kapitel 7 (Sportsachen): A. Prepositions: Accusative / Dative / Variable; B. Variable prepositions: Dative; C. Variable prepositions: Accusative; D. Reflexive pronouns; F. Verb + preposition combinations; G. Reflexive verb + preposition combinations; H. Da-compounds; I. Wo-compounds
+
+========================================================================
+NEW VOCABULARY — KAPITEL 8 (feature these)
+Format: German [forms] — English  |  example sentence
+========================================================================
+
+-- Thema 8.1 --
+als — with comparisons: than  |  Im Winter ist Süddeutschland kälter als Norddeutschland.
+die Bedeutung [die Bedeutungen] — significance, meaning  |  Die Ideen von Kant sind für die Philosophie von großer Bedeutung.
+der Blick [die Blicke] — glimpse, view [+ auf (acc.): of, toward]  |  Wir haben einen schönen Blick auf die Berge.
+die Entwicklung [die Entwicklungen] — development  |  Ist die wirtschaftliche Entwicklung im Land positiv oder negativ?
+das Ereignis [die Ereignisse] — event, incident  |  Die französische Revolution war ein wichtiges Ereignis.
+erwarten [erwartete | erwartet] — to expect  |  Was erwartet man von so einem Film?
+gelten [gilt | galt | gegolten] — to be valid; to pertain [ with dative: to]  |  Leider gilt dieses Ticket nicht mehr.
+gelten als [gilt | galt | gegolten] — to be regarded as, considered to be  |  "Citizen Kane" gilt als ein klassischer amerikanischer Film.
+das Gesicht [die Gesichter] — face  |  Was ist los? Warum machst du so ein langes Gesicht?
+die Grenze [die Grenzen] — border, boundary; limit  |  Die Grenze zwischen Süddeutschland und Frankreich ist der Rhein.
+der Kern [die Kerne] — core; ( figurative: heart [of …])
+mittler- — average, mean; middle [adj.]
+das Museum [die Museen] — museum
+nennen [nannte | genannt] — to name, call, cite  |  Sie nennen ihren Hund »Mason«.
+nun — now; So, ... (beginning a new thought)  |  Nun, was gibt es heute zu diskutieren?
+der Rand [die Ränder] — verge, edge; margin (e.g. of a text/page)
+sogenannt — so-called; often written: sog.  |  »Knockin’ on Heaven’s Door« ist ein sogenanntes Roadmovie.
+sowie — as well as, plus, together with  |  Wir haben ein Sofa und einen Tisch, sowie vier Stühle gekauft.
+verändern [veränderte | verändert] — to change (by altering)  |  Digitale Medien haben sich in den letzten 20 Jahren stark verändert.
+vor allem — first and foremost, primarily  |  Ich möchte vor allem das Kunstmuseum besuchen.
+die Vorstellung [die Vorstellungen] — notion, idea; performance (i.e., event)  |  Ich glaube, deine Vorstellung von »Uni« ist nicht ganz realistisch.
+wachsen [wächst | wuchs | ist gewachsen] — to grow  |  Das Interesse an Fremdsprachen wächst hier von Jahr zu Jahr.
+wirtschaftlich — economical(ly)  |  Im Moment geht es dem Land wirtschaftlich sehr gut.
+ziehen [zog | hat gezogen] — to pull  |  Der Vater zog den kleinen Wagen für die Kinder.
+ziehen [zog | ist gezogen] — to move (i.e., change residence)  |  In meiner Kindheit sind wir von Stadt zu Stadt gezogen.
+ähnlich — similar  |  Die zwei Brüder sind ähnlich, aber nicht identisch.
+
+-- Thema 8.2 --
+das Alter [die Alter] — age  |  In welchem Alter darf man in Deutschland Auto fahren?
+das Angebot [die Angebote] — offer  |  Die Firma hat mir ein sehr gutes Angebot gemacht.
+bieten [bot | geboten] — to provide; to offer  |  Die Bibliothek bietet eine ruhige Atmosphäre zum Lernen.
+dicht — dense(ly), thick, tight
+einzig — single, sole, only  |  Es ist das einzige Gebäude auf dem Campus ohne Fenster.
+fehlen [fehlte | gefehlt] — to be missing  |  Wir können noch nicht spielen – drei Leute im Team fehlen noch.
+gerade — right now, at the moment; straight  |  Ich habe keinen Hunger, denn ich habe gerade gegessen.
+der Grund [die Gründe] — reason, cause  |  Was sind die historischen Gründe für die Situation im Nahen Osten?
+hinten — behind [adv.]
+inner- — interior, inner [adj.]
+irgendwo — somewhere, anywhere  |  Gibt es irgendwo in der Nähe einen Burger-King?
+kriegen [kriegte | gekriegt] — casual: to get, obtain
+der Preis [die Preise] — price; prize, award  |  Nein, ich kaufe es nicht. Der Preis ist einfach zu hoch.
+der Raum [die Räume] — space, room  |  Wie viel Raum braucht man, um glücklich zu sein?
+steigen [stieg | ist gestiegen] — to increase; to climb; ein•steigen / aus•steigen to get into / out of a vehicle  |  Der Preis für eine Wohnung in NYCs ist stark gestiegen.
+suchen [suchte | gesucht] — to look for, seek  |  Die Firma sucht eine neue Mitarbeiterin fürs Projekt.
+treffen [trifft | traf | getroffen] — to meet; to strike, hit  |  Hast du ein paar interessante Leute hier getroffen?
+verschwinden [verschwand | ist verschwunden] — to disappear, vanish  |  Wo ist Max? Er war gerade hier, aber er ist einfach verschwunden.
+versuchen [versuchte | versucht] — to try  |  Ich will etwas Neues versuchen.
+voll — full  |  Wir haben unser wirtschaftliches Ziel voll erreicht.
+vorn — ahead, in front [adv.]
+öffentlich — public(ly)  |  Hat er das privat oder öffentlich gesagt?
+
+========================================================================
+VOCABULARY ALREADY KNOWN (Kapitel 1-7) — recycle these
+========================================================================
+
+-- Kapitel 1: Smalltalk --
+die Antwort [die Antworten] — answer
+arbeiten [arbeitete | gearbeitet] — to work
+auch — also; auch wenn even if
+die Dame [Damen] — lady [ used mostly in formal contexts: Meine Damen und Herren, … Ladies and gentlemen ... ]
+der die das — the [masculine; feminine/plural; neuter]
+du — you [familiar; singular]
+finden [fand | gefunden] — to find
+die Frage [die Fragen] — question
+fragen [fragte | gefragt] — to ask
+die Frau [die Frauen] — woman; lady; title: Ms./Miss/Mrs.; wife
+gut — adj.: good; adv.: well
+haben [hat | hatte | gehabt] — to have
+hallo — Hello / Hi Hallo allerseits! Hello everybody! [ lit. : Hello on all sides]
+heißen [hieß | geheißen] — to be named, to be called
+der Herr [Herren] — title: Mr.; gentleman; sir
+hören [hörte | gehört] — to hear; zu•hören to listen to [+ Dat.]
+ich — I
+immer — always
+ja — yes
+der Mann [die Männer] — man; husband
+nein — no
+nicht — not
+oder — or; question tag: ..., isn’t it? didn’t we? aren’t you?
+sagen [sagte | gesagt] — to say
+sehr — very
+sein [ist | war | ist gewesen] — to be
+Sie — you [formal; singular and plural]
+spielen [spielte | gespielt] — to play (a game or an instrument); to act, perform
+die Struktur [die Strukturen] — structure
+der Student [die Studenten] — (male) university student ["N"-noun]
+die Studentin [die Studentinnen] — (female) university student
+studieren [studierte | studiert] — to engage in a course of study; to be a student at a university
+und — and
+verstehen [verstand | verstanden] — to understand
+was — what
+wichtig — important
+wie — how [question word]; like, as wie immer
+aber — but; however
+alt — old
+das Bild [die Bilder] — picture
+da — there
+das Dorf [die Dörfer] — village
+eins zwei drei...zwölf — 1, 2, 3...12
+er — he; [ masculine noun: it]
+es — it
+gehen [ging | ist gegangen] — to go, walk
+groß — big, tall
+hier — here
+jetzt — now
+klein — small, short
+kommen [kam | ist gekommen] — to come
+das Land [die Länder] — country
+lernen [lernte | gelernt] — to learn, to study (for a class or test)
+Leute [plural only] — people
+machen [machte | gemacht] — to do, make
+nur — only
+schön — nice(ly), beautiful(ly)
+sie — she; [ feminine noun: it]
+sie — they
+die Stadt [die Städte] — city
+tausend [(die) Tausende] — thousand
+viele — many, a lot [plural]
+wo — where
+woher — from where? where from?
+wohnen [wohnte | gewohnt] — to live, reside
+die Arbeit [die Arbeiten] — work; research paper
+die Aufgabe [die Aufgaben] — assignment
+das Buch [die Bücher] — book
+ein bisschen — a little
+das Essen [rarely plural] — food; eating
+etwas — something; somewhat; some (sing.), a little
+ganz — really, quite; total, whole
+gar nicht — not at all
+gern — with a verb: to like to ... [lit.: gladly]
+ihr — you all [familiar; plural]
+interessant — interesting
+der Kurs [die Kurse] — [academic] course
+kurz — short, brief
+lang — long
+lesen [liest | las | gelesen] — to read
+meinen [meinte | gemeint] — to mean; to have an opinion
+die Prüfung [die Prüfungen] — exam, test
+schlecht — bad(ly)
+schreiben [schrieb | geschrieben] — to write
+die Universität [die Universitäten] — university [ informal: Uni ]
+viel — much, a lot [singular]
+wir — we
+das Wort [die Wörter] — word
+der Abend [die Abende] — evening
+der Dienstag [die Dienstage] — Tuesday
+der Donnerstag [die Donnerstage] — Thursday
+der Freitag [die Freitage] — Friday
+genug — enough
+gestern — yesterday
+heute — today
+los — Was ist los? What's happening? or: What's wrong?; nicht viel los not much happening; etwas los werden to get rid of something
+die Minute [die Minuten] — minute
+der Mittwoch [die Mittwoche] — Wednesday
+der Montag [die Montage] — Monday
+morgen — tomorrow
+na — so? well?
+der Samstag [die Samstage] — Saturday
+der Sonntag [die Sonntage] — Sunday
+spät später — late / later
+die Stunde [die Stunden] — hour
+der Tag [die Tage] — day
+die Temperatur [die Temperaturen] — temperature
+die Uhr [die Uhren] — clock; fünf Uhr five o'clock
+die Woche [die Wochen] — week
+das Wochenende [die Wochenenden] — weekend
+die Zeit [die Zeiten] — time
+
+-- Kapitel 2: Vernetzt --
+benutzen [benutzte | benutzt] — to use (esp. physical objects); with websites: benutzen or nutzen
+besonders — especially, particularly
+bleiben [blieb | ist geblieben] — to remain, stay
+der Computer [die Computer] — computer
+dann — then, next (in a sequence)
+denn — since, because
+deutsch — German [adj.]
+Deutsch — German (language)
+eigentlich — actually
+englisch — English [adj.]
+Englisch — English (language)
+der Freund [die Freunde] — (male) friend; mein Freund my boyfriend
+die Freundin [die Freundinnen] — (female) friend; meine Freundin my girlfriend
+die Gruppe [die Gruppen] — group
+das Internet — internet
+man — one, you [impersonal]
+natürlich — natural(ly), of course
+normal — normal (adj.); normalerweise typically, normally
+nutzen [nutzte | genutzt] — to use, make use of with either things or abstractions, e.g. to use an opportunity / a computer / a website
+schicken [schickte | geschickt] — to send
+sehen [sieht | sah | gesehen] — to see
+so...wie… — as … as …
+sozial — social
+teilen [teilte | geteilt] — to share; to divide
+vielleicht — maybe, perhaps
+alle — all; everyone [plural]
+alles — everything [singular]
+die Beziehung [die Beziehungen] — relation(ship), connection
+der Bruder [die Brüder] — brother
+dies- — this
+die Eltern [plural only] — parents
+eng — tight, narrow; with relationships: close
+die Familie [die Familien] — family
+jed- — each, every [sing.]
+jung — young
+der Junge [die Jungen] — boy [up to about age 15] ["N"-noun]
+kennen [kannte | gekannt] — to know, be acquainted with
+das Kind [die Kinder] — child
+leben [lebte | gelebt] — to live, be alive
+die Mama [die Mamas] — mom / mommy
+die Mutter [die Mütter] — mother
+das Mädchen [die Mädchen] — girl [up to about age 15]
+der Papa [die Papas] — dad / daddy
+die Schwester [die Schwestern] — sister
+der Sohn [die Söhne] — son
+die Tochter [die Töchter] — daughter
+der Vater [die Väter] — father
+weit — far
+welch- — which
+wirklich — real(ly)
+beginnen [begann | begonnen] — to begin
+bekannt — well-known, familiar
+der/die Bekannte [die Bekannten] — acquaintance
+dein — your [ with du ]
+ein paar — a few, a couple of
+fast — almost
+glücklich — happy
+kein — no / not any / not a
+die Liebe [normally only used in the sing.] — love
+lieben [liebte | geliebt] — to love
+mein — my
+die Musik — music
+noch — still; yet; noch nicht not yet
+okay — OK
+der Partner [die Partner] — (male) partner
+die Partnerin [die Partnerinnen] — (female) partner
+der Satz [die Sätze] — sentence
+schwer — heavy; difficult, hard
+so — like this, in this way; so; with a quote: according to
+werden [wird/wirst | wurde | ist geworden] — to become
+das Zimmer [die Zimmer] — room (i.e., an enclosed space)
+zusammen — together
+das Beispiel [die Beispiele] — example; zum Beispiel for example ( often abbreviated: z.B.)
+denken [dachte | gedacht] — to think
+(das) Deutschland — Germany
+einfach — adj.: simple; adv.: simply
+ihr — (adj.) her
+Ihr — (adj.) your [formal; sing. and pl.]
+langsam — slow(ly)
+mehr — more; mehr als more than
+neu — new
+nichts — nothing
+oh — oh [ interjection: Oh nein! Oh ja!]
+die Person [die Personen] — person
+schnell — fast, rapid(ly), quick(ly)
+sein — (adj.) his, its
+unser — our
+wahr — true; nicht wahr? question tag: ..., isn’t it? didn’t we? aren’t you?
+wann — when [to introduce a question]
+warum — why
+wer — who, whoever
+wieso — why, how come
+
+-- Kapitel 3: Sonntag --
+blau — blue
+brauchen [brauchte | gebraucht] — to need
+echt — genuine(ly), real(ly)
+einig- — several, a few
+erst- — [adj.] first
+essen [isst | aß | gegessen] — to eat
+die Farbe [die Farben] — color
+genau — exact(ly), precise(ly)
+grün — green
+halten [hält | hielt | gehalten] — to hold, keep; to stop
+heiß — hot
+kalt — cold
+laufen [läuft | lief | ist gelaufen] — to run
+der Morgen [die Morgen] — morning
+morgens — (adv.) mornings, in the morning
+nehmen [nimmt | nahm | genommen] — to take
+nie — never
+rot — red
+schlafen [schläft | schlief | geschlafen] — to sleep
+schwarz — black
+singen [sang | gesungen] — to sing
+sprechen [spricht | sprach | gesprochen] — to speak
+toll — awesome, super
+warm — warm
+weiß — white
+also — so [ as in “So, what do you think?”)
+andere — other
+der Besuch [die Besuche] — visit
+besuchen [besuchte | besucht] — to visit
+die Bewegung [die Bewegungen] — motion; exercise
+dauern [dauerte | gedauert] — to last
+draußen — outside
+früh — early
+der Gast [die Gäste] — guest
+glauben [glaubte | geglaubt] — to believe [+ dative (person): Ich glaube dir. ]
+der Gott [die Götter] — God
+der Grad [with temperature: no plural] — degree
+das Jahr [die Jahre] — year
+die Kirche [die Kirchen] — church
+manchmal — sometimes, occasionally
+oben — above, overhead; upstairs
+oft — often, frequently
+pro — per
+das Prozent [die Prozente] — percent
+die Ruhe — quiet, calm, rest
+stören [störte | gestört] — to disturb
+tun [tat | getan] — to do
+unten — down, below; downstairs
+die Zeitung [die Zeitungen] — newspaper
+an•fangen [an•fängt | an•fing | angefangen] — to begin, start
+an•kommen [an•kam | ist angekommen] — to arrive
+an•rufen [an•rief | angerufen] — to call (on the phone)
+auf•stehen [auf•stand | ist aufgestanden] — to get up, stand up
+aus•gehen [aus•ging | ist ausgegangen] — to go out
+best- — best
+bringen [brachte | gebracht] — to bring
+danke — thanks, thank you
+ein•laden [ein•lädt | ein•lud | eingeladen] — to invite; to treat someone [Acc.] to something [+ zu … ], i.e., pay for it
+gemeinsam — together, in common, mutual(ly)
+das Gespräch [die Gespräche] — conversation, discussion
+das Haus [die Häuser] — house
+der Hund [die Hunde] — dog
+klingen [klang | geklungen] — to sound
+die Sache [die Sachen] — thing, matter, item
+die Sonne [die Sonnen] — sun
+das Tier [die Tiere] — animal
+trinken [trank | getrunken] — to drink
+der Weg [die Wege] — path, way, route
+wieder — again
+zurück•kommen [zurück•kam | ist zurückgekommen] — to come back, return
+überhaupt — in general; at all: überhaupt nicht not at all
+aus•sehen [aus•sieht | aus•sah | ausgesehen] — to look, appear
+bedeuten [bedeutete | bedeutet] — to mean, to have meaning [ as in: This word means ...; cf.: meinen ]
+ermitteln [ermittelte | ermittelt] — to find out/ascertain by careful investigation
+erzählen [erzählte | erzählt] — to tell (a story), narrate
+der Fall [Fälle] — case; drop, demise
+das Gefühl [die Gefühle] — feeling, emotion
+jemand — someone
+komplex — complex, complicated, sophisticated
+lösen [löste | gelöst] — to solve; to loosen
+das Mal [die Male] — time [occurrence]
+niemand — no one, nobody
+offen — open(ly)
+das Problem [die Probleme] — problem
+die Spur [die Spuren] — trace, trail, [ criminal case ] clue
+statt•finden [statt•fand | stattgefunden] — to take place
+stimmen [stimmte | gestimmt] — to be correct
+die Tat [die Taten] — deed, exploit, act; [ law ] crime
+vergessen [vergisst | vergaß | vergessen] — to forget
+das Verhältnis [die Verhältnisse] — ratio: ein Verhältnis von … zu … ; relationship; im Verhältnis zu compared to
+verschieden — various, different
+wenig — little [sing.]; few [pl.]
+
+-- Kapitel 4: Mahlzeit --
+amerikanisch — American
+an•bieten [an•bot | angeboten] — to offer (e.g., food/help/job)
+die Art [die Arten] — type, kind, sort; Arten [pl.] species
+das Bier [die Biere [ i.e., kinds of beer ]] — beer
+(das) China — China (the country)
+chinesisch — Chinese
+dort — (over) there [ further away than da )
+es gibt — there is, there are [+ accusative]
+(das) Europa — Europe
+europäisch — European
+(das) Frankreich — France
+französisch — French
+international — international
+(das) Italien — Italy
+möglich — possible
+national — national
+Schweizer — [adj.] Swiss
+der Schweizer [die Schweizer] — Swiss (male)
+die Schweizerin [die Schweizerinnen] — Swiss (female)
+der Teil [die Teile] — part, section; zum Teil in part, partially
+typisch — typical(ly)
+unterschiedlich — different [from each other]
+zuerst — [adv.] first
+(das) Österreich — Austria
+der Österreicher [die Österreicher] — Austrian (male)
+die Österreicherin [die Österreicherinnen] — Austrian (female)
+allein — alone
+bis — until
+dafür — for that, for it …
+dagegen — against that, against it …; by contrast, on the other hand
+durch — through; by means of [+ accusative]
+der Flüchtling [Flüchtlinge] — refugee
+für — for [+ accusative]
+der Garten [die Gärten] — garden
+gegen — against [+ accusative]
+das Glas [die Gläser] — glass
+gleich — [adv.] right away; [adv./adj.] the same, equal(ly)
+kaufen [kaufte | gekauft] — to buy
+die Küche [die Küchen] — kitchen; cuisine
+mindestens — at least [with numbers or amounts]
+ohne — without [+ accusative]
+der Rest [die Reste (remains, leftovers)] — rest, remainder
+selbst — [one]self
+der Spaß — fun [noun]
+um — around [+ accusative]
+um — at [with clock time]
+ungefähr — about, approximately
+verbinden [verband | verbunden] — to connect
+das Wasser — water
+bekommen [bekam | bekommen] — to get, receive, obtain
+dich — you [accusative; familiar; sing.]
+dick — fat; thick
+einmal zweimal dreimal… — once, twice, three times, …
+euch — you all [dative/accusative; familiar; pl.]
+der Euro [amount: die Euro; currency: die Euros] — euro
+fertig — finished, completed; ready
+geben [gibt | gab | gegeben] — to give
+das Geld [die Gelder] — money
+gesund — healthy; sound
+holen [holte | geholt] — to go get, fetch, get ahold of
+ihn — him [accusative]
+das Kilogramm [(after numbers) Kilogramm] — kilogram
+kosten [kostete | gekostet] — to cost
+mich — me [accusative]
+mögen [mag | mochte | gemocht] — to like
+die Nacht [die Nächte] — night
+sondern — but rather [ after nicht or kein- )
+das Stück [[food] Stück; [music/theater] Stücke] — piece of [food]; [musical] piece, [theater] play
+teuer — expensive
+tragen [trägt | trug | getragen] — to carry; to wear
+uns — us [accusative + dative]
+die Zahl [die Zahlen] — number
+zahlen [zahlte | gezahlt] — to pay
+überall — everywhere
+beide — both
+bestimmt — definite(ly), certain(ly)
+erreichen [erreichte | erreicht] — to achieve, attain (e.g., a goal); to reach (e.g., a destination)
+frisch — fresh; recent [ as in newly done or appearing]
+die Geschichte [die Geschichten] — story; history
+komplett — complete(ly), entire(ly)
+kritisch — critical, crucial
+kulturell — cultural(ly)
+der Kunde [die Kunden] — (male) customer, client ["N"-noun]
+die Kundin [die Kundinnen] — (female) customer, client
+der Mensch [die Menschen] — person, human being ["N"-noun]
+die Möglichkeit [die Möglichkeiten] — possibility
+der Name [die Namen] — name ["N"-noun]
+scheinen [schien | geschienen] — to seem; to shine
+sicher — sure(ly), certain(ly); safe(ly)
+das Thema [die Themen] — theme, topic
+der Tisch [die Tische] — table
+die Tür [die Türen] — door
+der Unterschied [die Unterschiede] — difference
+vor•stellen [vor•stellte | vorgestellt] — to introduce; sich etwas vorstellen to imagine/picture something (to oneself)
+das Ziel [die Ziele] — goal
+ziemlich — somewhat, rather
+zu•nehmen [zu•nimmt | zu•nahm | zugenommen] — to increase, rise, gain ( also: in weight)
+zwischen — between [+ acc./dat.]
+
+-- Kapitel 5: Autobahn --
+der Anfang [die Anfänge] — beginning
+der Aufbau [die Aufbauten] — construction, setup, structure
+das Auto [die Autos] — car, automobile
+bauen [baute | gebaut] — to build
+damals — back then, at that time
+damit — with it, with them; as a subordinating conjunction: so that, in order that
+durch•führen [durch•führte | durchgeführt] — to carry out [e.g., a plan, project]
+fahren [fährt | fuhr | ist gefahren] — to drive; to ride
+frei — free; available
+die Geschwindigkeit [die Geschwindigkeiten] — speed, velocity
+historisch — historical(ly)
+das Jahrhundert [die Jahrhunderte] — century
+der Kilometer [die Kilometer] — kilometer
+der Krieg [die Kriege] — war
+letzt- — last, previous
+liegen [lag | gelegen] — to be situated; to lie (position)
+der Osten — (the) east
+riesig — enormous, vast, huge
+schon — already
+die Straße [die Straßen] — street, road
+der Traum [die Träume] — dream
+der Westen — (the) west
+auf•bauen [auf•baute | aufgebaut] — to build (up)
+bestehen [bestand | bestanden] — to consist [+ aus of]; to pass (a test/exam)
+fliegen [flog | ist geflogen] — to fly
+gehören [gehörte | gehört] — to belong (to) [+ dative]
+her•stellen [her•stellte | hergestellt] — to produce, manufacture
+je — ever; je nach … according to, depending on
+die Kultur [die Kulturen] — culture
+das Licht [die Lichter] — light
+link- — left [ i.e., location]
+links — on the left; to the left
+das Modell [die Modelle] — model
+modern — modern
+recht- — right [ i.e., location]
+rechts — on the right; to the right
+die Region [die Regionen] — region
+reisen [reiste | ist gereist] — to travel
+schwach — weak
+stark — strong
+die Technik [die Techniken] — technology; technique
+verkaufen [verkaufte | verkauft] — to sell
+der Wagen [die Wagen] — car, automobile
+weltweit — worldwide
+zufrieden — satisfied, content
+ab — starting …, from … on [+ dative]
+aus — out of, from (origin) [+ dative]
+außer — besides, except for [+ dative]
+bei — near; in the case of; arbeiten + bei to work for [+ dative]
+betreffen [betrifft | betraf | betroffen] — to concern, affect
+dir — you [dative; familar: sing.]
+führen [führte | geführt] — to lead; to guide
+gegenüber — with or without von : across from, facing [+ dative]; without von : in comparison with
+ihm — him [dative]
+Ihnen — you [dative; formal: sing. + pl.]
+ihnen — them [dative]
+konstant — steady/steadily, constant(ly)
+mir — me [dative]
+mit — with [+ dative]
+nach — after; to, toward (a city/country) ; according to [+ dative]
+die Natur — nature
+die Richtung [die Richtungen] — direction
+ruhig — quiet, peaceful, calm
+seit — since, for [+ time unit] [+ dative]
+die Umwelt [die Umwelten [rare]] — environment
+von — of, from; by: ein Buch von … a book by ... [+ dative]
+der Wald [die Wälder] — forest
+der Wind [die Winde] — wind
+wohl — [adv.] probably; [adj.] well, good
+zu — to [+ dative]; also in idioms: zu Hause / zum [Frühstück] / zum Geburtstag
+zu — too
+antworten [antwortete | geantwortet] — to answer (a person) [+ dative]; to answer a question: eine Frage beantworten
+an•schauen [an•schaute | angeschaut] — to view, look at, examine (visually)
+der Berg [die Berge] — mountain
+brechen [bricht | brach | gebrochen] — to break
+erklären [erklärte | erklärt] — to explain; to declare
+das Fenster [die Fenster] — window
+gefallen [gefällt | gefiel | gefallen] — to be pleasing (to) [+ dative]
+helfen [hilft | half | geholfen] — to help [+ dative]
+passieren [passierte | ist passiert] — to happen
+planen [plante | geplant] — to plan
+die Polizei — the police (i.e., the organization)
+die Reise [die Reisen] — trip
+russisch — Russian [adjective]
+schlagen [schlägt | schlug | geschlagen] — to beat, hit
+sitzen [saß | gesessen] — to sit, be sitting
+sogar — actually, as a matter of fact; sogar ich … even I ...
+stehen [stand | gestanden] — to stand, be standing
+der Zug [die Züge] — train
+öffnen [öffnete | geöffnet] — to open
+
+-- Kapitel 6: Heimat --
+(das) Bayern — Bavaria
+besonder- — particular, special
+dar•stellen [dar•stellte | dargestellt] — to depict, illustrate, represent
+egal — indifferent, irrelevant; Es ist (mir) egal! It doesn't matter (to me)!
+falsch — wrong, incorrect, false
+fremd — strange, unfamiliar; foreign
+geboren — born [past participle of gebären ]
+die Gesellschaft [Gesellschaften] — society
+die Idee [die Ideen] — idea
+der Kontakt [die Kontakte] — contact
+können [kann | konnte | gekonnt] — can, to be able (to)
+müssen [muss | musste | gemusst] — must, to have (to)
+der Ort [die Orte] — place, locale, spot
+passen [passte | gepasst] — to fit; match
+richtig — right, correct(ly)
+die Rolle [die Rollen] — role
+sozusagen — quasi, sort of; so to speak/say
+die Tabelle [die Tabellen] — table, chart, spreadsheet
+wollen [will | wollte | gewollt] — to want (to)
+der Baum [die Bäume] — tree
+beschreiben [beschrieb | beschrieben] — to describe
+das Bett [die Betten] — bed
+der Boden [die Böden] — floor; soil, earth, ground
+dürfen [darf | durfte | gedurft [rare]] — to be allowed (to)
+eigen- — (one's) own, private
+das Gebäude [die Gebäude] — building
+kaum — hardly, barely
+die Kunst [die Künste] — art
+möchte — would like (to)
+die Nähe — vicinity; closeness
+persönlich — personal(ly)
+der Platz [die Plätze] — place, space, room; seat
+privat — private(ly)
+die Qualität [Die Qualitäten] — quality
+die Seite [die Seiten] — side; page
+sollen [sollte | gesollt [rare]] — to be supposed (to), should
+die Wand [die Wände] — (interior) wall
+die Wohnung [die Wohnungen] — apartment
+zeigen [zeigte | gezeigt] — to show
+außerdem — besides that, in addition to that
+die Bevölkerung [die Bevölkerungen] — population
+das Blut — blood
+deshalb — therefore, for that reason, that’s why
+diskutieren [diskutierte | diskutiert] — to discuss
+das Ende [die Enden] — end, ending
+der Film [die Filme] — film, movie
+früher — earlier, former(ly)
+gefährlich — dangerous
+das Jahrzehnt [die Jahrzehnte] — decade
+leider — unfortunately
+negativ — negative(ly)
+positiv — positive(ly)
+die Reaktion [die Reaktionen] — reaction, response
+reden [redete | geredet] — to talk, speak
+der Sieg [die Siege] — victory
+teilweise — partially, in part
+verlassen [verlässt | verließ | verlassen] — to leave [+ direct object]
+das Volk [die Völker] — people group, nation
+die Wahrheit [die Wahrheiten] — truth
+wiederholen [wiederholte | wiederholt] — to repeat
+die Angst [die Ängste] — fear, anxiety
+das Ausland — abroad, overseas [collective noun]
+bald — soon
+bisher — up to now, so far, as yet
+dunkel — dark
+die Erfahrung [die Erfahrungen] — experience
+erkennen [erkannte | erkannt] — to recognize
+erst — not until [+ time element]
+gleichzeitig — at the same time, simultaneous(ly)
+das Herz [die Herzen] — heart [dative sing.: Herzen ]
+der Job [die Jobs] — job, work
+das Leben — life
+leer — empty
+leiden [litt | gelitten] — to suffer
+die Million [die Millionen] — million
+nach•denken [nach•dachte | nachgedacht] — to contemplate, think, reflect [+ über (A) about, on]
+politisch — political(ly)
+verbessern [verbesserte | verbessert] — to improve, enhance
+verlieren [verlor | verloren] — to lose
+weg — gone (adj.); away (adv.)
+wissen [weiß | wusste | gewusst] — to know (information)
+zwar — admittedly, to be sure [+ "aber …"]; indeed, in fact
+
+-- Kapitel 7: Sportsachen --
+ab•nehmen [abnimmt | ab•nahm | abgenommen] — to decrease, decline; to lose weight
+aktiv — active(ly)
+an — on (vertical) [+ acc./dat.]
+der Arm [die Arme] — arm
+auf — on (horizontal) [+ acc./dat.]
+das Bein [die Beine] — leg
+der Fuß [die Füße] — foot; zu Fuß gehen to walk
+hinter — behind [+ acc./dat.]
+hängen [hängte | gehängt] — to hang [+ direct object]
+hängen [hing | gehangen] — to be hanging
+in — in [+ dat.]; into [+ acc.]
+die Kraft [die Kräfte] — power, strength
+der Körper [die Körper] — body
+legen [legte | gelegt] — to lay [+ direct object]
+neben — next to [+ acc./dat.]
+regelmäßig — regular(ly)
+der Rücken [die Rücken] — back, rear
+die Schulter [die Schultern] — shoulder
+das Spiel [die Spiele] — game
+der Sport [die Sportarten] — sport(s)
+stellen [stellte | gestellt] — to place, put, pose
+treiben [trieb | getrieben] — to float; to drive, propel; with sport: to engage in
+täglich — daily
+unter — under [+ acc./dat.]; among: unter Freunden among friends
+vor — in front of [+ acc./dat.]; ago: vor einem Jahr one year ago
+über — above, over [+ acc./dat.]; about [+ acc.]
+(sich) fühlen [fühlte | gefühlt] — to feel: mental, physical and emotional perception
+der Bund [die Bünde] — association, alliance; Bundesrepublik Deutschland Federal Republic of Germany
+die Energie [die Energien] — energy
+entscheiden [entschied | entschieden] — to decide; (sich) entscheiden to make a choice, make up one's mind
+entstehen [entstand | ist entstanden] — to emerge, arise
+erfolgreich — successful(ly)
+finanziell — financial(ly)
+die Freizeit — leisure time
+der Fußball [( referring to soccer balls: -bälle)] — soccer; soccer ball
+fördern [förderte | gefördert] — to support, promote (often financially)
+gewinnen [gewann | gewonnen] — to win
+die Hilfe [die Hilfen] — help, aid
+hoch — high(ly), tall [with adj. endings: hoh- ]
+die (pl.) Kosten [plural only] — costs
+leisten [leistete | geleistet] — to achieve, accomplish; (sich) [etwas] leisten to afford, to have enough money [for something]
+das Mitglied [die Mitglieder] — member
+sich — [reflexive pronoun] yourself (formal) , himself, herself, itself, themselves
+das Team [die Teams] — team
+der Trainer [die Trainer] — coach (m.)
+die Trainerin [die Trainerinnen] — coach (f.)
+der Verein [die Vereine] — club, association, society
+verletzen [verletzte | verletzt] — to injure
+wählen [wählte | gewählt] — to choose, select; to elect, vote for
+(sich) erinnern [erinnerte | erinnert] — [+ an (acc.)] to remember
+der Beruf [die Berufe] — occupation, profession
+beschäftigen [beschäftigte | beschäftigt] — to engage, occupy, employ
+der Dezember — December
+erinnern [erinnerte | erinnert] — to remind [+ an (acc.) of]
+das Feld [die Felder] — field
+freuen [freute | gefreut] — to please, to make happy; (sich) freuen auf [acc.] to look forward to; (sich) freuen über [acc.] to be happy about
+das Geschäft [die Geschäfte] — business; shop, store
+handeln [handelte | gehandelt] — to act; to deal, trade; handeln + von to be about, deal with
+die Hälfte [die Hälften] — half
+interessieren [interessierte | interessiert] — to interest; (sich) interessieren + für to be interested in
+der Januar — January
+die Mannschaft [die Mannschaften] — team, crew
+die (pl.) Medien [plural only] — media
+der/das Meter [die Meter] — meter
+der Oktober — October
+plötzlich — suddenly
+die Saison [die Saisons] — season (sports; tourist; hunting); cf. die Jahreszeit season of the year
+der September — September
+setzen [setzte | gesetzt] — to set [+ direct object]; (sich) setzen to sit down
+der Spieler [die Spieler] — player (m.)
+die Spielerin [die Spielerinnen] — player (f.)
+das Tor [die Tore] — [soccer] goal
+verdienen [verdiente | verdient] — to earn; to deserve
+der Vertrag [die Verträge] — contract
+warten [wartete | gewartet] — to wait [+ auf (acc.) for]
+werfen [wirft | warf | geworfen] — to throw
+das Auge [die Augen] — eye
+bereits — already [ more formal than schon ]
+daran — on that/ it (vertical), …
+darauf — on that/it (horizontal), …
+daraus — out of it, …
+darin — in it, …
+darum — therefore
+darunter — among them; under it/them
+davon — from it, …
+dazu — to it, to that, …; in addition, additionally
+die Ferse [die Fersen] — heel
+der Finger [die Finger] — finger
+gründen [gründete | gegründet] — to found, establish, set up
+die Hand [die Hände] — hand
+heben [hob | gehoben] — to raise, lift
+der Kampf [die Kämpfe] — fight, battle
+der Kopf [die Köpfe] — head
+der Mund [die Münder] — mouth
+die Nase [die Nasen] — nose
+das Ohr [die Ohren] — ear
+der Plan [die Pläne] — plan
+die Regierung [die Regierungen] — government
+der Sommer [die Sommer] — summer
+die Welt [die Welten] — world
+der Winter — winter

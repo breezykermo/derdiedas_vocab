@@ -1,0 +1,250 @@
+DER | DIE | DAS — KAPITEL 1: SMALLTALK
+Podcast source for NotebookLM
+
+HOW TO USE: add this whole file as a source in NotebookLM ("Copied text"), then
+open Audio Overview → Customize and paste:
+  Follow the PRODUCTION BRIEF at the top of the source exactly: one host is the fluent
+  EXPERT, the other the LEARNER who makes mistakes the EXPERT corrects. Kapitel 1 only.
+
+========================================================================
+PRODUCTION BRIEF (instructions for the Audio Overview hosts)
+========================================================================
+
+Audience: absolute beginners (first weeks of German) working through the der|die|das German curriculum. They have just
+finished Kapitel 1 ("Smalltalk") and have studied every earlier chapter.
+
+Format: a 15-20 minute conversation between two hosts:
+- EXPERT: a fluent, near-native German speaker. Patient, warm, precise.
+- LEARNER: a student at exactly this point in the course (end of Kapitel 1). Keen and
+  chatty, but makes the kinds of mistakes real learners make at this stage.
+The episode is a real conversation about the chapter's topics, not a lecture. The
+LEARNER keeps trying to say things in German; the EXPERT keeps the conversation going
+and corrects the LEARNER's German as they go.
+
+How the corrections work (the core of the episode):
+- The LEARNER makes roughly 12-20 mistakes over the episode. Most should target the
+  Kapitel 1 grammar points below; the rest should come from earlier chapters (wrong
+  article/gender, verb endings, plural forms, word order, a vocabulary mix-up).
+  Mistakes must be plausible for this level, never random nonsense.
+- Every mistake gets corrected — none slip past. The EXPERT either recasts it ("Ah, du
+  meinst: ...") or stops briefly to explain the rule in one or two sentences, then gives
+  a correct model sentence.
+- The LEARNER then repeats the corrected sentence and, where it fits, makes a new
+  sentence using the same rule correctly, so the listener hears the right form at least
+  twice for every time they hear the wrong one.
+- Make the mistake and its correction unmistakable to a listener: the EXPERT should say
+  clearly what was wrong (e.g. "Nicht 'der Stadt' — 'die Stadt', Stadt ist feminin").
+- Now and then the EXPERT asks the listener directly: "Did you catch the mistake?
+  Pause and fix it yourself" — then gives the answer.
+- Corrections are kind and encouraging; the LEARNER sometimes self-corrects or
+  asks "Warum?" to prompt an explanation.
+
+Language: Speak roughly half German, half English. Every German sentence should be short (3-8 words), spoken slowly and clearly, and usually followed by an English gloss. Explain grammar in English.
+That level applies to the conversation as a whole; the EXPERT's grammar explanations
+may be in English where the level calls for it.
+
+Hard constraints:
+- German vocabulary: use ONLY words from the vocabulary lists in this source (this
+  chapter's list plus the earlier-chapter list), along with names, numbers, obvious
+  international cognates (Internet, Party, Computer ...) and the small function words
+  (articles, pronouns, und, oder, aber, in, auf ...). If you need a word that is not
+  listed, say it once and immediately explain it.
+- German grammar: correct sentences use ONLY structures from Kapitel 1-1 (see the
+  grammar sections below). Don't introduce tenses, cases or constructions taught later
+  in the course, and don't "correct" the LEARNER into a structure they haven't learned.
+- Always say nouns with their article (der/die/das) the first time they come up, and
+  give the plural when it is listed.
+
+Suggested shape:
+1. Quick welcome: the EXPERT introduces the LEARNER and the chapter theme "Smalltalk"
+   (Themen listed below).
+2. Conversation about the Themen, with many of this chapter's NEW words. The LEARNER
+   talks about their own life and opinions; mistakes and corrections happen naturally.
+3. Grammar focus: the EXPERT sets up situations that force each main Kapitel 1
+   grammar point; the LEARNER struggles, is corrected, and gets it right.
+4. Review: the conversation drifts to topics from earlier chapters so older words and
+   grammar come back (with a few old mistakes corrected again).
+5. Wrap-up: the LEARNER sums up what they learned — the trickiest corrections of the
+   episode and the key new words — and the EXPERT confirms.
+
+========================================================================
+THEMEN OF KAPITEL 1: Smalltalk
+========================================================================
+  1.1  Wie heißt du?
+  1.2  Woher kommst du? Wo wohnst du?
+  1.3  Wie findest du...? Was machst du gern?
+  1.4  Was machst du am Wochenende?
+
+========================================================================
+GRAMMAR FOCUS — KAPITEL 1 (explanations from the course)
+========================================================================
+
+--- Thema 1.1: Wie heißt du? ---
+
+## A. der/die/das
+A. der/die/das So: Why is this program called der | die | das ? Go back to the beginning of Interaktion 1.5 and find the following nouns. What words do you see highlighted in front of them? ____ Mann ____ Königin ____ Männlein Each of these nouns — and every other noun in German — has a grammatical gender indicated by the definite article (the word for the ) associated with it: der for masculine die for feminine das for neuter. And these three words, along with their variations for plural forms and various cases, are the most frequently used words in German. (You’ve probably noticed another important feature of nouns in German: they’re always capitalized, regardless of where they appear in a sentence.) Students often ask: What are the rules for determining if a noun is masculine, feminine or neuter — besides cases of natural gender, like der Mann and die Frau ? Answer: While there are some features that dictate grammatical gender ( das Männlein because of the suffix –lein, for example), there are so many rules (and exceptions to the rules) that it’s ultimately more efficient simply to learn each noun with its grammatical gender as you encounter it. Say the article and the noun out loud together; write them together; use them together as often as possible, until you think of them as a unit. A
+
+## B. Subjects + Verbs: ich / du / Sie
+B. Subjects + Verbs: ich / du / Sie Frau Schmitt, haben Sie viel° Arbeit? — Ja, ich habe viel Arbeit ... ich I du you [familiar; singular] Sie you [formal; singular] B.1 Another basic feature of German is the way verbs change in order to correspond with the sentence subject. This is especially true of the two most frequently used verbs in German, sein (to be) and haben (to have) . Here are the forms you use when referring to yourself (first-person singular) or speaking to another person (second-person singular): sein ich bin I am du bist you (familiar) are Sie sind you (formal) are haben ich habe I have du hast you (familiar) have Sie haben you (formal) have B.1
+B.2 Most other Germans verbs conjugate by using the verb stem — the part of the verb that remains when the final -en is removed — and adding endings that correspond to the subject of the verb. Here are the stems for some of the verbs you’ve encountered so far: arbeiten → arbeit– finden → find– fragen → frag– heißen → heiß– hören → hör– sagen → sag– spielen → spiel– studieren → studier– B.2
+B.3 This is how most verbs conjugate in the present tense for ich / du / Sie : spielen: spiel- ich -e → ich spiel e … du -st → du spiel st … Sie -en → Sie spiel en … A few things to keep in mind when conjugating verbs with du : If the verb stem ends with -t or -d, you add an extra -e- before the -st , making it easier to pronounce: arbeiten: arbeit- du -(e)st → du arbeit est … If the verb stem ends with -s / -ß / -z , you drop the -s from the -st ending: heißen: heiß - du -t → du heiß t … B.3
+
+--- Thema 1.2: Woher kommst du? Wo wohnst du? ---
+
+## C. der|die|das → ein|eine|ein
+C. der|die|das → ein|eine|ein The core vocabulary nouns you’ve encountered so far have been presented with a definite article [English: the ] that indicates their grammatical gender: das Dorf die Frau das Land die Stadt der Student die Studentin das Bild der Mann These nouns haven't been introduced yet, but you should be able to recognize them easily: die Universität der Computer die Party das Auto die Lampe der Film das Problem das Semester der Vater / die Mutter / die Schwester / der Bruder Before continuing, take a few minutes and learn the items in this second list: Say each word out loud (along with its article), and picture what it represents while you're saying it. Cover up the articles and see if you can remember which articles go with which nouns. Like English, German often refers to singular nouns with indefinite articles, using the forms ein and eine [English: a(n) ]. Once you’ve familiarized yourself with the nouns and definite articles above, listen to the phrases in Übung 1.7 and follow the instructions in the exercise. After hearing a few examples you should be able to articulate the rule that determines whether to use ein or eine with a given noun. C
+
+## D. Plural nouns
+D. Plural nouns In German, plural nouns can be recognized by the article used with them and (in most cases) by a change in the noun itself, similar to English. First, the article: All gender distinctions disappear when nouns are in their plural form, so that they all use the definite article die: das Auto (sing.) → die Autos (pl.). Like English, and unlike some other European languages, there is no indefinite plural article in German. In most situations, the absence of an article with a plural noun in English (e.g., I have problems ) is mirrored in German when expressing an indefinite plural noun: Ich habe Probleme . Noun plurals are formed in German by applying one of the following procedures to the singular form, depending on the noun. Here are the categories, using words from the lists in section C above: what happens to the singular noun: how the noun is listed in a dictionary: how the plural noun actually appears: no change der Computer, - das Semester, - die Computer die Semester add umlaut to the stem vowel der Vater, ¨- die Mutter, ¨- die Väter die Mütter add -e or -er der Film, -e das Bild, -er die Filme die Bilder add umlaut, then -e or -er die Stadt, ¨-e das Land, ¨-er die Städte die Länder add -n or -(n)en die Lampe, -n der Student, -en die Studentin, -nen die Lampen die Studenten die Studentinnen add -s die Party, -s das Auto, -s die Partys die Autos D
+
+## E. Subjects + Verbs: er / sie / es / sie (pl.)
+E. Subjects + Verbs: er / sie / es / sie (pl.) er he sie she es it sie they E.1 You’ve learned how to use verbs in connection with yourself ( ich ) and addressing someone you’re talking to ( du/Sie ). Here are the forms used when something or someone else is the subject of the sentence, represented by either a noun or a pronoun. First, with sein and haben : der Computer ist / hat die Stadt ist / hat das Auto ist / hat er ist / hat sie ist / hat es ist / hat die Computer sind / haben die Städte sind / haben die Autos sind / haben sie sind / haben sie sind / haben sie sind / haben zum Beispiel° (z.B.): Der Computer ist kaputt. Die Städte sind groß. Das ist absurd! Er hat ein Problem. Sie haben ein kleines Auto. Das Projekt hat Potenzial. The computer is broken. The cities are big. That's absurd! He has a problem. They have a small car. The project has potential. Be careful: sie can mean either she or they , so that the verb form is the only way to distinguish between the two: ... sie hat eine Frage. ... sie haben eine Frage. ... she has a question. ... they have a question. When plural sie is capitalized at the beginning of a sentence, it is identical to you (formal), so that only the context can tell you which meaning it takes. Sie haben zu viel Arbeit. You/They have too much work. E.1
+E.2 Most German verbs simply add -t (singular) or -en (plural) to the verb stem for third-person subjects: der Student die Universität das Auto er sie es [stem] + -t → kommt wohnt heißt spielt studiert die Studenten die Universitäten die Autos sie [stem] + -en → kommen wohnen heißen spielen studieren Wie heißt die Frau? What's the woman's name? Sie heißt Raghad. Her name is Raghad. Woher kommt sie? Where does she come from? Sie kommt aus Syrien. She's from Syria. Aber sie wohnt jetzt in Berlin. But now she lives in Berlin. Sie ist Studentin — sie studiert Informatik an der Freien Universität. She's a student — she's studying computer science at the Free University. [Klicken Sie hier für einen Artikel über Raghad.] As with du , verbs with stems ending in -t or -d (e.g., arbeit en / find en) insert an -e- between the stem and the -t : sie arbeit et / sie find et Wie heißen sie? What are their names? Das ist Familie Stäbler — Silvia, Sophie, Max und Lars. That's the Stäbler family — Silvia, Sophie, Max and Lars. Wo wohnen sie? Where do they live?? Sie kommen aus Köln, aber jetzt wohnen sie in Stuttgart, wo sie arbeiten . They're from Cologne, but now they live in Stuttgart, where they work. E.2
+
+--- Thema 1.3: Wie findest du...? Was machst du gern? ---
+
+## F. Pronouns and gender
+F. Pronouns and gender Every noun in German is assigned a grammatical gender ( der | die | das ), and these gender distinctions apply as well to the corresponding pronouns ( er | sie | es ). F.1 English speakers intuitively make the connection between natural gender and these pronouns: Der Student? → Er ist … The (male) student? He is … Die Professorin? → Sie ist … The (female) professor? She is … But German makes this connection for inanimate objects as well, using er | sie | es to stand in for masculine, feminine and neuter nouns, where English simply uses it: Der Film? → Er ist … The film? It is … Die Aufgabe? → Sie ist … The assignment? It is … Das Buch? → Es ist … The book? It is … Since plural nouns show no gender distinctions, there is only one pronoun for they: sie die Studenten the students die Städte the cities die Filme the films die Bücher the books → und sie sind … and they are … There is considerable debate in Germany, Austria and Switzerland surrounding the use of gendered pronouns and masculine plural forms meant to refer to everyone (e.g., Studenten in the list above). If you're interested, you can find a short introductory NPR article here — and your instructor can point you to more resources. F.1
+F.2 Some languages (such as Spanish) delete subject pronouns once the subject has been established, rather than repeating it in subsequent clauses or sentences. But in most cases, German requires a subject — either a pronoun or a noun — in every clause or sentence. Der Mann heißt Alexander. The man’s name is Alexander. Er ist 30 Jahre alt. He’s 30 years old. Er wohnt in Berlin. He lives in Berlin. Er spielt Fußball jeden Sonntag. He plays soccer every Sunday. That said, it’s certainly possible for a subject to be connected with more than one verb in an extended clause: Er ist 30 Jahre alt, wohnt in Berlin und spielt Fußball. But if the information is divided into separate clauses or sentences, each usually has a noun or pronoun subject. F.2
+
+## G. Subjects + Verbs: wir / ihr / Sie
+G. Subjects + Verbs: wir / ihr / Sie wir we ihr you (all) [familiar] Sie you (all) [formal] G.1 Below are the verb forms of sein and haben that you use when talking about a group that includes you ( wir ); when addressing a group of people with whom you use the familiar form for you ( ihr ); and when addressing a group of people with whom you use the formal form for you ( Sie ): sein haben wir we sind haben ihr you (all) [familiar] seid habt Sie you (all) [formal] sind haben NB: Sie is the formal form for you when addressing either one person or several people, and the verb endings are identical for both situations. This means that only the context — not the grammatical form — can tell you if Sie is plural or singular in a given sentence. G.1
+G.2. For most other verbs, the forms used with wir, ihr and Sie are highly predictable — just the stem plus the appropriate ending. (Notice that the endings are identical for wir and Sie .) spiel- find- wir [stem] + en spielen finden ihr [stem] + t spielt findet Sie [stem] + en spielen finden As you’ve learned for other forms, when the verb stem ends with -d or -t , an -e- is inserted before the -t : Wie find e t ihr das Essen hier? What do you (all) think of the food here? Ihr arbeit e t zu viel! You (all) work too much! G.2
+
+## H. I like ... / like to ...
+H. I like ... / like to ... To express an opinion, it's helpful to know how to say I like that or I like doing that. Here are several options for doing so; you’ll learn more in the chapters to come. H.1 To say you like (or don’t like ) something or someone, as represented by a noun or a pronoun, you can use these expressions: Ich finde [X] + [Adjektiv]. Ich finde den Film »Dumm und Dümmer« fantastisch! Spinnst du? ° Ich finde »Dumm und Dümmer« nur dumm. [X] gefällt mir. [literally: ... is pleasing to me .] Der Film gefällt mir. [X] gefällt mir nicht. [literally: ... is not pleasing to me .] Was? Also, er gefällt mir gar nicht. If [X] is plural, the verb takes the plural form gefallen : Meine Kurse gefallen mir! H.1
+H.2 To express the idea of liking to do something , e.g., I like to play the piano, German uses the adverb gern [literally: gladly ] after the verb. You’ll learn more about this later, but you can form simple sentences with it now: arbeiten gern schreiben gern sein gern gehen gern Ich arbeite gern . Schreibst du gern ? Er ist gern zu Hause. Wir gehen gern in die Stadt. I like to work. Do you like to write? He likes to be at home. We like to go into the city. To say you don’t like doing something, use nicht gern. (You can intensify the phrase by adding gar : Ich mache diese Aufgaben gar nicht gern !) arbeiten nicht gern schreiben nicht gern sein nicht gern gehen nicht gern Ich arbeite gar nicht gern . Schreibst du nicht gern ? Er ist nicht gern zu Hause. Wir gehen nicht gern in die Stadt. I really don’t like to work. Don’t you like to write? He doesn’t like to be at home. We don’t like to go into the city. H.2
+
+--- Thema 1.4: Was machst du am Wochenende? ---
+
+## I. Time/calendar expressions
+I. Time/calendar expressions I.1 To say that something is happening on Monday or in the afternoon , you use the contracted prepositional phrase am ( an + dem on the ) along with the day of the week or the part of the day. (Exception: in der Nacht at night ) am Montag Dienstag Mittwoch Donnerstag Freitag Samstag [ southern and western Germany, Austria, and Switzerland ] Sonnabend [ northern Germany ] Sonntag am Morgen° Nachmittag° Abend in der Nacht° Am Dienstag haben wir ein Quiz in Mathe. On Tuesday we’re having a quiz in math. Und dann am Nachmittag spiele ich Hockey. And then in the afternoon I’m playing hockey. Depending on the context, these references can be general or specific. Like English, German allows you to add an –s to any of these elements, including Nacht , for general rather than specific time references, as in Mondays I like to… Montags habe ich einen Kurs um 10 Uhr. Mondays / On Mondays I have a course at 10:00 AM. Ich gehe freitags gern mit Freunden ins Café. Fridays / On Fridays I like to go with friends to a café. Morgens habe ich Kurse, nachmittags schlafe ich, und nachts arbeite ich. In the morning I have courses, in the afternoon I sleep, and at night I work. I.1
+I.2 To refer to specific parts of a day, the day and time segment are joined to form one word: Montag : Montag morgen Montag nachmittag Montag abend Am is also used with these compounds: Am Freitagabend spielt das Orchester. On Friday evening, the orchestra is playing. Sie kommt am Montagmorgen . She’s coming on Monday morning. Er arbeitet nicht am Sonntagnachmittag . He doesn’t work on Sunday afternoon. With heute , however, the two elements remain separated: Heute Morgen habe ich eine Prüfung. This morning (lit.: today in the morning) I have a test. Heute Nachmittag arbeite ich im Labor. This afternoon (lit.: today in the afternoon) I'm working in the laboratory. Aber heute Abend gehe ich in ein Konzert. But tonight (lit.: today in the evening) I’m going to a concert. NB: Nacht isn’t quite the same as night , which in English can refer either to the time between dinner and bedtime (as in Friday Night Lights ), or to the time between going to bed and getting up. German uses Abend for the former and Nacht for the latter. I.2
+
+## J. Subjects + Verbs: Summary
+J. Subjects + Verbs: Summary In this chapter you've worked with three kinds of sentence subjects: first-person : the speaker, either alone (I) or as part of a group (we) second-person : addressing one person ( you: familiar and formal), or a group of people ( you all: familiar and formal) third-person : referring to someone or something else, singular or plural, represented by a noun (the weekend; my friends) or a pronoun (it; they) J.1 These subjects correlate with endings that are added to the verb stem: machen → mach- singular plural first-person ich mach e wir mach en second-person du mach st [familiar] Sie mach en [formal] ihr mach t [familiar] Sie mach en [formal] third-person er/der Mann mach t sie/die Frau mach t es/das Kind mach t sie/die Leute mach en When a verb stem ends in –t or –d , the -t and -st endings become -et and -est : arbeiten → arbeit- / finden → find- singular plural first-person ich arbeite wir arbeiten second-person du arbeit est [familiar] Sie arbeiten [formal] ihr arbeit et [familiar] Sie arbeiten [formal] third-person er/der Mann arbeit et sie/die Frau arbeit et es/das Kind arbeit et sie/die Leute arbeiten J.1
+J.2 For sein and haben — the two most commonly used verbs in German — the present-tense forms are irregular: sein singular plural first-person ich bin wir sind second-person du bist [familiar] Sie sind [formal] ihr seid [familiar] Sie sind [formal] third-person er/der Computer ist sie/die Tür ist es/das Handy ist sie/die Leute sind haben singular plural first-person ich habe wir haben second-person du hast [familiar] Sie haben [formal] ihr habt [familiar] Sie haben [formal] third-person er/der Computer hat sie/die Tür hat es/das Handy hat sie/die Leute haben J.2
+
+========================================================================
+NEW VOCABULARY — KAPITEL 1 (feature these)
+Format: German [forms] — English  |  example sentence
+========================================================================
+
+-- Thema 1.1 --
+die Antwort [die Antworten] — answer  |  Ist das die korrekte Antwort ?
+arbeiten [arbeitete | gearbeitet] — to work  |  Wo arbeitest du im Sommer?
+auch — also; auch wenn even if  |  Ich lese gern Shakespeare. Du auch ?
+die Dame [Damen] — lady [ used mostly in formal contexts: Meine Damen und Herren, … Ladies and gentlemen ... ]
+der die das — the [masculine; feminine/plural; neuter]  |  Der Mann, die Frau und das Kind heißen alle Taylor. Komisch, oder?
+du — you [familiar; singular]  |  Wie findest du das Buch?
+finden [fand | gefunden] — to find  |  Ich finde Forbes gar nicht so schlecht.
+die Frage [die Fragen] — question  |  Haben Sie eine Frage ?
+fragen [fragte | gefragt] — to ask  |  Warum fragst du so oft?
+die Frau [die Frauen] — woman; lady; title: Ms./Miss/Mrs.; wife  |  Die Frau wohnt in Berlin. / Frau Stäbler wohnt in Leipzig.
+gut — adj.: good; adv.: well  |  Das Essen ist gut , aber der Service ist ganz schlecht.
+haben [hat | hatte | gehabt] — to have  |  Wie viele Kurse hast du dieses Semester?
+hallo — Hello / Hi Hallo allerseits! Hello everybody! [ lit. : Hello on all sides]
+heißen [hieß | geheißen] — to be named, to be called  |  Ich heiße Lukas. Und wie heißt du?
+der Herr [Herren] — title: Mr.; gentleman; sir
+hören [hörte | gehört] — to hear; zu•hören to listen to [+ Dat.]
+ich — I  |  Ich finde das wunderbar!
+immer — always  |  Das Wochenende ist immer zu kurz.
+ja — yes  |  Ja , ich wohne hier. Warum fragst du?
+der Mann [die Männer] — man; husband  |  Drei Männer gehen in eine Bar. Der erste Mann sagt...
+nein — no  |  Heißt du Fritz? " Nein , ich heiße Rumpelstilzchin."
+nicht — not  |  Das ist nicht Anna – das ist Lena, meine Freundin.
+oder — or; question tag: ..., isn’t it? didn’t we? aren’t you?  |  Das Programm beginnt heute oder morgen.
+sagen [sagte | gesagt] — to say  |  Er sagt , er macht das heute, aber ich bin skeptisch.
+sehr — very  |  Berlin ist sehr groß und sehr interessant.
+sein [ist | war | ist gewesen] — to be  |  Sebastian, wo bist du? – Ich bin zu Hause. Wir sind alle hier.
+Sie — you [formal; singular and plural]  |  Was machen Sie am Wochenende, Frau Müller?
+spielen [spielte | gespielt] — to play (a game or an instrument); to act, perform  |  Er ist sehr musikalisch – er spielt Cello und Klavier.
+die Struktur [die Strukturen] — structure  |  Die Strukturen sind komplex.
+der Student [die Studenten] — (male) university student ["N"-noun]  |  Wie viele Studenten studieren Mathe?
+die Studentin [die Studentinnen] — (female) university student  |  Wie viele Studentinnen studieren Mathe?
+studieren [studierte | studiert] — to engage in a course of study; to be a student at a university  |  Markus studiert Medizin, und ich studiere Linguistik.
+und — and  |  Andy und ich gehen in die Stadt – kommst du mit?
+verstehen [verstand | verstanden] — to understand
+was — what  |  Was findest du gut hier?
+wichtig — important
+wie — how [question word]; like, as wie immer
+
+-- Thema 1.2 --
+aber — but; however  |  Der Film ist lang, aber interessant.
+alt — old  |  Wie alt bist du?
+das Bild [die Bilder] — picture  |  Hast du viele Bilder auf Facebok?
+da — there  |  Hallo, Mama! Ist Papa da ?
+das Dorf [die Dörfer] — village  |  Altheim ist ein Dorf mit 1.800 Menschen.
+eins zwei drei...zwölf — 1, 2, 3...12
+er — he; [ masculine noun: it]  |  Er heißt Timm und kommt aus Hamburg.
+es — it  |  Ich finde es sehr schön heute.
+gehen [ging | ist gegangen] — to go, walk  |  Ich gehe oft joggen.
+groß — big, tall  |  NYC ist groß , und das gefällt mir.
+hier — here  |  Was machst du hier ?
+jetzt — now  |  Kommst er jetzt , oder kommt er später?
+klein — small, short  |  Ist der Campus klein oder groß?
+kommen [kam | ist gekommen] — to come  |  Viele Touristen kommen im Sommer nach Princeton. Sehr viele.
+das Land [die Länder] — country  |  Wie heißen die Länder in der Euro-Zone?
+lernen [lernte | gelernt] — to learn, to study (for a class or test)  |  Wir lernen jetzt Deutsch.
+Leute [plural only] — people
+machen [machte | gemacht] — to do, make  |  Was machst du da? – Ich mache ein Sandwich.
+nur — only  |  Wir haben nur zwei Minuten!
+schön — nice(ly), beautiful(ly)  |  Es ist so schön heute! Gehst du joggen?
+sie — she; [ feminine noun: it]  |  Sie heißt Jasmin und kommt aus Hannover.
+sie — they  |  Die zwei Studenten? Sie wohnen in Rocky, nicht in Mathey.
+die Stadt [die Städte] — city  |  Die Stadt ist westlich von Berlin und nördlich von München.
+tausend [(die) Tausende] — thousand
+viele — many, a lot [plural]  |  Du hast viele Bücher!
+wo — where  |  Wo ist mein iPad?
+woher — from where? where from?  |  Woher kommen Sie, Herr Götze?
+wohnen [wohnte | gewohnt] — to live, reside  |  Wo wohnst du? – Jetzt in Mathey, aber nächstes Jahr in Brown.
+
+-- Thema 1.3 --
+die Arbeit [die Arbeiten] — work; research paper  |  Hast du viel Arbeit ?
+die Aufgabe [die Aufgaben] — assignment  |  Ich habe zu viele Aufgaben für nächste Woche.
+das Buch [die Bücher] — book  |  Kaufst du deine Bücher bei Amazon?
+ein bisschen — a little  |  Ich esse ein bisschen Schokolade, bevor ich arbeite.
+das Essen [rarely plural] — food; eating  |  Wie findest du das Essen bei McDonalds?
+etwas — something; somewhat; some (sing.), a little  |  Ich finde etwas zu essen in Frist.
+ganz — really, quite; total, whole  |  Ich finde das Buch ganz interessant.
+gar nicht — not at all  |  Die Musik gefällt mir gar nicht .
+gern — with a verb: to like to ... [lit.: gladly]  |  Arbeitest du gern in Firestone? Ich nicht.
+ihr — you all [familiar; plural]  |  Hi, Lea – Hi, Dennis! Was macht ihr hier?
+interessant — interesting  |  Manchmal ist der Professor interessant , aber nicht immer.
+der Kurs [die Kurse] — [academic] course
+kurz — short, brief  |  Ist der Film lang oder kurz ?
+lang — long  |  Die Woche ist zu lang , und das Wochenende ist zu kurz.
+lesen [liest | las | gelesen] — to read  |  Welche Bücher lesen wir in diesem Kurs?
+meinen [meinte | gemeint] — to mean; to have an opinion  |  Ich verstehe nicht, was du meinst .
+die Prüfung [die Prüfungen] — exam, test
+schlecht — bad(ly)  |  Ja, ich spiele Tennis – aber schlecht .
+schreiben [schrieb | geschrieben] — to write  |  Ich schreibe am Wochenende eine Arbeit für Philosophie – über Platon.
+die Universität [die Universitäten] — university [ informal: Uni ]  |  An welcher Uni studiert ihr?
+viel — much, a lot [singular]  |  Hast du viel Arbeit jetzt?
+wir — we  |  Wir kommen aus Stuttgart, aber wir wohnen jetzt in Berlin.
+das Wort [die Wörter] — word  |  Ist das ein deutsches oder ein englisches Wort ?
+
+-- Thema 1.4 --
+der Abend [die Abende] — evening  |  Die Party ist heute Abend !
+der Dienstag [die Dienstage] — Tuesday  |  Die Prüfung ist am Dienstag .
+der Donnerstag [die Donnerstage] — Thursday
+der Freitag [die Freitage] — Friday
+genug — enough
+gestern — yesterday
+heute — today  |  Heute ist Montag, nicht Sonntag. Schade˚.
+los — Was ist los? What's happening? or: What's wrong?; nicht viel los not much happening; etwas los werden to get rid of something
+die Minute [die Minuten] — minute  |  Schnell! Wir haben nur zwei Minuten !
+der Mittwoch [die Mittwoche] — Wednesday  |  Ich habe nur zwei Kurse am Dienstag, aber vier am Mittwoch .
+der Montag [die Montage] — Monday  |  Warum kommt Montag so schnell?
+morgen — tomorrow  |  Ich mache das morgen , nicht heute.
+na — so? well?
+der Samstag [die Samstage] — Saturday
+der Sonntag [die Sonntage] — Sunday  |  Ich arbeite gar nicht gern am Sonntag .
+spät später — late / later  |  Es ist spät , und ich bin müde.
+die Stunde [die Stunden] — hour  |  Wir haben drei Stunden für das Examen, oder?
+der Tag [die Tage] — day  |  Zwei Tage , und dann ist das Wochenende da!
+die Temperatur [die Temperaturen] — temperature
+die Uhr [die Uhren] — clock; fünf Uhr five o'clock  |  Meine Uhr ist kaputt.
+die Woche [die Wochen] — week  |  Eine Woche hat sieben Tage.
+das Wochenende [die Wochenenden] — weekend  |  An Wochenenden sind wir zu Hause.
+die Zeit [die Zeiten] — time  |  Hast du ein bisschen Zeit für mich?
