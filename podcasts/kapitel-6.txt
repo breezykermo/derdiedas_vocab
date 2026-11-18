@@ -5,6 +5,8 @@ HOW TO USE: add this whole file as a source in NotebookLM ("Copied text"), then
 open Audio Overview → Customize and paste:
   Follow the PRODUCTION BRIEF at the top of the source exactly: one host is the fluent
   EXPERT, the other the LEARNER who makes mistakes the EXPERT corrects. Kapitel 6 only.
+  Speak German throughout; English only as a last resort.
+Also set NotebookLM's output language to Deutsch, if your version has that setting.
 
 ========================================================================
 PRODUCTION BRIEF (instructions for the Audio Overview hosts)
@@ -33,22 +35,34 @@ How the corrections work (the core of the episode):
   sentence using the same rule correctly, so the listener hears the right form at least
   twice for every time they hear the wrong one.
 - Make the mistake and its correction unmistakable to a listener: the EXPERT should say
-  clearly what was wrong (e.g. "Nicht 'der Stadt' — 'die Stadt', Stadt ist feminin").
-- Now and then the EXPERT asks the listener directly: "Did you catch the mistake?
-  Pause and fix it yourself" — then gives the answer.
+  clearly what was wrong (e.g. "Nicht 'der Stadt' — 'die Stadt'. Stadt ist feminin.").
+- Now and then the EXPERT asks the listener directly: "Hast du den Fehler gehört?
+  Mach eine Pause und korrigiere ihn!" — then gives the answer.
 - Corrections are kind and encouraging; the LEARNER sometimes self-corrects or
   asks "Warum?" to prompt an explanation.
 
-Language: Speak mostly German (about 70%) in short, simple sentences. Use English for grammar explanations and to gloss new or tricky words, but let familiar German sentences stand without translation.
-That level applies to the conversation as a whole; the EXPERT's grammar explanations
-may be in English where the level calls for it.
+Language — IMMERSION: the episode is in German. This is for listening comprehension,
+so the listener should hear as much German as possible.
+- Speak only German. No English at all.
+- Make meaning clear IN GERMAN: slow down, repeat, rephrase with known words, give
+  examples and contrasts, and have the LEARNER check understanding in German
+  ("Was bedeutet ...?", "Also ... heißt ...?").
+- Explain grammar in simple German by SHOWING: contrast the wrong and the right form,
+  then give several more correct examples. Grammar terms that are close to English are
+  fine: Nominativ, Akkusativ, Dativ, Genitiv, maskulin, feminin, neutral, Singular,
+  Plural, Artikel, Verb, Endung, Präsens, Perfekt, Präteritum, Konjunktiv, Passiv.
+- Never translate whole sentences into English and never switch to English for a whole
+  explanation.
+- The grammar explanations and glosses further down this source are in English for
+  YOUR reference only. Don't read or quote them; teach those points in German.
 
 Hard constraints:
 - German vocabulary: use ONLY words from the vocabulary lists in this source (this
   chapter's list plus the earlier-chapter list), along with names, numbers, obvious
   international cognates (Internet, Party, Computer ...) and the small function words
   (articles, pronouns, und, oder, aber, in, auf ...). If you need a word that is not
-  listed, say it once and immediately explain it.
+  listed, explain it once in simple German (or with a one-word English gloss if the
+  German explanation would be too hard).
 - German grammar: correct sentences use ONLY structures from Kapitel 1-6 (see the
   grammar sections below). Don't introduce tenses, cases or constructions taught later
   in the course, and don't "correct" the LEARNER into a structure they haven't learned.
